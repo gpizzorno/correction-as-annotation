@@ -204,11 +204,11 @@ def pos_distribution() -> Path:
         )
     frame = pd.DataFrame(rows, index=[TREEBANK_NAMES[c] for c in order]) / 100.0
 
-    apply_style(profile='print', figsize=(TEXT_WIDTH_IN, 2.6))
+    apply_style(profile='print', figsize=(TEXT_WIDTH_IN, 3))
     axes = frame.plot(
         kind='barh',
         stacked=True,
-        figsize=(TEXT_WIDTH_IN, 2.6),
+        figsize=(TEXT_WIDTH_IN, 3),
         colormap='tab20c',
         edgecolor='#999999',
         width=0.75,

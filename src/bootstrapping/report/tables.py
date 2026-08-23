@@ -556,8 +556,8 @@ def cross_treebank_performance() -> str:
             'lemmatisation figure to report. \\emph{Best of 5} is the highest of the five treebank '
             'models in each column, which is not the same model in every column, and $\\Delta$ is '
             f"the final model's margin over it. Training sentences and tokens for~\\normalsize{label}\\scriptsize~are "
-            'the pooled corrected sentences, for the baselines we use the size of the treebank the '
-            'model was trained on.'
+            'the pooled corrected sentences, for the baselines, the size of the treebank the '
+            'model was trained on is used.'
         ),
         label='tab:cross-treebank-performance',
         wide=True,
