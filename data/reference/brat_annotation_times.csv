@@ -1,0 +1,10 @@
+seed_dataset,resulting_model_name,annotation_time_minutes
+s1,marseille_s1,525
+s2,marseille_s2,320
+s3,marseille_s3,255
+s4,marseille_s4,190
+s5,marseille_s5,170
+s6,marseille_s6,155
+s7,marseille_s7,150
+s8,marseille_s8,130
+s9,marseille_s9,100
