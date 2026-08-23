@@ -1,0 +1,2042 @@
+# sent_id = 8F70004A-C891-4513-930A-E0A64E162D8B
+# text = Una scala.
+1	Una	una	NUM	m-s---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	2	nummod	2:nummod	start_char=0|end_char=3
+2	scala	scalum	NOUN	n-s---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=4|end_char=9
+3	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=10|end_char=11
+
+# sent_id = 363AA14C-2692-4257-A16A-B873388DC508
+# text = Item una gaveda.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=13|end_char=17
+2	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nsubj	3:nsubj	start_char=18|end_char=21
+3	gaveda	gaueo	VERB	v3spia---	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	start_char=22|end_char=28
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=29|end_char=30
+
+# sent_id = 089AD9DF-38D8-468D-A5E0-01F47EF9CDDC
+# text = Item unum alium smaragdum et aliud saphirum cum virgis aureis.
+1	Item	item	ADV	d--------	_	2	advmod	2:advmod	start_char=32|end_char=36
+2	unum	unus	NUM	m-s---ma-	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	4	nummod	4:nummod	start_char=37|end_char=41
+3	alium	alius	DET	p-s---ma-	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Ind	4	det	4:det	start_char=42|end_char=47
+4	smaragdum	smaragdus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing	0	root	0:root	start_char=48|end_char=57
+5	et	et	CCONJ	c--------	_	6	cc	6:cc	start_char=58|end_char=60
+6	aliud	alius	DET	p-s---nn-	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Ind	4	conj	4:conj	start_char=61|end_char=66
+7	saphirum	saphir	NOUN	n-p---mg-	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Plur	4	nmod	4:nmod	start_char=67|end_char=75
+8	cum	cum	ADP	r--------	AdpType=Prep	9	case	9:case	start_char=76|end_char=79
+9	virgis	uirgo	NOUN	n-p---mb-	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Plur	6	obl	6:obl	start_char=80|end_char=86
+10	aureis	aureus	ADJ	a-p---mbp	Case=Abl|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Plur	9	amod	9:amod	start_char=87|end_char=93
+11	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=94|end_char=95
+
+# sent_id = A418B9B3-6DC9-4EE8-BF6A-FBC150CBA9CE
+# text = Item aliam virgam auream sine lapide.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=97|end_char=101
+2	aliam	alius	DET	p-s---fa-	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Ind	3	det	3:det	start_char=102|end_char=107
+3	virgam	uirgo	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=108|end_char=114
+4	auream	aureus	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	3	amod	3:amod	start_char=115|end_char=121
+5	sine	sine	ADP	r--------	AdpType=Prep	6	case	6:case	start_char=122|end_char=126
+6	lapide	lapis	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurX|Number=Sing	4	obl	4:obl	start_char=127|end_char=133
+7	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=134|end_char=135
+
+# sent_id = 6B3255AE-DF29-4A73-B485-0A68100409F1
+# text = Item quasdam zonas argenteas quarum una erat de seda viridi et alia de sendar.
+1	Item	item	ADV	d--------	_	14	advmod	14:advmod	start_char=137|end_char=141
+2	quasdam	quidam	DET	p-p---fa-	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Plur|PronType=Ind	3	det	3:det	start_char=142|end_char=149
+3	zonas	zona	NOUN	n-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	14	obj	14:obj	start_char=150|end_char=155
+4	argenteas	argentea	NOUN	n-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	3	conj	3:conj	start_char=156|end_char=165
+5	quarum	qui	PRON	p-p---fg-	Case=Gen|Gender=Fem|InflClass=LatPron|Number=Plur|PronType=Rel	6	nmod	6:nmod	start_char=166|end_char=172
+6	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	4	acl:relcl	4:acl:relcl	start_char=173|end_char=176
+7	erat	sum	AUX	v3sri----	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	6:cop	start_char=177|end_char=181
+8	de	de	ADP	r--------	AdpType=Prep	10	case	10:case	start_char=182|end_char=184
+9	seda	sedus	ADJ	a-s---fbp	Case=Abl|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	10	amod	10:amod	start_char=185|end_char=189
+10	viridi	uiride	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurX|Number=Sing	14	obl	14:obl	start_char=190|end_char=196
+11	et	et	CCONJ	c--------	_	12	cc	12:cc	start_char=197|end_char=199
+12	alia	alius	DET	p-p---na-	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Ind	10	conj	10:conj	start_char=200|end_char=204
+13	de	de	ADP	r--------	AdpType=Prep	12	case	12:case	start_char=205|end_char=207
+14	sendar	sendo	VERB	v1ppip---	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	0:root	start_char=208|end_char=214
+15	.	.	PUNCT	u--------	_	14	punct	14:punct	start_char=215|end_char=216
+
+# sent_id = 27B418D0-C4C6-4A60-A6BD-98789D65683C
+# text = Item una garllanda cum grossis margaritis que habebat vi cap de margaritis.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=218|end_char=222
+2	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nsubj	3:nsubj	start_char=223|end_char=226
+3	garllanda	garlo	VERB	v-pfgpnn-	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatA|InflClass[noun]=IndEurO|Number=Plur|Tense=Fut|VerbForm=Gdv|Voice=Pass	0	root	0:root	start_char=227|end_char=236
+4	cum	cum	ADP	r--------	AdpType=Prep	6	case	6:case	start_char=237|end_char=240
+5	grossis	grossis	ADJ	a-p---fbp	Case=Abl|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Plur	6	amod	6:amod	start_char=241|end_char=248
+6	margaritis	margaritum	NOUN	n-p---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Plur	3	obl	3:obl	start_char=249|end_char=259
+7	que	qui	PRON	p-p---fn-	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Plur|PronType=Rel	8	nsubj	8:nsubj	start_char=260|end_char=263
+8	habebat	habeo	VERB	v3sria---	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	acl:relcl	6:acl:relcl	start_char=264|end_char=271
+9	vi	uis	NOUN	n-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurI|Number=Sing	8	obl	8:obl	start_char=272|end_char=274
+10	cap	cap	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	8	obj	8:obj	start_char=275|end_char=278
+11	de	de	ADP	r--------	AdpType=Prep	12	case	12:case	start_char=279|end_char=281
+12	margaritis	margaritum	NOUN	n-p---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Plur	8	obl	8:obl	start_char=282|end_char=292
+13	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=293|end_char=294
+
+# sent_id = 4047DECF-9433-4A46-9ACE-99A758BB075D
+# text = Item aliam gallanda de margaritis.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=296|end_char=300
+2	aliam	alius	DET	p-s---fa-	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Ind	3	nsubj	3:nsubj	start_char=301|end_char=306
+3	gallanda	gallo	VERB	v-sfgpfn-	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Fem|InflClass=LatA|InflClass[noun]=IndEurA|Number=Sing|Tense=Fut|VerbForm=Gdv|Voice=Pass	0	root	0:root	start_char=307|end_char=315
+4	de	de	ADP	r--------	AdpType=Prep	5	case	5:case	start_char=316|end_char=318
+5	margaritis	margaritum	NOUN	n-p---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Plur	3	obl	3:obl	start_char=319|end_char=329
+6	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=330|end_char=331
+
+# sent_id = 4F23FA99-8EF5-4B81-AB88-EA0E5EE938C6
+# text = Item duos pectines de ebore et duo specula de ebore.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=333|end_char=337
+2	duos	duo	NUM	m-p---ma-	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=338|end_char=342
+3	pectines	pectinis	NOUN	n-p---ma-	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Plur	0	root	0:root	start_char=343|end_char=351
+4	de	de	ADP	r--------	AdpType=Prep	5	case	5:case	start_char=352|end_char=354
+5	ebore	ebor	NOUN	n-s---mb-	Case=Abl|Gender=Masc|InflClass=IndEurX|Number=Sing	3	nmod	3:nmod	start_char=355|end_char=360
+6	et	et	CCONJ	c--------	_	8	cc	8:cc	start_char=361|end_char=363
+7	duo	duo	NUM	m-p---na-	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur|NumForm=Word|NumType=Card	8	nummod	8:nummod	start_char=364|end_char=367
+8	specula	specula	NOUN	n-p---na-	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	3	conj	3:conj	start_char=368|end_char=375
+9	de	de	ADP	r--------	AdpType=Prep	10	case	10:case	start_char=376|end_char=378
+10	ebore	ebor	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurX|Number=Sing	8	obl	8:obl	start_char=379|end_char=384
+11	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=385|end_char=386
+
+# sent_id = 8C5C9AA9-FCD8-4A05-8CF0-69E44B80677E
+# text = Item quasdam zonas argenteas quarum una erat de seda viridi et alia de sendar.
+1	Item	item	ADV	d--------	_	14	advmod	14:advmod	start_char=388|end_char=392
+2	quasdam	quidam	DET	p-p---fa-	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Plur|PronType=Ind	3	det	3:det	start_char=393|end_char=400
+3	zonas	zona	NOUN	n-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	14	obj	14:obj	start_char=401|end_char=406
+4	argenteas	argentea	NOUN	n-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	3	conj	3:conj	start_char=407|end_char=416
+5	quarum	qui	PRON	p-p---fg-	Case=Gen|Gender=Fem|InflClass=LatPron|Number=Plur|PronType=Rel	6	nmod	6:nmod	start_char=417|end_char=423
+6	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	4	acl:relcl	4:acl:relcl	start_char=424|end_char=427
+7	erat	sum	AUX	v3sri----	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	6:cop	start_char=428|end_char=432
+8	de	de	ADP	r--------	AdpType=Prep	10	case	10:case	start_char=433|end_char=435
+9	seda	sedus	ADJ	a-s---fbp	Case=Abl|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	10	amod	10:amod	start_char=436|end_char=440
+10	viridi	uiride	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurX|Number=Sing	14	obl	14:obl	start_char=441|end_char=447
+11	et	et	CCONJ	c--------	_	12	cc	12:cc	start_char=448|end_char=450
+12	alia	alius	DET	p-p---na-	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Ind	10	conj	10:conj	start_char=451|end_char=455
+13	de	de	ADP	r--------	AdpType=Prep	12	case	12:case	start_char=456|end_char=458
+14	sendar	sendo	VERB	v1ppip---	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	0:root	start_char=459|end_char=465
+15	.	.	PUNCT	u--------	_	14	punct	14:punct	start_char=466|end_char=467
+
+# sent_id = D4E4FF25-3D95-4353-92E4-63EE0BDEFCA2
+# text = Item quinque banqui.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=469|end_char=473
+2	quinque	quinque	NUM	m-p------	InflClass=Ind|Number=Plur|NumForm=Word|NumType=Card	3	nsubj	3:nsubj	start_char=474|end_char=481
+3	banqui	banqum	VERB	v3ppip---	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	0:root	start_char=482|end_char=488
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=489|end_char=490
+
+# sent_id = 98613850-8212-468C-9FF2-D915C2CEB31F
+# text = Item unum brocum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=492|end_char=496
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=497|end_char=501
+3	brocum	brocus	NOUN	n-s---na-	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	0:root	start_char=502|end_char=508
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=509|end_char=510
+
+# sent_id = D2247CA3-BD88-47E0-B40E-5DC7B65BA2FB
+# text = Item unum brocum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=512|end_char=516
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=517|end_char=521
+3	brocum	brocus	NOUN	n-s---na-	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	0:root	start_char=522|end_char=528
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=529|end_char=530
+
+# sent_id = F730424E-DE85-48EB-ABB6-46DD1793F1A2
+# text = Item unam barram de ferro.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=532|end_char=536
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=537|end_char=541
+3	barram	barra	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=542|end_char=548
+4	de	de	ADP	r--------	AdpType=Prep	5	case	5:case	start_char=549|end_char=551
+5	ferro	ferrum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	3	nmod	3:nmod	start_char=552|end_char=557
+6	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=558|end_char=559
+
+# sent_id = 5A056BBB-231F-4227-BCD5-033952286D78
+# text = Item duas jarras.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=561|end_char=565
+2	duas	duo	NUM	m-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=566|end_char=570
+3	jarras	jarra	NOUN	n-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	0	root	0:root	start_char=571|end_char=577
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=578|end_char=579
+
+# sent_id = CBBE3FA9-EFF9-4AD7-95AD-9BB48F0EF2E3
+# text = Item una systra cum scutellis terreis et ollis.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=581|end_char=585
+2	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nsubj	3:nsubj	start_char=586|end_char=589
+3	systra	systero	VERB	v3spip---	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	0:root	start_char=590|end_char=596
+4	cum	cum	ADP	r--------	AdpType=Prep	5	case	5:case	start_char=597|end_char=600
+5	scutellis	scutella	NOUN	n-p---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Plur	3	obl	3:obl	start_char=601|end_char=610
+6	terreis	terrea	NOUN	n-p---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Plur	3	obl	3:obl	start_char=611|end_char=618
+7	et	et	CCONJ	c--------	_	8	cc	8:cc	start_char=619|end_char=621
+8	ollis	ollis	NOUN	n-p---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Plur	6	conj	6:conj	start_char=622|end_char=627
+9	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=628|end_char=629
+
+# sent_id = C545062D-5E75-4937-A81D-283F42770674
+# text = Item unum lectum tabularum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=631|end_char=635
+2	unum	unus	NUM	m-s---mn-	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=636|end_char=640
+3	lectum	lectus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|InflClass=IndEurU|Number=Sing|VerbForm=Part	0	root	0:root	start_char=641|end_char=647
+4	tabularum	tabula	NOUN	n-p---fg-	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Plur	3	nmod	3:nmod	start_char=648|end_char=657
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=658|end_char=659
+
+# sent_id = 11A0B359-D728-43C9-BDE5-D44732F02CD3
+# text = Item unum copertorium modicis valoris.
+1	Item	item	ADV	d--------	_	2	advmod	2:advmod	start_char=661|end_char=665
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	0	root	0:root	start_char=666|end_char=670
+3	copertorium	copertorium	NOUN	n-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	2	xcomp:pred	2:xcomp:pred	start_char=671|end_char=682
+4	modicis	modix	NOUN	n-p---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Plur	2	obl	2:obl	start_char=683|end_char=690
+5	valoris	ualorus	ADJ	a-s---mgp	Case=Gen|Degree=Pos|Gender=Masc|InflClass=IndEurX|Number=Sing	4	amod	4:amod	start_char=691|end_char=698
+6	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=699|end_char=700
+
+# sent_id = 18633EF2-9EF4-41F1-A578-4438ED046C88
+# text = Item unum pulvinar modici valoris.
+1	Item	item	ADV	d--------	_	2	advmod	2:advmod	start_char=702|end_char=706
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	0	root	0:root	start_char=707|end_char=711
+3	pulvinar	puluina	NOUN	n-s---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	2	xcomp:pred	2:xcomp:pred	start_char=712|end_char=720
+4	modici	modicus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Sing	3	nmod	3:nmod	start_char=721|end_char=727
+5	valoris	ualorus	ADJ	a-s---mgp	Case=Gen|Degree=Pos|Gender=Masc|InflClass=IndEurX|Number=Sing	4	amod	4:amod	start_char=728|end_char=735
+6	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=736|end_char=737
+
+# sent_id = EB05E6F1-09FB-457D-AAB9-9715A9A31E72
+# text = Item duos bancos.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=739|end_char=743
+2	duos	duo	NUM	m-p---ma-	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=744|end_char=748
+3	bancos	bancus	ADJ	a-p---map	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Plur	0	root	0:root	start_char=749|end_char=755
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=756|end_char=757
+
+# sent_id = 12728399-E2D3-450E-9FC7-C475604CCC37
+# text = Item unam capcietam.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=759|end_char=763
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=764|end_char=768
+3	capcietam	capcieta	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=769|end_char=778
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=779|end_char=780
+
+# sent_id = 0E033B4E-AEB2-4375-ABAF-66DC01953DE0
+# text = Item sex barrilas.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=782|end_char=786
+2	sex	sex	NUM	m-p------	InflClass=Ind|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=787|end_char=790
+3	barrilas	barrila	NOUN	n-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	0	root	0:root	start_char=791|end_char=799
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=800|end_char=801
+
+# sent_id = FB249B0C-A9CC-48F5-87C3-A1BA1A8D6C58
+# text = Item unam jarram cum sardellis salsis.
+1	Item	item	ADV	d--------	_	2	advmod	2:advmod	start_char=803|end_char=807
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=808|end_char=812
+3	jarram	jarra	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=813|end_char=819
+4	cum	cum	ADP	r--------	AdpType=Prep	5	case	5:case	start_char=820|end_char=823
+5	sardellis	sardellum	NOUN	n-p---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Plur	3	nmod	3:nmod	start_char=824|end_char=833
+6	salsis	salsus	ADJ	a-p---fbp	Case=Abl|Degree=Pos|Gender=Fem|InflClass=IndEurO|Number=Plur	5	amod	5:amod	start_char=834|end_char=840
+7	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=841|end_char=842
+
+# sent_id = E35B9BC3-F0E6-4805-87FF-87AD3B593D72
+# text = Item duas tinas.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=844|end_char=848
+2	duas	duo	NUM	m-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=849|end_char=853
+3	tinas	tina	NOUN	n-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	0	root	0:root	start_char=854|end_char=859
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=860|end_char=861
+
+# sent_id = F437E86E-B3F5-438A-A50B-6569F4FFCB90
+# text = Item unum coffinum cum sex scutellis de fusta.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=863|end_char=867
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=868|end_char=872
+3	coffinum	coffinus	NOUN	n-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	0:root	start_char=873|end_char=881
+4	cum	cum	ADP	r--------	AdpType=Prep	6	case	6:case	start_char=882|end_char=885
+5	sex	sex	NUM	m-p------	InflClass=Ind|Number=Plur|NumForm=Word|NumType=Card	6	nummod	6:nummod	start_char=886|end_char=889
+6	scutellis	scutella	NOUN	n-p---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Plur	3	obl	3:obl	start_char=890|end_char=899
+7	de	de	ADP	r--------	AdpType=Prep	8	case	8:case	start_char=900|end_char=902
+8	fusta	fustus	ADJ	a-s---fbp	Case=Abl|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	6	amod	6:amod	start_char=903|end_char=908
+9	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=909|end_char=910
+
+# sent_id = A5244D90-51FD-4FE4-9079-3D35DCF93BC8
+# text = Item unam capciam.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=912|end_char=916
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=917|end_char=921
+3	capciam	capcia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=922|end_char=929
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=930|end_char=931
+
+# sent_id = A3042463-FD60-485A-95FE-343FD771C648
+# text = Item unam cassam de fusta cum qua ponderatur farina.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=933|end_char=937
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=938|end_char=942
+3	cassam	cassus	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=943|end_char=949
+4	de	de	ADP	r--------	AdpType=Prep	5	case	5:case	start_char=950|end_char=952
+5	fusta	fustus	ADJ	a-s---fbp	Case=Abl|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	3	obl	3:obl	start_char=953|end_char=958
+6	cum	cum	ADP	r--------	AdpType=Prep	7	case	7:case	start_char=959|end_char=962
+7	qua	qui	PRON	p-s---fb-	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Rel	8	obl	8:obl	start_char=963|end_char=966
+8	ponderatur	pondero	VERB	v3spip---	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	5	acl:relcl	5:acl:relcl	start_char=967|end_char=977
+9	farina	farina	NOUN	n-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	8	obl:agent	8:obl:agent	start_char=978|end_char=984
+10	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=985|end_char=986
+
+# sent_id = EBE906F8-825A-4DE2-97FA-9165266AFE9F
+# text = Item duas tabula ad portandum panem.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=988|end_char=992
+2	duas	duo	NUM	m-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=993|end_char=997
+3	tabula	tabulum	NOUN	n-s---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=998|end_char=1004
+4	ad	ad	ADP	r--------	AdpType=Prep	5	case	5:case	start_char=1005|end_char=1007
+5	portandum	porto	VERB	v-sfdpna-	Aspect=Imp|Case=Acc|Gender=Neut|InflClass=LatA|InflClass[noun]=IndEurO|Number=Sing|Tense=Fut|VerbForm=Ger|Voice=Pass	3	advcl	3:advcl	start_char=1008|end_char=1017
+6	panem	panis	NOUN	n-s---ma-	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Sing	5	obj	5:obj	start_char=1018|end_char=1023
+7	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=1024|end_char=1025
+
+# sent_id = 8C13A751-B17E-4B0C-B19A-01C9A5C7B39F
+# text = Item unam culcitram laneam.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=1027|end_char=1031
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=1032|end_char=1036
+3	culcitram	culcitra	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=1037|end_char=1046
+4	laneam	laneus	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	3	amod	3:amod	start_char=1047|end_char=1053
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=1054|end_char=1055
+
+# sent_id = 641246ED-C9B3-48EF-8FD5-BCC15B0BF69E
+# text = Item tunicam mulieris de pebrello.
+1	Item	item	ADV	d--------	_	2	advmod	2:advmod	start_char=1057|end_char=1061
+2	tunicam	tunica	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=1062|end_char=1069
+3	mulieris	mulier	NOUN	n-s---fg-	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing	2	nmod	2:nmod	start_char=1070|end_char=1078
+4	de	de	ADP	r--------	AdpType=Prep	5	case	5:case	start_char=1079|end_char=1081
+5	pebrello	pebrellum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	2	nmod	2:nmod	start_char=1082|end_char=1090
+6	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=1091|end_char=1092
+
+# sent_id = A3FB314B-3FE8-4638-A46A-8EB91F2E30FF
+# text = Item tunicam hominis de blavo.
+1	Item	item	ADV	d--------	_	2	advmod	2:advmod	start_char=1094|end_char=1098
+2	tunicam	tunica	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=1099|end_char=1106
+3	hominis	homo	NOUN	n-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurX|Number=Sing	2	nmod	2:nmod	start_char=1107|end_char=1114
+4	de	de	ADP	r--------	AdpType=Prep	5	case	5:case	start_char=1115|end_char=1117
+5	blavo	blauus	NOUN	n-s---mb-	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing	2	nmod	2:nmod	start_char=1118|end_char=1123
+6	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=1124|end_char=1125
+
+# sent_id = 5A834E32-FBED-42A1-8A33-F75720785D55
+# text = Item duas botas parvas capacitatis quelibet trium milhayrolarum vel circa.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=1127|end_char=1131
+2	duas	duo	NUM	m-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=1132|end_char=1136
+3	botas	botus	NOUN	n-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	0	root	0:root	start_char=1137|end_char=1142
+4	parvas	paruus	ADJ	a-p---fap	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Plur	3	amod	3:amod	start_char=1143|end_char=1149
+5	capacitatis	capacitas	NOUN	n-s---fg-	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing	3	nmod	3:nmod	start_char=1150|end_char=1161
+6	quelibet	quilibet	DET	p-s---fn-	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Ind	5	det	5:det	start_char=1162|end_char=1170
+7	trium	tris	NUM	m-p---fg-	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Plur|NumForm=Word|NumType=Card	8	nummod	8:nummod	start_char=1171|end_char=1176
+8	milhayrolarum	milhayrolarus	NOUN	n-p---fg-	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Plur	5	nmod	5:nmod	start_char=1177|end_char=1190
+9	vel	uel	CCONJ	c--------	_	10	cc	10:cc	start_char=1191|end_char=1194
+10	circa	circa	ADP	r--------	AdpType=Prep	8	conj	8:conj	start_char=1195|end_char=1200
+11	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=1201|end_char=1202
+
+# sent_id = 32DAD16B-4B12-409F-80CE-4A2F0CD60A5C
+# text = Item quandam tinam cum tribus plechis magnam cum torculari suo.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=1204|end_char=1208
+2	quandam	quidam	DET	p-s---fa-	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Ind	3	det	3:det	start_char=1209|end_char=1216
+3	tinam	tina	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=1217|end_char=1222
+4	cum	cum	ADP	r--------	AdpType=Prep	6	case	6:case	start_char=1223|end_char=1226
+5	tribus	tres	NUM	m-p---mb-	Case=Abl|Gender=Masc|InflClass=IndEurI|Number=Plur|NumForm=Word|NumType=Card	6	nummod	6:nummod	start_char=1227|end_char=1233
+6	plechis	plaechum	NOUN	n-p---mb-	Case=Abl|Gender=Masc|InflClass=IndEurA|Number=Plur	3	obl	3:obl	start_char=1234|end_char=1241
+7	magnam	magnus	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	3	amod	3:amod	start_char=1242|end_char=1248
+8	cum	cum	ADP	r--------	AdpType=Prep	9	case	9:case	start_char=1249|end_char=1252
+9	torculari	torculare	NOUN	n-s---mb-	Case=Abl|Gender=Masc|InflClass=IndEurX|Number=Sing	6	nmod	6:nmod	start_char=1253|end_char=1262
+10	suo	suus	DET	p-s---mb-	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	9	det	9:det	start_char=1263|end_char=1266
+11	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=1267|end_char=1268
+
+# sent_id = A744D843-45BE-429C-A2C9-CF5D624925F5
+# text = Item gardacossinum de mesclato cum penna agnorum.
+1	Item	item	ADV	d--------	_	2	advmod	2:advmod	start_char=1270|end_char=1274
+2	gardacossinum	gardacussinus	ADJ	a-s---nna	Case=Nom|Degree=Abs|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	0:root	start_char=1275|end_char=1288
+3	de	de	ADP	r--------	AdpType=Prep	4	case	4:case	start_char=1289|end_char=1291
+4	mesclato	mesclatum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	2	obl	2:obl	start_char=1292|end_char=1300
+5	cum	cum	ADP	r--------	AdpType=Prep	6	case	6:case	start_char=1301|end_char=1304
+6	penna	poenna	NOUN	n-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	4	nmod	4:nmod	start_char=1305|end_char=1310
+7	agnorum	agnus	NOUN	n-p---ng-	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Plur	6	nmod	6:nmod	start_char=1311|end_char=1318
+8	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=1319|end_char=1320
+
+# sent_id = D69F367F-D864-43B6-96B7-1AB766A75947
+# text = Item gardacossium clamidem et tunicam de preceto rubeo cum penna varia in clamide et scurolorum in gardacossio.
+1	Item	item	ADV	d--------	_	2	advmod	2:advmod	start_char=1322|end_char=1326
+2	gardacossium	gardacussis	ADJ	a-s---mnp	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	0	root	0:root	start_char=1327|end_char=1339
+3	clamidem	clames	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	2	obl	2:obl	start_char=1340|end_char=1348
+4	et	et	CCONJ	c--------	_	5	cc	5:cc	start_char=1349|end_char=1351
+5	tunicam	tunica	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	3	conj	3:conj	start_char=1352|end_char=1359
+6	de	de	ADP	r--------	AdpType=Prep	8	case	8:case	start_char=1360|end_char=1362
+7	preceto	praeceto	VERB	v-srppnb-	Aspect=Perf|Case=Abl|Degree=Pos|Gender=Neut|InflClass=LatX|InflClass[noun]=IndEurO|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	8	acl	8:acl	start_char=1363|end_char=1370
+8	rubeo	rubeus	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	2	obl	2:obl	start_char=1371|end_char=1376
+9	cum	cum	SCONJ	c--------	PronType=Rel	10	mark	10:mark	start_char=1377|end_char=1380
+10	penna	poenna	NOUN	n-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	2	obl:cmpr	2:obl:cmpr	start_char=1381|end_char=1386
+11	varia	uarius	ADJ	a-p---nap	Case=Acc|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur	10	amod	10:amod	start_char=1387|end_char=1392
+12	in	in	ADP	r--------	AdpType=Prep	13	case	13:case	start_char=1393|end_char=1395
+13	clamide	clames	NOUN	n-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	10	conj	10:conj	start_char=1396|end_char=1403
+14	et	et	CCONJ	c--------	_	15	cc	15:cc	start_char=1404|end_char=1406
+15	scurolorum	scurolus	NOUN	n-p---mg-	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Plur	13	conj	13:conj	start_char=1407|end_char=1417
+16	in	in	ADP	r--------	AdpType=Prep	17	case	17:case	start_char=1418|end_char=1420
+17	gardacossio	gardacossio	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	13	obl	13:obl	start_char=1421|end_char=1432
+18	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=1433|end_char=1434
+
+# sent_id = 43FD33B0-EDDA-4E9A-A1AE-BB864A96517E
+# text = Item mantellum de mesclato rubeo cum penna varia.
+1	Item	item	ADV	d--------	_	2	advmod	2:advmod	start_char=1436|end_char=1440
+2	mantellum	mantellum	NOUN	n-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	0:root	start_char=1441|end_char=1450
+3	de	de	ADP	r--------	AdpType=Prep	4	case	4:case	start_char=1451|end_char=1453
+4	mesclato	mesclatum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	2	nmod	2:nmod	start_char=1454|end_char=1462
+5	rubeo	rubeus	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	2	orphan	2:orphan	start_char=1463|end_char=1468
+6	cum	cum	ADP	r--------	AdpType=Post	5	case	5:case	start_char=1469|end_char=1472
+7	penna	poenna	NOUN	n-p---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Plur	2	parataxis	2:parataxis	start_char=1473|end_char=1478
+8	varia	uarius	ADJ	a-p---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur	7	amod	7:amod	start_char=1479|end_char=1484
+9	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=1485|end_char=1486
+
+# sent_id = 1FA1A9E1-FF1B-4A3E-8751-7F6F55F622BC
+# text = Item aliud copertorium de sirico cum flordilis.
+1	Item	item	ADV	d--------	_	2	advmod	2:advmod	start_char=1488|end_char=1492
+2	aliud	alius	DET	p-s---nn-	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Ind	0	root	0:root	start_char=1493|end_char=1498
+3	copertorium	copertorium	NOUN	n-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	2	nsubj	2:nsubj	start_char=1499|end_char=1510
+4	de	de	ADP	r--------	AdpType=Prep	5	case	5:case	start_char=1511|end_char=1513
+5	sirico	siricus	ADJ	a-s---nbp	Case=Abl|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	7	obl	7:obl	start_char=1514|end_char=1520
+6	cum	cum	SCONJ	c--------	PronType=Rel	7	mark	7:mark	start_char=1521|end_char=1524
+7	flordilis	flordilis	ADJ	a-s---mnp	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurI|Number=Sing	3	advcl	3:advcl	start_char=1525|end_char=1534
+8	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=1535|end_char=1536
+
+# sent_id = B3B4E96C-74A2-4540-B641-7A98F6B408DC
+# text = Item cossetum unum et tunica mulieris cum penna agnorum in cosseto.
+1	Item	item	ADV	d--------	_	2	advmod	2:advmod	start_char=1538|end_char=1542
+2	cossetum	consituo	VERB	v-srppmn-	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatX|InflClass[noun]=IndEurO|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	start_char=1543|end_char=1551
+3	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	2	obj	2:obj	start_char=1552|end_char=1556
+4	et	et	CCONJ	c--------	_	5	cc	5:cc	start_char=1557|end_char=1559
+5	tunica	tunica	NOUN	n-s---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	3	conj	3:conj	start_char=1560|end_char=1566
+6	mulieris	mulier	NOUN	n-s---fg-	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing	5	nmod	5:nmod	start_char=1567|end_char=1575
+7	cum	cum	ADP	r--------	AdpType=Prep	8	case	8:case	start_char=1576|end_char=1579
+8	penna	poenna	NOUN	n-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	2	obl	2:obl	start_char=1580|end_char=1585
+9	agnorum	agnus	NOUN	n-p---ng-	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Plur	8	nmod	8:nmod	start_char=1586|end_char=1593
+10	in	in	ADP	r--------	AdpType=Prep	11	case	11:case	start_char=1594|end_char=1596
+11	cosseto	cossetum	NOUN	n-s---mb-	Case=Abl|Gender=Masc|InflClass=IndEurU|Number=Sing|VerbForm=Part	8	obl	8:obl	start_char=1597|end_char=1604
+12	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=1605|end_char=1606
+
+# sent_id = B5596E13-D269-4C11-905D-7C4BE017931F
+# text = Item unum gardacossium lumbardum cum clamide de panno rubeo et penna paucis valoris.
+1	Item	item	ADV	d--------	_	2	advmod	2:advmod	start_char=1608|end_char=1612
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=1613|end_char=1617
+3	gardacossium	gardacus	NOUN	n-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	0:root	start_char=1618|end_char=1630
+4	lumbardum	lumbardus	ADJ	a-s---mnp	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	3	amod	3:amod	start_char=1631|end_char=1640
+5	cum	cum	ADP	r--------	AdpType=Prep	6	case	6:case	start_char=1641|end_char=1644
+6	clamide	clames	NOUN	n-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	4	obl	4:obl	start_char=1645|end_char=1652
+7	de	de	ADP	r--------	AdpType=Prep	8	case	8:case	start_char=1653|end_char=1655
+8	panno	pannus	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	6	conj	6:conj	start_char=1656|end_char=1661
+9	rubeo	rubeus	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	8	conj	8:conj	start_char=1662|end_char=1667
+10	et	et	CCONJ	c--------	_	11	cc	11:cc	start_char=1668|end_char=1670
+11	penna	poenna	NOUN	n-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	9	conj	9:conj	start_char=1671|end_char=1676
+12	paucis	paucus	DET	p-p---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Plur|NumType=Card|PronType=Ind	11	det	11:det	start_char=1677|end_char=1683
+13	valoris	ualorus	ADJ	a-s---fgp	Case=Gen|Degree=Pos|Gender=Fem|InflClass=IndEurI|Number=Sing	12	amod	12:amod	start_char=1684|end_char=1691
+14	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=1692|end_char=1693
+
+# sent_id = 8CA6745F-E134-4DED-B3D8-7C8144F66642
+# text = Item quoddam aliud ospicium situm in dicta carreria Sancti Augustini iuxta ospicium Jacobi lo Gran et iuxta ospicium Guillelmi Cayrellerii et iuxta ospicium Raymondi Moguerii et carreriam publicam Sancti Augustini.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	start_char=1695|end_char=1699
+2	quoddam	quidam	DET	p-s---nn-	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Ind	4	det	4:det	start_char=1700|end_char=1707
+3	aliud	alius	DET	p-s---nn-	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Ind	4	det	4:det	start_char=1708|end_char=1713
+4	ospicium	ospicium	NOUN	n-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	0:root	start_char=1714|end_char=1722
+5	situm	sio	VERB	v-srppnn-	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatX|InflClass[noun]=IndEurO|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	4:acl	start_char=1723|end_char=1728
+6	in	in	ADP	r--------	AdpType=Prep	7	case	7:case	start_char=1729|end_char=1731
+7	dicta	dico	VERB	v-srppnb-	Aspect=Perf|Case=Abl|Degree=Pos|Gender=Neut|InflClass=LatX|InflClass[noun]=IndEurO|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	obl	5:obl	start_char=1732|end_char=1737
+8	carreria	carrerium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	5	obl	5:obl	start_char=1738|end_char=1746
+9	Sancti	sanctus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Sing	8	nmod	8:nmod	start_char=1747|end_char=1753
+10	Augustini	augustinus	PROPN	n-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurO|NameType=Giv|Number=Sing	9	nmod	9:nmod	start_char=1754|end_char=1763
+11	iuxta	iuxta	ADP	r--------	AdpType=Prep	12	case	12:case	start_char=1764|end_char=1769
+12	ospicium	ospicium	NOUN	n-s---na-	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing	7	obl	7:obl	start_char=1770|end_char=1778
+13	Jacobi	Jacobi	PROPN	n-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurO|NameType=Giv|Number=Sing	12	nmod	12:nmod	start_char=1779|end_char=1785
+14	lo	lo	PUNCT	u--------	_	12	punct	12:punct	start_char=1786|end_char=1788
+15	Gran	gran	PUNCT	u--------	_	18	punct	18:punct	start_char=1789|end_char=1793
+16	et	et	CCONJ	c--------	_	18	cc	18:cc	start_char=1794|end_char=1796
+17	iuxta	iuxta	ADP	r--------	AdpType=Prep	18	case	18:case	start_char=1797|end_char=1802
+18	ospicium	ospicium	NOUN	n-s---na-	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing	4	obl	4:obl	start_char=1803|end_char=1811
+19	Guillelmi	guyllelmus	PROPN	n-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurO|NameType=Giv|Number=Sing	18	nmod	18:nmod	start_char=1812|end_char=1821
+20	Cayrellerii	cairellerius	PROPN	n-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurO|NameType=Giv|Number=Sing	19	nmod	19:nmod	start_char=1822|end_char=1833
+21	et	et	CCONJ	c--------	_	23	cc	23:cc	start_char=1834|end_char=1836
+22	iuxta	iuxta	ADP	r--------	AdpType=Prep	23	case	23:case	start_char=1837|end_char=1842
+23	ospicium	ospicium	NOUN	n-s---na-	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing	18	conj	18:conj	start_char=1843|end_char=1851
+24	Raymondi	raymondus	PROPN	n-s---md-	Case=Dat|Gender=Masc|InflClass=IndEurX|NameType=Giv|Number=Sing	23	nmod	23:nmod	start_char=1852|end_char=1860
+25	Moguerii	moguerius	PROPN	n-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurO|NameType=Giv|Number=Sing	23	nmod	23:nmod	start_char=1861|end_char=1869
+26	et	et	CCONJ	c--------	_	27	cc	27:cc	start_char=1870|end_char=1872
+27	carreriam	carrerius	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	25	conj	25:conj	start_char=1873|end_char=1882
+28	publicam	publicus	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	29	amod	29:amod	start_char=1883|end_char=1891
+29	Sancti	sanctus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Sing	25	conj	25:conj	start_char=1892|end_char=1898
+30	Augustini	augustinus	PROPN	n-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurO|NameType=Giv|Number=Sing	29	nmod	29:nmod	start_char=1899|end_char=1908
+31	.	.	PUNCT	u--------	_	4	punct	4:punct	start_char=1909|end_char=1910
+
+# sent_id = D9E178D1-08C7-4ACD-9CD3-39F393239D38
+# text = Item unum capellum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=1912|end_char=1916
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=1917|end_char=1921
+3	capellum	capellum	NOUN	n-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	0:root	start_char=1922|end_char=1930
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=1931|end_char=1932
+
+# sent_id = E8492740-7455-47CB-AC03-AC79DE36E854
+# text = Item sex mappe.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=1934|end_char=1938
+2	sex	sex	NUM	m-p------	InflClass=Ind|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=1939|end_char=1942
+3	mappe	mappa	NOUN	n-p---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Plur	0	root	0:root	start_char=1943|end_char=1948
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=1949|end_char=1950
+
+# sent_id = 78D46E94-F5A7-47A7-9319-96CA9420987C
+# text = Item unus lectus tabularum cum bassachia culcitra pulvinari de Alexandria cum pluma duabus flassiatis et uno copertorio de bort.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=1952|end_char=1956
+2	unus	unus	NUM	m-s---mn-	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=1957|end_char=1961
+3	lectus	lectus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|InflClass=IndEurU|Number=Sing|VerbForm=Part	0	root	0:root	start_char=1962|end_char=1968
+4	tabularum	tabula	NOUN	n-p---fg-	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Plur	3	nmod	3:nmod	start_char=1969|end_char=1978
+5	cum	cum	SCONJ	c--------	PronType=Rel	8	mark	8:mark	start_char=1979|end_char=1982
+6	bassachia	bassachium	NOUN	n-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	8	obl	8:obl	start_char=1983|end_char=1992
+7	culcitra	culcitra	NOUN	n-s---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	8	nsubj:pass	8:nsubj:pass	start_char=1993|end_char=2001
+8	pulvinari	puluino	VERB	v--pnp---	Aspect=Imp|InflClass=LatA|InflClass[noun]=Ind|Tense=Pres|VerbForm=Inf|Voice=Pass	3	csubj	3:csubj	start_char=2002|end_char=2011
+9	de	de	ADP	r--------	AdpType=Prep	10	case	10:case	start_char=2012|end_char=2014
+10	Alexandria	alexandria	PROPN	n-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|NameType=Geo|Number=Sing	8	obl:agent	8:obl:agent	start_char=2015|end_char=2025
+11	cum	cum	SCONJ	c--------	PronType=Rel	14	mark	14:mark	start_char=2026|end_char=2029
+12	pluma	pluma	NOUN	n-p---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Plur	8	obl	8:obl	start_char=2030|end_char=2035
+13	duabus	duo	NUM	m-p---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Plur|NumForm=Word|NumType=Card	12	nummod	12:nummod	start_char=2036|end_char=2042
+14	flassiatis	flassiatus	NOUN	n-p---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Plur	12	conj	12:conj	start_char=2043|end_char=2053
+15	et	et	CCONJ	c--------	_	16	cc	16:cc	start_char=2054|end_char=2056
+16	uno	unus	NUM	m-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	14	conj	14:conj	start_char=2057|end_char=2060
+17	copertorio	copertorius	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	14	conj	14:conj	start_char=2061|end_char=2071
+18	de	de	ADP	r--------	AdpType=Prep	19	case	19:case	start_char=2072|end_char=2074
+19	bort	bort	NOUN	n-p---fb-	Case=Abl|Gender=Fem|InflClass=IndEurO|Number=Plur	17	obl	17:obl	start_char=2075|end_char=2079
+20	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=2080|end_char=2081
+
+# sent_id = 754B3BE9-1D72-48AE-AF86-31732334702C
+# text = Item unum cappellum de lana.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=2083|end_char=2087
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=2088|end_char=2092
+3	cappellum	cappellum	NOUN	n-s---ma-	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing	0	root	0:root	start_char=2093|end_char=2102
+4	de	de	ADP	r--------	AdpType=Prep	5	case	5:case	start_char=2103|end_char=2105
+5	lana	lana	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurA|Number=Sing	3	nmod	3:nmod	start_char=2106|end_char=2110
+6	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=2111|end_char=2112
+
+# sent_id = DCB24D5A-1B20-4686-98A5-3519268F7CF0
+# text = Item una sartago.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=2114|end_char=2118
+2	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nsubj	3:nsubj	start_char=2119|end_char=2122
+3	sartago	sarto	VERB	v1spia---	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	start_char=2123|end_char=2130
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=2131|end_char=2132
+
+# sent_id = 1FE65040-8277-41E7-AB25-51BC56D3B72F
+# text = Item unum scrineum pauci valoris cum cissoriis fuste et terre et aliis minutis utensilibus focanee pauci valoris.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	start_char=2134|end_char=2138
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	4	nsubj	4:nsubj	start_char=2139|end_char=2143
+3	scrineum	scrineum	ADV	d--------	_	4	advmod	4:advmod	start_char=2144|end_char=2152
+4	pauci	paucus	DET	p-p---mn-	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Plur|NumType=Card|PronType=Ind	0	root	0:root	start_char=2153|end_char=2158
+5	valoris	ualorus	ADJ	a-s---mgp	Case=Gen|Degree=Pos|Gender=Masc|InflClass=IndEurX|Number=Sing	4	amod	4:amod	start_char=2159|end_char=2166
+6	cum	cum	ADP	r--------	AdpType=Prep	7	case	7:case	start_char=2167|end_char=2170
+7	cissoriis	cyssorius	NOUN	n-p---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Plur	4	obl	4:obl	start_char=2171|end_char=2180
+8	fuste	fustis	NOUN	n-s---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	4	nsubj	4:nsubj	start_char=2181|end_char=2186
+9	et	et	CCONJ	c--------	_	10	cc	10:cc	start_char=2187|end_char=2189
+10	terre	terra	NOUN	n-s---fg-	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing	8	conj	8:conj	start_char=2190|end_char=2195
+11	et	et	CCONJ	c--------	_	12	cc	12:cc	start_char=2196|end_char=2198
+12	aliis	alius	DET	p-p---mb-	Case=Abl|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Ind	14	det	14:det	start_char=2199|end_char=2204
+13	minutis	minutus	ADJ	a-p---fbp	Case=Abl|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Plur	14	amod	14:amod	start_char=2205|end_char=2212
+14	utensilibus	utensilis	ADJ	a-p---nbp	Case=Abl|Degree=Pos|Gender=Neut|InflClass=IndEurI|Number=Plur	15	obl	15:obl	start_char=2213|end_char=2224
+15	focanee	foco	VERB	v-sp-a---	Aspect=Imp|InflClass=LatA|Number=Sing|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	4:conj	start_char=2225|end_char=2232
+16	pauci	paucus	DET	p-p---mn-	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Plur|NumType=Card|PronType=Ind	15	nsubj	15:nsubj	start_char=2233|end_char=2238
+17	valoris	ualorus	ADJ	a-s---mgp	Case=Gen|Degree=Pos|Gender=Masc|InflClass=IndEurX|Number=Sing	16	amod	16:amod	start_char=2239|end_char=2246
+18	.	.	PUNCT	u--------	_	4	punct	4:punct	start_char=2247|end_char=2248
+
+# sent_id = 4F6DD117-62C8-45F3-A7E0-E6AB186EC36B
+# text = Primo quoddam ospicium situm in civitate Massilie in Cultellaria confrontatum cum domo Nycolay Garnerii et cum carreria a tribus partibus.
+1	Primo	primo	ADV	d--------	Degree=Pos|NumType=Ord	4	advmod	4:advmod	start_char=2250|end_char=2255
+2	quoddam	quidam	DET	p-s---nn-	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Ind	3	det	3:det	start_char=2256|end_char=2263
+3	ospicium	ospicium	NOUN	n-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	0:root	start_char=2264|end_char=2272
+4	situm	sio	VERB	v-srppnn-	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatX|InflClass[noun]=IndEurO|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	3:acl	start_char=2273|end_char=2278
+5	in	in	ADP	r--------	AdpType=Prep	6	case	6:case	start_char=2279|end_char=2281
+6	civitate	ciuitas	NOUN	n-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	4	obl	4:obl	start_char=2282|end_char=2290
+7	Massilie	massilia	PROPN	n-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurA|NameType=Giv|Number=Sing	6	nmod	6:nmod	start_char=2291|end_char=2299
+8	in	in	ADP	r--------	AdpType=Prep	10	case	10:case	start_char=2300|end_char=2302
+9	Cultellaria	cultellarius	ADJ	a-s---fbp	Case=Abl|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	12	amod	12:amod	start_char=2303|end_char=2314
+10	confrontatum	confronto	VERB	v-srppmn-	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatA|InflClass[noun]=IndEurO|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	advcl	4:advcl	start_char=2315|end_char=2327
+11	cum	cum	ADP	r--------	AdpType=Prep	12	case	12:case	start_char=2328|end_char=2331
+12	domo	domus	NOUN	n-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurU|Number=Sing	10	obl	10:obl	start_char=2332|end_char=2336
+13	Nycolay	nycola	PROPN	n-s---mb-	Case=Abl|Gender=Masc|InflClass=IndEurA|NameType=Giv|Number=Sing	12	nmod	12:nmod	start_char=2337|end_char=2344
+14	Garnerii	garnerius	PROPN	n-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurO|NameType=Giv|Number=Sing	12	nmod	12:nmod	start_char=2345|end_char=2353
+15	et	et	CCONJ	c--------	_	17	cc	17:cc	start_char=2354|end_char=2356
+16	cum	cum	SCONJ	c--------	PronType=Rel	17	mark	17:mark	start_char=2357|end_char=2360
+17	carreria	carrerium	NOUN	n-s---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	10	advcl:cmpr	10:advcl:cmpr	start_char=2361|end_char=2369
+18	a	a	ADP	r--------	AdpType=Prep	20	case	20:case	start_char=2370|end_char=2371
+19	tribus	tres	NUM	m-p---fb-	Case=Abl|Gender=Fem|InflClass=IndEurI|Number=Plur|NumForm=Word|NumType=Card	20	nummod	20:nummod	start_char=2372|end_char=2378
+20	partibus	pars	NOUN	n-p---fb-	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Plur	17	obl	17:obl	start_char=2379|end_char=2387
+21	.	.	PUNCT	u--------	_	4	punct	4:punct	start_char=2388|end_char=2389
+
+# sent_id = 2CE45BE7-1F7B-4FC1-B4BF-F76CF978035B
+# text = Item in operatorio sive cellario.
+1	Item	item	ADV	d--------	_	0	root	0:root	start_char=2391|end_char=2395
+2	in	in	ADP	r--------	AdpType=Prep	3	case	3:case	start_char=2396|end_char=2398
+3	operatorio	operatorium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	1	conj	1:conj	start_char=2399|end_char=2409
+4	sive	siue	CCONJ	c--------	_	5	cc	5:cc	start_char=2410|end_char=2414
+5	cellario	cellarius	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	3	conj	3:conj	start_char=2415|end_char=2423
+6	.	.	PUNCT	u--------	_	1	punct	1:punct	start_char=2424|end_char=2425
+
+# sent_id = C400D4A0-72DC-488F-93BA-9E2CCD11EF59
+# text = Item una jarra.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=2427|end_char=2431
+2	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nsubj	3:nsubj	start_char=2432|end_char=2435
+3	jarra	jarro	VERB	v3spia---	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	start_char=2436|end_char=2441
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=2442|end_char=2443
+
+# sent_id = F1CD1E59-582C-411A-B640-C855E43177C3
+# text = Item una alia parva bota.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=2445|end_char=2449
+2	una	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nsubj	3:nsubj	start_char=2450|end_char=2453
+3	alia	alius	DET	p-p---nn-	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Ind	0	root	0:root	start_char=2454|end_char=2458
+4	parva	paruus	ADJ	a-p---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur	5	amod	5:amod	start_char=2459|end_char=2464
+5	bota	botum	NOUN	n-p---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Plur	3	nsubj	3:nsubj	start_char=2465|end_char=2469
+6	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=2470|end_char=2471
+
+# sent_id = D7AA47E0-9E63-4F98-B9E2-773A14C096B8
+# text = Item una scala.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=2473|end_char=2477
+2	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=2478|end_char=2481
+3	scala	scalum	NOUN	n-s---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=2482|end_char=2487
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=2488|end_char=2489
+
+# sent_id = 00C49967-EC2B-4847-B247-C02F542FBB5C
+# text = Item unum banchum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=2491|end_char=2495
+2	unum	unus	NUM	m-s---na-	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=2496|end_char=2500
+3	banchum	banchus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing	0	root	0:root	start_char=2501|end_char=2508
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=2509|end_char=2510
+
+# sent_id = AA3F377B-53B9-4E90-B14A-12A803BCC711
+# text = Item una tabula comedendi de nuce cum tabulonis et duobus banchis.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=2512|end_char=2516
+2	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=2517|end_char=2520
+3	tabula	tabulum	NOUN	n-s---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=2521|end_char=2527
+4	comedendi	comedendus	ADJ	a-s---fgp	Case=Gen|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	3	amod	3:amod	start_char=2528|end_char=2537
+5	de	de	ADP	r--------	AdpType=Prep	6	case	6:case	start_char=2538|end_char=2540
+6	nuce	nux	NOUN	n-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	3	obl	3:obl	start_char=2541|end_char=2545
+7	cum	cum	ADP	r--------	AdpType=Prep	8	case	8:case	start_char=2546|end_char=2549
+8	tabulonis	tabulo	NOUN	n-s---fg-	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing	6	nmod	6:nmod	start_char=2550|end_char=2559
+9	et	et	CCONJ	c--------	_	11	cc	11:cc	start_char=2560|end_char=2562
+10	duobus	duo	NUM	m-p---mb-	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Plur|NumForm=Word|NumType=Card	11	nummod	11:nummod	start_char=2563|end_char=2569
+11	banchis	banchus	NOUN	n-p---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Plur	3	obl	3:obl	start_char=2570|end_char=2577
+12	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=2578|end_char=2579
+
+# sent_id = 39D229D1-71A3-43B9-B5C6-678B04142AFA
+# text = Item una tabula portandi panem.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=2581|end_char=2585
+2	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=2586|end_char=2589
+3	tabula	tabulum	NOUN	n-s---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=2590|end_char=2596
+4	portandi	porto	VERB	v-sfdpng-	Aspect=Imp|Case=Gen|Gender=Neut|InflClass=LatA|InflClass[noun]=IndEurO|Number=Sing|Tense=Fut|VerbForm=Ger|Voice=Pass	3	acl	3:acl	start_char=2597|end_char=2605
+5	panem	panis	NOUN	n-s---ma-	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Sing	4	obj	4:obj	start_char=2606|end_char=2611
+6	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=2612|end_char=2613
+
+# sent_id = C0F12CC8-9926-4759-AC8A-A9C14CF4E46D
+# text = Item unum scrineum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=2615|end_char=2619
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nsubj	3:nsubj	start_char=2620|end_char=2624
+3	scrineum	scrino	VERB	v1spia---	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	start_char=2625|end_char=2633
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=2634|end_char=2635
+
+# sent_id = CC66B458-0005-4339-9AD4-9948C57404FB
+# text = Item unus lectus cum bassachia culcitra pulvinari et duabus flassiatis.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=2637|end_char=2641
+2	unus	unus	NUM	m-s---mn-	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=2642|end_char=2646
+3	lectus	lego	VERB	v-srppmn-	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatX|InflClass[noun]=IndEurO|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	start_char=2647|end_char=2653
+4	cum	cum	ADP	r--------	AdpType=Prep	5	case	5:case	start_char=2654|end_char=2657
+5	bassachia	bassachium	NOUN	n-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	7	obl	7:obl	start_char=2658|end_char=2667
+6	culcitra	culcitruus	ADJ	a-s---fbp	Case=Abl|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	5	amod	5:amod	start_char=2668|end_char=2676
+7	pulvinari	puluino	VERB	v--pnp---	Aspect=Imp|InflClass=LatA|InflClass[noun]=Ind|Tense=Pres|VerbForm=Inf|Voice=Pass	3	ccomp	3:ccomp	start_char=2677|end_char=2686
+8	et	et	CCONJ	c--------	_	10	cc	10:cc	start_char=2687|end_char=2689
+9	duabus	duo	NUM	m-p---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Plur|NumForm=Word|NumType=Card	10	det	10:det	start_char=2690|end_char=2696
+10	flassiatis	flassiatus	ADJ	a-p---fbp	Case=Abl|Degree=Pos|Gender=Fem|InflClass=IndEurA|NameType=Cal|Number=Plur	5	amod	5:amod	start_char=2697|end_char=2707
+11	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=2708|end_char=2709
+
+# sent_id = 158E4ECA-B8A8-47DD-8592-B8E7BB1212FF
+# text = Item duodecim linteamina.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=2711|end_char=2715
+2	duodecim	duodecim	NUM	m-p------	InflClass=Ind|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=2716|end_char=2724
+3	linteamina	linteamina	NOUN	n-p---nn-	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Plur	0	root	0:root	start_char=2725|end_char=2735
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=2736|end_char=2737
+
+# sent_id = 1A9342BC-4F46-4A45-9272-957BB66F2786
+# text = Item quatuor mappa.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=2739|end_char=2743
+2	quatuor	quattuor	NUM	m-p------	InflClass=Ind|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=2744|end_char=2751
+3	mappa	mappa	NOUN	n-s---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=2752|end_char=2757
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=2758|end_char=2759
+
+# sent_id = DE254CC8-A9A9-4E94-986E-03090B76C81B
+# text = Item unum magnum scrineum.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	start_char=2761|end_char=2765
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	4	nsubj	4:nsubj	start_char=2766|end_char=2770
+3	magnum	magnus	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	4	nsubj	4:nsubj	start_char=2771|end_char=2777
+4	scrineum	scrineus	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	0:root	start_char=2778|end_char=2786
+5	.	.	PUNCT	u--------	_	4	punct	4:punct	start_char=2787|end_char=2788
+
+# sent_id = 8C34D1BE-7EC6-42B5-B3CA-9E9316AE9490
+# text = iteum una sartago.
+1	iteum	iteum	CCONJ	c--------	_	3	cc	3:cc	start_char=2790|end_char=2795
+2	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=2796|end_char=2799
+3	sartago	sartagus	NOUN	n-s---fn-	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	0	root	0:root	start_char=2800|end_char=2807
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=2808|end_char=2809
+
+# sent_id = 502A4D89-F798-4DCF-BF71-116E5879BBE8
+# text = Item duo tripedes sive endes.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=2811|end_char=2815
+2	duo	duo	NUM	m-p---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=2816|end_char=2819
+3	tripedes	tripes	NOUN	n-p---mn-	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Plur	0	root	0:root	start_char=2820|end_char=2828
+4	sive	siue	CCONJ	c--------	_	5	cc	5:cc	start_char=2829|end_char=2833
+5	endes	endes	NOUN	n-p---mn-	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Plur	3	conj	3:conj	start_char=2834|end_char=2839
+6	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=2840|end_char=2841
+
+# sent_id = 8254ADF5-C803-4871-ACD2-F6B04B6D3958
+# text = Item tres baliste.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=2843|end_char=2847
+2	tres	tres	NUM	m-p---mn-	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=2848|end_char=2852
+3	baliste	balista	NOUN	n-p---mn-	Case=Nom|Gender=Masc|InflClass=IndEurA|Number=Plur	0	root	0:root	start_char=2853|end_char=2860
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=2861|end_char=2862
+
+# sent_id = EB5B05FC-2590-4F63-A874-259B1641E3FE
+# text = Item parvum pulvinar.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=2864|end_char=2868
+2	parvum	paruus	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	3	nsubj	3:nsubj	start_char=2869|end_char=2875
+3	pulvinar	puluinus	ADJ	a-s---fnp	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=2876|end_char=2884
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=2885|end_char=2886
+
+# sent_id = DE88F87D-FCFB-43BC-BF56-98ED61AB9518
+# text = Item unum copertorium.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=2888|end_char=2892
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	det	3:det	start_char=2893|end_char=2897
+3	copertorium	copertorium	NOUN	n-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	0:root	start_char=2898|end_char=2909
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=2910|end_char=2911
+
+# sent_id = B08FAA40-7B06-401E-A288-B7190050B602
+# text = Item unum mantellum scurum cum penna varia veteri.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=2913|end_char=2917
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=2918|end_char=2922
+3	mantellum	mantellum	NOUN	n-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	0:root	start_char=2923|end_char=2932
+4	scurum	scurus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Sing	3	nmod	3:nmod	start_char=2933|end_char=2939
+5	cum	cum	ADP	r--------	AdpType=Prep	6	case	6:case	start_char=2940|end_char=2943
+6	penna	poenna	NOUN	n-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	3	obl	3:obl	start_char=2944|end_char=2949
+7	varia	uarius	ADJ	a-p---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur	3	amod	3:amod	start_char=2950|end_char=2955
+8	veteri	ueterus	ADJ	a-s---mba	Case=Abl|Degree=Abs|Gender=Masc|InflClass=IndEurO|Number=Sing	6	amod	6:amod	start_char=2956|end_char=2962
+9	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=2963|end_char=2964
+
+# sent_id = 6E7C998C-C5EC-4404-8495-7E4851827653
+# text = Item unam tabulam cum tabulonis.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=2966|end_char=2970
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=2971|end_char=2975
+3	tabulam	tabulus	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=2976|end_char=2983
+4	cum	cum	SCONJ	c--------	PronType=Rel	5	mark	5:mark	start_char=2984|end_char=2987
+5	tabulonis	tabulo	NOUN	n-s---fg-	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing	3	nmod	3:nmod	start_char=2988|end_char=2997
+6	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=2998|end_char=2999
+
+# sent_id = 4929A667-8B88-4560-8933-EEF4E6886A88
+# text = Item unum copertorium cum penna.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=3001|end_char=3005
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	0	root	0:root	start_char=3006|end_char=3010
+3	copertorium	copertorium	NOUN	n-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	2	xcomp:pred	2:xcomp:pred	start_char=3011|end_char=3022
+4	cum	cum	ADP	r--------	AdpType=Prep	5	case	5:case	start_char=3023|end_char=3026
+5	penna	poenna	NOUN	n-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	3	obl	3:obl	start_char=3027|end_char=3032
+6	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=3033|end_char=3034
+
+# sent_id = 2C06AFB5-0AC3-44C8-AD4E-A06A2F16D131
+# text = Item quatuor descargatorias.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=3036|end_char=3040
+2	quatuor	quattuor	NUM	m-p------	InflClass=Ind|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=3041|end_char=3048
+3	descargatorias	descargatorium	NOUN	n-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	0	root	0:root	start_char=3049|end_char=3063
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=3064|end_char=3065
+
+# sent_id = 4B88CBFE-7399-4788-8BE0-634F95F0A452
+# text = Item unum supertunicale lividi clari vetus et cum pellissono.
+1	Item	item	ADV	d--------	_	2	advmod	2:advmod	start_char=3067|end_char=3071
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	0	root	0:root	start_char=3072|end_char=3076
+3	supertunicale	supertunicalis	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurI|Number=Sing	2	amod	2:amod	start_char=3077|end_char=3090
+4	lividi	liuidus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurX|Number=Sing	2	nmod	2:nmod	start_char=3091|end_char=3097
+5	clari	claris	NOUN	n-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Sing	4	nmod	4:nmod	start_char=3098|end_char=3103
+6	vetus	uetus	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurI|Number=Sing	2	conj	2:conj	start_char=3104|end_char=3109
+7	et	et	CCONJ	c--------	_	9	cc	9:cc	start_char=3110|end_char=3112
+8	cum	cum	ADP	r--------	AdpType=Prep	9	case	9:case	start_char=3113|end_char=3116
+9	pellissono	pellissonus	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	6	obl	6:obl	start_char=3117|end_char=3127
+10	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=3128|end_char=3129
+
+# sent_id = 707FE6E8-64C6-4B04-9B1B-7994C80713DB
+# text = Item unam tabulam.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=3131|end_char=3135
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=3136|end_char=3140
+3	tabulam	tabulus	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=3141|end_char=3148
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=3149|end_char=3150
+
+# sent_id = AF462C53-0DE2-4759-B28C-12FD36B589AE
+# text = Item unum gardacossum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=3152|end_char=3156
+2	unum	unus	NUM	m-s---na-	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nsubj	3:nsubj	start_char=3157|end_char=3161
+3	gardacossum	gardaco	VERB	v--rnp---	Aspect=Perf|InflClass=LatX|InflClass[noun]=Ind|Tense=Past|VerbForm=Inf|Voice=Pass	0	root	0:root	start_char=3162|end_char=3173
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=3174|end_char=3175
+
+# sent_id = 73B24D47-BC0C-41DC-834F-51BC5702D7F0
+# text = Item tres mappas.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=3177|end_char=3181
+2	tres	tres	NUM	m-p---ma-	Case=Acc|Gender=Masc|InflClass=IndEurI|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=3182|end_char=3186
+3	mappas	mappa	NOUN	n-p---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Plur	0	root	0:root	start_char=3187|end_char=3193
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=3194|end_char=3195
+
+# sent_id = CDD67869-1D49-4FAA-8E1D-2FB129BAEB70
+# text = Item tria linteamina.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=3197|end_char=3201
+2	tria	tres	NUM	m-p---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=3202|end_char=3206
+3	linteamina	linteamina	NOUN	n-p---nn-	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Plur	0	root	0:root	start_char=3207|end_char=3217
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=3218|end_char=3219
+
+# sent_id = 14ADF4E3-FA71-444D-815A-35048C6AEF15
+# text = Item tria manutergia.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=3221|end_char=3225
+2	tria	tres	NUM	m-p---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=3226|end_char=3230
+3	manutergia	manutergia	NOUN	n-p---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur	0	root	0:root	start_char=3231|end_char=3241
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=3242|end_char=3243
+
+# sent_id = F1111BCA-A59C-4D04-AAB8-344F9F21EC9A
+# text = Item unam aliam tunicam.
+1	Item	item	ADV	d--------	_	2	advmod	2:advmod	start_char=3245|end_char=3249
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	0	root	0:root	start_char=3250|end_char=3254
+3	aliam	alius	DET	p-s---fa-	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Ind	4	det	4:det	start_char=3255|end_char=3260
+4	tunicam	tunica	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	2	orphan	2:orphan	start_char=3261|end_char=3268
+5	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=3269|end_char=3270
+
+# sent_id = 6BE1010D-83A3-4730-AD62-F5BED68F602D
+# text = Item unam sartaginem.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=3272|end_char=3276
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=3277|end_char=3281
+3	sartaginem	sartagina	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	0	root	0:root	start_char=3282|end_char=3292
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=3293|end_char=3294
+
+# sent_id = 6CCFF5A3-31A9-4B93-9563-18D7B48A88EE
+# text = Item duas cruces de lotono unam parvam et unam magnam.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=3296|end_char=3300
+2	duas	duo	NUM	m-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=3301|end_char=3305
+3	cruces	crux	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	0	root	0:root	start_char=3306|end_char=3312
+4	de	de	ADP	r--------	AdpType=Prep	5	case	5:case	start_char=3313|end_char=3315
+5	lotono	lotonus	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	3	nmod	3:nmod	start_char=3316|end_char=3322
+6	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	5	det	5:det	start_char=3323|end_char=3327
+7	parvam	paruus	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	3	amod	3:amod	start_char=3328|end_char=3334
+8	et	et	CCONJ	c--------	_	9	cc	9:cc	start_char=3335|end_char=3337
+9	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	7	conj	7:conj	start_char=3338|end_char=3342
+10	magnam	magnus	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	9	amod	9:amod	start_char=3343|end_char=3349
+11	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=3350|end_char=3351
+
+# sent_id = B049487F-4373-45E9-8C08-AF59D770643F
+# text = Item unus parvus platellus.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	start_char=3353|end_char=3357
+2	unus	unus	NUM	m-s---mn-	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	4	det	4:det	start_char=3358|end_char=3362
+3	parvus	paruus	ADJ	a-s---mnp	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	4	amod	4:amod	start_char=3363|end_char=3369
+4	platellus	platellus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	0	root	0:root	start_char=3370|end_char=3379
+5	.	.	PUNCT	u--------	_	4	punct	4:punct	start_char=3380|end_char=3381
+
+# sent_id = 130A0118-85EE-4B59-B69F-A60BBD37EB5B
+# text = Item una misseraba de stagno.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=3383|end_char=3387
+2	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nsubj	3:nsubj	start_char=3388|end_char=3391
+3	misseraba	missero	VERB	v3srip---	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	start_char=3392|end_char=3401
+4	de	de	ADP	r--------	AdpType=Prep	5	case	5:case	start_char=3402|end_char=3404
+5	stagno	stagnus	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	3	obl	3:obl	start_char=3405|end_char=3411
+6	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=3412|end_char=3413
+
+# sent_id = 1CB12FD8-C639-4C2E-867B-2DC7EE208696
+# text = Item una flassiata antiqua.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=3415|end_char=3419
+2	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nsubj	3:nsubj	start_char=3420|end_char=3423
+3	flassiata	flassisco	VERB	v-srppfn-	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Fem|InflClass=LatA|InflClass[noun]=IndEurA|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	start_char=3424|end_char=3433
+4	antiqua	antiquus	ADJ	a-s---fnp	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	2	amod	2:amod	start_char=3434|end_char=3441
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=3442|end_char=3443
+
+# sent_id = 99BB9F1C-AFA5-4693-A134-B8EDB93218E9
+# text = Item unam capciam.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=3445|end_char=3449
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=3450|end_char=3454
+3	capciam	capcia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=3455|end_char=3462
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=3463|end_char=3464
+
+# sent_id = D547C617-8E57-454C-86D2-8B744C42ADE8
+# text = Item unam gavedam.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=3466|end_char=3470
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=3471|end_char=3475
+3	gavedam	gaueda	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=3476|end_char=3483
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=3484|end_char=3485
+
+# sent_id = 3937B46B-5703-48C7-8AD2-089D96CF0A14
+# text = Item duas botas plenas vino.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=3487|end_char=3491
+2	duas	duo	NUM	m-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=3492|end_char=3496
+3	botas	botus	NOUN	n-p---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Plur	0	root	0:root	start_char=3497|end_char=3502
+4	plenas	plaenus	ADJ	a-p---fap	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Plur	5	amod	5:amod	start_char=3503|end_char=3509
+5	vino	uinum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	3	nmod	3:nmod	start_char=3510|end_char=3514
+6	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=3515|end_char=3516
+
+# sent_id = 9850E3FE-D4AC-45D7-A2A1-943D42AE3338
+# text = Item unum asinum pili albi.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=3518|end_char=3522
+2	unum	unus	NUM	m-s---ma-	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=3523|end_char=3527
+3	asinum	asinus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing	0	root	0:root	start_char=3528|end_char=3534
+4	pili	pilus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Sing	3	nmod	3:nmod	start_char=3535|end_char=3539
+5	albi	album	NOUN	n-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Sing	4	nmod	4:nmod	start_char=3540|end_char=3544
+6	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=3545|end_char=3546
+
+# sent_id = 20D35C6F-3472-4CF0-A672-B5A25264791A
+# text = Item unam ayssatam.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=3548|end_char=3552
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nsubj:pass	3:nsubj:pass	start_char=3553|end_char=3557
+3	ayssatam	aisso	VERB	v-srppfa-	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Fem|InflClass=LatA|InflClass[noun]=IndEurA|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	start_char=3558|end_char=3566
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=3567|end_char=3568
+
+# sent_id = C4CF21C7-6C9B-402B-AD16-9A3D79BCB8BA
+# text = Item quidecim mapas signatas cabatas de cotono livido.
+1	Item	item	ADV	d--------	_	8	advmod	8:advmod	start_char=3570|end_char=3574
+2	quidecim	quidecim	NUM	m-p------	InflClass=Ind|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=3575|end_char=3583
+3	mapas	mapa	NOUN	n-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	8	obj	8:obj	start_char=3584|end_char=3589
+4	signatas	signo	VERB	v-prppfa-	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Fem|InflClass=LatA|InflClass[noun]=IndEurA|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	3:acl	start_char=3590|end_char=3598
+5	cabatas	cabo	VERB	v-prppfa-	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Fem|InflClass=LatA|InflClass[noun]=IndEurA|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	3:acl	start_char=3599|end_char=3606
+6	de	de	ADP	r--------	AdpType=Prep	7	case	7:case	start_char=3607|end_char=3609
+7	cotono	cotonus	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	8	obl	8:obl	start_char=3610|end_char=3616
+8	livido	liuido	VERB	v1spia---	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	start_char=3617|end_char=3623
+9	.	.	PUNCT	u--------	_	8	punct	8:punct	start_char=3624|end_char=3625
+
+# sent_id = 53E7D352-2EB0-4062-9C40-95F39101186D
+# text = Item unum pannum de auro album.
+1	Item	item	ADV	d--------	_	2	advmod	2:advmod	start_char=3627|end_char=3631
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	0	root	0:root	start_char=3632|end_char=3636
+3	pannum	pannum	NOUN	n-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	2	xcomp:pred	2:xcomp:pred	start_char=3637|end_char=3643
+4	de	de	ADP	r--------	AdpType=Prep	5	case	5:case	start_char=3644|end_char=3646
+5	auro	aurum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	6	obl	6:obl	start_char=3647|end_char=3651
+6	album	album	NOUN	n-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	3	conj	3:conj	start_char=3652|end_char=3657
+7	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=3658|end_char=3659
+
+# sent_id = D8689352-A05F-482E-9777-551F8031A0ED
+# text = Item duo paramenta altaris modici valoris de sirico.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=3661|end_char=3665
+2	duo	duo	NUM	m-p---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=3666|end_char=3669
+3	paramenta	paramentum	NOUN	n-p---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur	0	root	0:root	start_char=3670|end_char=3679
+4	altaris	altare	NOUN	n-s---ng-	Case=Gen|Gender=Neut|InflClass=IndEurX|Number=Sing	3	nmod	3:nmod	start_char=3680|end_char=3687
+5	modici	modicus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Sing	3	nmod	3:nmod	start_char=3688|end_char=3694
+6	valoris	ualorus	ADJ	a-s---mgp	Case=Gen|Degree=Pos|Gender=Masc|InflClass=IndEurX|Number=Sing	5	amod	5:amod	start_char=3695|end_char=3702
+7	de	de	ADP	r--------	AdpType=Prep	8	case	8:case	start_char=3703|end_char=3705
+8	sirico	siricus	ADJ	a-s---nbp	Case=Abl|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	6	obl	6:obl	start_char=3706|end_char=3712
+9	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=3713|end_char=3714
+
+# sent_id = BF54A2BC-F7D1-4E38-89B5-AB5111ED94FA
+# text = Et primo in focanea dicti domus.
+1	Et	et	CCONJ	c--------	_	6	cc	6:cc	start_char=3716|end_char=3718
+2	primo	primo	ADV	d--------	Degree=Pos|NumType=Ord	6	advmod	6:advmod	start_char=3719|end_char=3724
+3	in	in	ADP	r--------	AdpType=Prep	4	case	4:case	start_char=3725|end_char=3727
+4	focanea	focaneus	ADJ	a-s---fbp	Case=Abl|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	5	obl	5:obl	start_char=3728|end_char=3735
+5	dicti	dico	VERB	v-prppmn-	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatX|InflClass[noun]=IndEurO|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	6	acl	6:acl	start_char=3736|end_char=3741
+6	domus	domus	NOUN	n-s---fn-	Case=Nom|Gender=Fem|InflClass=IndEurU|Number=Sing|VerbForm=Part	0	root	0:root	start_char=3742|end_char=3747
+7	.	.	PUNCT	u--------	_	6	punct	6:punct	start_char=3748|end_char=3749
+
+# sent_id = EEA624C6-F69A-477E-86E8-DECDD074290C
+# text = Unam sartaginem.
+1	Unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	2	nummod	2:nummod	start_char=3751|end_char=3755
+2	sartaginem	sartagina	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	0	root	0:root	start_char=3756|end_char=3766
+3	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=3767|end_char=3768
+
+# sent_id = 4D8A624C-CD62-4D06-BB85-282172568844
+# text = Item unam parvam brocam ferream.
+1	Item	item	ADV	d--------	_	2	advmod	2:advmod	start_char=3770|end_char=3774
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	4	nummod	4:nummod	start_char=3775|end_char=3779
+3	parvam	paruus	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	5	amod	5:amod	start_char=3780|end_char=3786
+4	brocam	broca	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=3787|end_char=3793
+5	ferream	ferrea	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	4	amod	4:amod	start_char=3794|end_char=3801
+6	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=3802|end_char=3803
+
+# sent_id = BDE102D9-D679-4612-8B68-E703C0372475
+# text = Item tria endessia tam parva quam magna debilia.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=3805|end_char=3809
+2	tria	tres	NUM	m-p---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=3810|end_char=3814
+3	endessia	endessia	NOUN	n-p---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur	0	root	0:root	start_char=3815|end_char=3823
+4	tam	tam	ADV	d--------	PronType=Dem	5	advmod	5:advmod	start_char=3824|end_char=3827
+5	parva	paruus	ADJ	a-p---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur	3	amod	3:amod	start_char=3828|end_char=3833
+6	quam	quam	SCONJ	c--------	ConjType=Cmpr|PronType=Rel	7	mark	7:mark	start_char=3834|end_char=3838
+7	magna	magnus	ADJ	a-p---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur	8	advcl:cmpr	8:advcl:cmpr	start_char=3839|end_char=3844
+8	debilia	debilis	ADJ	a-p---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurI|Number=Plur	3	conj	3:conj	start_char=3845|end_char=3852
+9	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=3853|end_char=3854
+
+# sent_id = 0F9C8EB6-4A21-41CF-9D93-C141E8D837DD
+# text = Item unum morterium magnum lapideum.
+1	Item	item	ADV	d--------	_	2	advmod	2:advmod	start_char=3856|end_char=3860
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	0	root	0:root	start_char=3861|end_char=3865
+3	morterium	morterium	NOUN	n-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	2	xcomp:pred	2:xcomp:pred	start_char=3866|end_char=3875
+4	magnum	magnus	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	3	amod	3:amod	start_char=3876|end_char=3882
+5	lapideum	lapideus	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	3	amod	3:amod	start_char=3883|end_char=3891
+6	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=3892|end_char=3893
+
+# sent_id = E6F04334-BA07-437A-A1D5-91F9A41E067D
+# text = Item unum brocum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=3895|end_char=3899
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=3900|end_char=3904
+3	brocum	brocus	NOUN	n-s---na-	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	0:root	start_char=3905|end_char=3911
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=3912|end_char=3913
+
+# sent_id = 9F62278A-9DE9-498A-B32B-79C7B053EAC8
+# text = Item unum cacobum tenentem unum brocum et medium vel circa.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	start_char=3915|end_char=3919
+2	unum	unus	NUM	m-s---ma-	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	6	nummod	6:nummod	start_char=3920|end_char=3924
+3	cacobum	cacobus	NOUN	n-p---mg-	Case=Gen|Gender=Masc|InflClass=IndEurX|Number=Plur	4	nmod	4:nmod	start_char=3925|end_char=3932
+4	tenentem	teneo	VERB	v-sppama-	Aspect=Imp|Case=Acc|Degree=Pos|Gender=Masc|InflClass=LatE|InflClass[noun]=IndEurI|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	0:root	start_char=3933|end_char=3941
+5	unum	unus	NUM	m-s---ma-	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	6	nummod	6:nummod	start_char=3942|end_char=3946
+6	brocum	brocus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing	4	obj	4:obj	start_char=3947|end_char=3953
+7	et	et	CCONJ	c--------	_	8	cc	8:cc	start_char=3954|end_char=3956
+8	medium	medium	NOUN	n-s---na-	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing	6	conj	6:conj	start_char=3957|end_char=3963
+9	vel	uel	CCONJ	c--------	_	8	cc	8:cc	start_char=3964|end_char=3967
+10	circa	circa	ADP	r--------	AdpType=Prep	8	case	8:case	start_char=3968|end_char=3973
+11	.	.	PUNCT	u--------	_	4	punct	4:punct	start_char=3974|end_char=3975
+
+# sent_id = B48D69AC-0AFA-46D5-B90D-4E94E195E878
+# text = Item duos tianos terre.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=3977|end_char=3981
+2	duos	duo	NUM	m-p---ma-	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=3982|end_char=3986
+3	tianos	tianus	NOUN	n-p---ma-	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur	0	root	0:root	start_char=3987|end_char=3993
+4	terre	terra	NOUN	n-s---fg-	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing	3	nmod	3:nmod	start_char=3994|end_char=3999
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=4000|end_char=4001
+
+# sent_id = 3600EF11-3EFF-42CC-A669-CD856953D59F
+# text = In quadam camera prope focaneam.
+1	In	in	ADP	r--------	AdpType=Prep	3	case	3:case	start_char=4003|end_char=4005
+2	quadam	quidam	DET	p-s---fb-	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Ind	3	det	3:det	start_char=4006|end_char=4012
+3	camera	camera	NOUN	n-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=4013|end_char=4019
+4	prope	prope	ADP	r--------	AdpType=Prep	5	case	5:case	start_char=4020|end_char=4025
+5	focaneam	focaneus	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	3	obl	3:obl	start_char=4026|end_char=4034
+6	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=4035|end_char=4036
+
+# sent_id = A1295D10-375C-46F2-A18D-B43C330D5E50
+# text = Item unam benham fuste.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=4038|end_char=4042
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	4	nummod	4:nummod	start_char=4043|end_char=4047
+3	benham	benha	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	4	amod	4:amod	start_char=4048|end_char=4054
+4	fuste	fustis	NOUN	n-s---ma-	Case=Acc|Gender=Masc|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=4055|end_char=4060
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=4061|end_char=4062
+
+# sent_id = 7EEF6E9B-E0C7-4AFD-860A-A7520FB5846A
+# text = Item unam furcam ferri.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	start_char=4064|end_char=4068
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=4069|end_char=4073
+3	furcam	furca	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	4	obj	4:obj	start_char=4074|end_char=4080
+4	ferri	fero	VERB	v--pnp---	Aspect=Imp|InflClass=LatI2|InflClass[noun]=Ind|Tense=Pres|VerbForm=Inf|Voice=Pass	0	root	0:root	start_char=4081|end_char=4086
+5	.	.	PUNCT	u--------	_	4	punct	4:punct	start_char=4087|end_char=4088
+
+# sent_id = E06280FD-328D-4A48-A96D-9AEDB103AE48
+# text = Item duas barrilas pauci valoris.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	start_char=4090|end_char=4094
+2	duas	duo	NUM	m-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=4095|end_char=4099
+3	barrilas	barrila	NOUN	n-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	4	obl	4:obl	start_char=4100|end_char=4108
+4	pauci	paucus	DET	p-p---mn-	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Plur|NumType=Card|PronType=Ind	0	root	0:root	start_char=4109|end_char=4114
+5	valoris	ualorus	ADJ	a-s---mgp	Case=Gen|Degree=Pos|Gender=Masc|InflClass=IndEurX|Number=Sing	4	orphan	4:orphan	start_char=4115|end_char=4122
+6	.	.	PUNCT	u--------	_	4	punct	4:punct	start_char=4123|end_char=4124
+
+# sent_id = CD8BC211-2535-4478-92C6-731F367526BD
+# text = Item unam scalam.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=4126|end_char=4130
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=4131|end_char=4135
+3	scalam	scala	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=4136|end_char=4142
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=4143|end_char=4144
+
+# sent_id = 5B39ABFB-B5F0-483D-B318-A2C7CDC51923
+# text = Item in aula.
+1	Item	item	ADV	d--------	_	0	root	0:root	start_char=4146|end_char=4150
+2	in	in	ADP	r--------	AdpType=Prep	3	case	3:case	start_char=4151|end_char=4153
+3	aula	aula	NOUN	n-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	1	obl	1:obl	start_char=4154|end_char=4158
+4	.	.	PUNCT	u--------	_	1	punct	1:punct	start_char=4159|end_char=4160
+
+# sent_id = 4373608D-7A25-43E1-B728-4BA4C9C73703
+# text = unam magnam capsiam.
+1	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=4162|end_char=4166
+2	magnam	magnus	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	3	amod	3:amod	start_char=4167|end_char=4173
+3	capsiam	capsia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=4174|end_char=4181
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=4182|end_char=4183
+
+# sent_id = 3C40B861-0EFF-49A3-B5AA-49A7708F087A
+# text = Item quinque coffinos.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=4185|end_char=4189
+2	quinque	quinque	NUM	m-p------	InflClass=Ind|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=4190|end_char=4197
+3	coffinos	coffinus	NOUN	n-p---mb-	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Plur	0	root	0:root	start_char=4198|end_char=4206
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=4207|end_char=4208
+
+# sent_id = 3D7EC420-3595-43FD-A355-A69C1FBAA0F4
+# text = Item unam parvam tabulam ad portandum panem.
+1	Item	item	ADV	d--------	_	2	advmod	2:advmod	start_char=4210|end_char=4214
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	0	root	0:root	start_char=4215|end_char=4219
+3	parvam	paruus	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	4	amod	4:amod	start_char=4220|end_char=4226
+4	tabulam	tabulus	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	2	orphan	2:orphan	start_char=4227|end_char=4234
+5	ad	ad	ADP	r--------	AdpType=Prep	6	case	6:case	start_char=4235|end_char=4237
+6	portandum	porto	VERB	v-sfdpna-	Aspect=Imp|Case=Acc|Gender=Neut|InflClass=LatA|InflClass[noun]=IndEurO|Number=Sing|Tense=Fut|VerbForm=Ger|Voice=Pass	2	advcl	2:advcl	start_char=4238|end_char=4247
+7	panem	panis	NOUN	n-s---ma-	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Sing	6	obj	6:obj	start_char=4248|end_char=4253
+8	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=4254|end_char=4255
+
+# sent_id = 2189D7F7-9C0D-4392-AE77-33B0A4D5A961
+# text = Item duos parvos submensales.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	start_char=4257|end_char=4261
+2	duos	duo	NUM	m-p---ma-	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur|NumForm=Word|NumType=Card	4	nummod	4:nummod	start_char=4262|end_char=4266
+3	parvos	paruus	ADJ	a-p---map	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Plur	4	amod	4:amod	start_char=4267|end_char=4273
+4	submensales	submensalis	ADJ	a-p---map	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurI|Number=Plur	0	root	0:root	start_char=4274|end_char=4285
+5	.	.	PUNCT	u--------	_	4	punct	4:punct	start_char=4286|end_char=4287
+
+# sent_id = 1B17133E-0C82-4C05-82AA-0D3A9CA7527D
+# text = Item unum bancum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=4289|end_char=4293
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=4294|end_char=4298
+3	bancum	bancum	NOUN	n-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	0:root	start_char=4299|end_char=4305
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=4306|end_char=4307
+
+# sent_id = 6BDD77FC-A20B-4906-8C76-9B8767AA5514
+# text = Item unam mastram.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=4309|end_char=4313
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=4314|end_char=4318
+3	mastram	mastra	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=4319|end_char=4326
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=4327|end_char=4328
+
+# sent_id = A64FF877-7EBE-449A-88E9-B6F8F368ABB6
+# text = Item unum brocum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=4330|end_char=4334
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=4335|end_char=4339
+3	brocum	brocus	NOUN	n-s---na-	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	0:root	start_char=4340|end_char=4346
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=4347|end_char=4348
+
+# sent_id = 771F8098-90DA-4DBD-9062-00BBA66AE7E1
+# text = Item unum cartale.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=4350|end_char=4354
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nsubj	3:nsubj	start_char=4355|end_char=4359
+3	cartale	cartalis	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurI|Number=Sing	0	root	0:root	start_char=4360|end_char=4367
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=4368|end_char=4369
+
+# sent_id = CA5B9CD3-E927-4174-9B0A-087C057CC3FC
+# text = Item unum parvum embutum.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	start_char=4371|end_char=4375
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	4	det	4:det	start_char=4376|end_char=4380
+3	parvum	paruus	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	2	amod	2:amod	start_char=4381|end_char=4387
+4	embutum	embutum	NOUN	n-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	0:root	start_char=4388|end_char=4395
+5	.	.	PUNCT	u--------	_	4	punct	4:punct	start_char=4396|end_char=4397
+
+# sent_id = 5A69E24C-0B79-457E-91A4-EC56085A6ADB
+# text = Item tres parvas capsias.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	start_char=4399|end_char=4403
+2	tres	tres	NUM	m-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurI|Number=Plur|NumForm=Word|NumType=Card	4	nummod	4:nummod	start_char=4404|end_char=4408
+3	parvas	paruus	ADJ	a-p---fap	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Plur	4	amod	4:amod	start_char=4409|end_char=4415
+4	capsias	capsia	NOUN	n-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	0	root	0:root	start_char=4416|end_char=4423
+5	.	.	PUNCT	u--------	_	4	punct	4:punct	start_char=4424|end_char=4425
+
+# sent_id = 5DE70181-7C26-46F9-A45D-FE43B1E318E0
+# text = Item unam giradoyram ferri.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	start_char=4427|end_char=4431
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=4432|end_char=4436
+3	giradoyram	girado	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	4	obj	4:obj	start_char=4437|end_char=4447
+4	ferri	fero	VERB	v--pnp---	Aspect=Imp|InflClass=LatX|InflClass[noun]=Ind|Tense=Pres|VerbForm=Inf|Voice=Pass	0	root	0:root	start_char=4448|end_char=4453
+5	.	.	PUNCT	u--------	_	4	punct	4:punct	start_char=4454|end_char=4455
+
+# sent_id = C0B208C5-A2C4-4064-9C20-7E79438F8CF0
+# text = Item quatuor longerias.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=4457|end_char=4461
+2	quatuor	quattuor	NUM	m-p------	InflClass=Ind|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=4462|end_char=4469
+3	longerias	longerius	ADJ	a-p---fap	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Plur	0	root	0:root	start_char=4470|end_char=4479
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=4480|end_char=4481
+
+# sent_id = 12608515-FBF5-4C25-AAF6-FFC1CF1E13E7
+# text = Item novem linteamina tam bona quam debilia.
+1	Item	item	ADV	d--------	_	5	advmod	5:advmod	start_char=4483|end_char=4487
+2	novem	nouus	ADJ	a-p---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur	3	amod	3:amod	start_char=4488|end_char=4493
+3	linteamina	linteamina	NOUN	n-p---nn-	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Plur	5	nsubj	5:nsubj	start_char=4494|end_char=4504
+4	tam	tam	ADV	d--------	PronType=Dem	5	advmod	5:advmod	start_char=4505|end_char=4508
+5	bona	bonus	ADJ	a-p---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur	0	root	0:root	start_char=4509|end_char=4513
+6	quam	quam	SCONJ	c--------	ConjType=Cmpr|PronType=Rel	7	mark	7:mark	start_char=4514|end_char=4518
+7	debilia	debilis	ADJ	a-p---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurI|Number=Plur	5	advcl:cmpr	5:advcl:cmpr	start_char=4519|end_char=4526
+8	.	.	PUNCT	u--------	_	5	punct	5:punct	start_char=4527|end_char=4528
+
+# sent_id = 4C86EC9F-9457-4262-8FAD-544CAE3D0400
+# text = In uno meiano sunt viginti quinque mappe tam bone quam debiles et tam parve quam magne.
+1	In	in	ADP	r--------	AdpType=Prep	3	case	3:case	start_char=4530|end_char=4532
+2	uno	unus	NUM	m-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	det	3:det	start_char=4533|end_char=4536
+3	meiano	meianus	NOUN	n-s---mb-	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing	7	obl	7:obl	start_char=4537|end_char=4543
+4	sunt	sum	AUX	v3ppi----	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	7:cop	start_char=4544|end_char=4548
+5	viginti	uiginti	NUM	m-p------	InflClass=Ind|Number=Plur|NumForm=Word|NumType=Card	7	nummod	7:nummod	start_char=4549|end_char=4556
+6	quinque	quinque	NUM	m-p------	InflClass=Ind|Number=Plur|NumForm=Word|NumType=Card	7	nummod	7:nummod	start_char=4557|end_char=4564
+7	mappe	mappa	NOUN	n-p---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Plur	0	root	0:root	start_char=4565|end_char=4570
+8	tam	tam	ADV	d--------	PronType=Dem	11	advmod:emph	11:advmod:emph	start_char=4571|end_char=4574
+9	bone	bonus	ADJ	a-s---fgp	Case=Gen|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	7	amod	7:amod	start_char=4575|end_char=4579
+10	quam	quam	SCONJ	c--------	ConjType=Cmpr|PronType=Rel	11	mark	11:mark	start_char=4580|end_char=4584
+11	debiles	debilis	ADJ	a-p---mnp	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurI|Number=Plur	7	advcl:cmpr	7:advcl:cmpr	start_char=4585|end_char=4592
+12	et	et	CCONJ	c--------	_	14	cc	14:cc	start_char=4593|end_char=4595
+13	tam	tam	ADV	d--------	PronType=Dem	14	advmod:emph	14:advmod:emph	start_char=4596|end_char=4599
+14	parve	parua	NOUN	n-s---fg-	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing	11	conj	11:conj	start_char=4600|end_char=4605
+15	quam	quam	SCONJ	c--------	ConjType=Cmpr|PronType=Rel	16	mark	16:mark	start_char=4606|end_char=4610
+16	magne	magnus	ADJ	a-s---mvp	Case=Voc|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	14	advcl:cmpr	14:advcl:cmpr	start_char=4611|end_char=4616
+17	.	.	PUNCT	u--------	_	7	punct	7:punct	start_char=4617|end_char=4618
+
+# sent_id = 3E553594-8EAB-4039-A11A-CC4A10C97675
+# text = Item unam choppam hominis foderatam de boscassino livido.
+1	Item	item	ADV	d--------	_	8	advmod	8:advmod	start_char=4620|end_char=4624
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=4625|end_char=4629
+3	choppam	choppa	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	8	obj	8:obj	start_char=4630|end_char=4637
+4	hominis	homo	NOUN	n-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurX|Number=Sing	3	nmod	3:nmod	start_char=4638|end_char=4645
+5	foderatam	fodero	VERB	v-srppfa-	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Fem|InflClass=LatA|InflClass[noun]=IndEurA|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	3:acl	start_char=4646|end_char=4655
+6	de	de	ADP	r--------	AdpType=Prep	7	case	7:case	start_char=4656|end_char=4658
+7	boscassino	boscassinus	ADJ	a-s---nbp	Case=Abl|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	8	obl	8:obl	start_char=4659|end_char=4669
+8	livido	liuido	VERB	v3spia---	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	start_char=4670|end_char=4676
+9	.	.	PUNCT	u--------	_	8	punct	8:punct	start_char=4677|end_char=4678
+
+# sent_id = B3F52098-92CD-44C4-88C5-96584E08D57A
+# text = Item unam choppam hominis de panno burelli cum penna nigra.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=4680|end_char=4684
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=4685|end_char=4689
+3	choppam	choppa	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=4690|end_char=4697
+4	hominis	homo	NOUN	n-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurX|Number=Sing	3	nmod	3:nmod	start_char=4698|end_char=4705
+5	de	de	ADP	r--------	AdpType=Prep	6	case	6:case	start_char=4706|end_char=4708
+6	panno	pannus	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	3	nmod	3:nmod	start_char=4709|end_char=4714
+7	burelli	burellum	NOUN	n-s---ng-	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing	6	nmod	6:nmod	start_char=4715|end_char=4722
+8	cum	cum	ADP	r--------	AdpType=Prep	9	case	9:case	start_char=4723|end_char=4726
+9	penna	poenna	NOUN	n-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	6	nmod	6:nmod	start_char=4727|end_char=4732
+10	nigra	nigrus	ADJ	a-s---fbp	Case=Abl|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	9	amod	9:amod	start_char=4733|end_char=4738
+11	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=4739|end_char=4740
+
+# sent_id = D053DCDE-8528-4844-A5BC-7FCBFE1448B3
+# text = Item unam choppam de mesclato cum penna de fayna.
+1	Item	item	ADV	d--------	_	5	advmod	5:advmod	start_char=4742|end_char=4746
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=4747|end_char=4751
+3	choppam	choppa	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	5	nsubj	5:nsubj	start_char=4752|end_char=4759
+4	de	de	ADP	r--------	AdpType=Prep	5	case	5:case	start_char=4760|end_char=4762
+5	mesclato	mesclatum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	0:root	start_char=4763|end_char=4771
+6	cum	cum	SCONJ	c--------	PronType=Rel	9	mark	9:mark	start_char=4772|end_char=4775
+7	penna	poenna	NOUN	n-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	5	conj	5:conj	start_char=4776|end_char=4781
+8	de	de	ADP	r--------	AdpType=Prep	9	case	9:case	start_char=4782|end_char=4784
+9	fayna	fayna	NOUN	n-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	7	nmod	7:nmod	start_char=4785|end_char=4790
+10	.	.	PUNCT	u--------	_	5	punct	5:punct	start_char=4791|end_char=4792
+
+# sent_id = B50C45C4-3CAC-43BD-994B-C6A974854D3A
+# text = Item unam choppam de mesclato.
+1	Item	item	ADV	d--------	_	5	advmod	5:advmod	start_char=4794|end_char=4798
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=4799|end_char=4803
+3	choppam	choppa	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=4804|end_char=4811
+4	de	de	ADP	r--------	AdpType=Prep	5	case	5:case	start_char=4812|end_char=4814
+5	mesclato	mesclatum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	3	nmod	3:nmod	start_char=4815|end_char=4823
+6	.	.	PUNCT	u--------	_	5	punct	5:punct	start_char=4824|end_char=4825
+
+# sent_id = FA654852-AB90-4137-B7A8-3A434596F154
+# text = Item unam cassiam de noguerio magnam in qua sunt res subscripte.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=4827|end_char=4831
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=4832|end_char=4836
+3	cassiam	cassia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=4837|end_char=4844
+4	de	de	ADP	r--------	AdpType=Prep	5	case	5:case	start_char=4845|end_char=4847
+5	noguerio	noguerium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	3	obl	3:obl	start_char=4848|end_char=4856
+6	magnam	magnus	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	5	amod	5:amod	start_char=4857|end_char=4863
+7	in	in	ADP	r--------	AdpType=Prep	8	case	8:case	start_char=4864|end_char=4866
+8	qua	qui	PRON	p-s---fb-	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Rel	11	obl	11:obl	start_char=4867|end_char=4870
+9	sunt	sum	AUX	v3ppi----	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	11:aux:pass	start_char=4871|end_char=4875
+10	res	res	NOUN	n-p---fn-	Case=Nom|Gender=Fem|InflClass=IndEurE|Number=Plur	11	nsubj:pass	11:nsubj:pass	start_char=4876|end_char=4879
+11	subscripte	subscribo	VERB	v-prppfn-	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Fem|InflClass=LatX|InflClass[noun]=IndEurA|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	5:acl	start_char=4880|end_char=4890
+12	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=4891|end_char=4892
+
+# sent_id = 4B049235-B991-459F-84E9-659FEBD931F0
+# text = Item duo bancalia de sirico rubeo et croceo.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=4894|end_char=4898
+2	duo	duo	NUM	m-p---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=4899|end_char=4902
+3	bancalia	bancalis	ADJ	a-p---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurI|Number=Plur	0	root	0:root	start_char=4903|end_char=4911
+4	de	de	ADP	r--------	AdpType=Prep	5	case	5:case	start_char=4912|end_char=4914
+5	sirico	siricus	ADJ	a-s---nbp	Case=Abl|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	3	obl	3:obl	start_char=4915|end_char=4921
+6	rubeo	rubeus	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	3	obl	3:obl	start_char=4922|end_char=4927
+7	et	et	CCONJ	c--------	_	8	cc	8:cc	start_char=4928|end_char=4930
+8	croceo	croceo	NOUN	n-s---mb-	Case=Abl|Gender=Masc|InflClass=IndEurX|Number=Sing	6	conj	6:conj	start_char=4931|end_char=4937
+9	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=4938|end_char=4939
+
+# sent_id = F5A28F11-F298-4100-8882-BB3BAD8D7757
+# text = Item unum copertorium de sirico facto de bandeira ornato circumcirca suis armis.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=4941|end_char=4945
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=4946|end_char=4950
+3	copertorium	copertorium	NOUN	n-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	0:root	start_char=4951|end_char=4962
+4	de	de	ADP	r--------	AdpType=Prep	6	case	6:case	start_char=4963|end_char=4965
+5	sirico	siricus	ADJ	a-s---nbp	Case=Abl|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	6	amod	6:amod	start_char=4966|end_char=4972
+6	facto	factum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing|VerbForm=Part	3	obl	3:obl	start_char=4973|end_char=4978
+7	de	de	ADP	r--------	AdpType=Prep	8	case	8:case	start_char=4979|end_char=4981
+8	bandeira	bandeus	NOUN	n-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	9	obl	9:obl	start_char=4982|end_char=4990
+9	ornato	orno	VERB	v-srppnb-	Aspect=Perf|Case=Abl|Degree=Pos|Gender=Neut|InflClass=LatA|InflClass[noun]=IndEurO|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	acl	6:acl	start_char=4991|end_char=4997
+10	circumcirca	circumcircus	ADJ	a-p---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur	2	parataxis:rep	2:parataxis:rep	start_char=4998|end_char=5009
+11	suis	suus	DET	p-p---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Plur|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	12	det	12:det	start_char=5010|end_char=5014
+12	armis	arma	NOUN	n-p---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Plur	9	obl	9:obl	start_char=5015|end_char=5020
+13	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=5021|end_char=5022
+
+# sent_id = E7FDBDB5-21E1-42D6-A78B-1B8D667A120D
+# text = Item unum copertorium parvum de sirico cum armis luppi.
+1	Item	item	ADV	d--------	_	9	advmod	9:advmod	start_char=5024|end_char=5028
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=5029|end_char=5033
+3	copertorium	copertorium	NOUN	n-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	9	nsubj	9:nsubj	start_char=5034|end_char=5045
+4	parvum	paruus	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	3	amod	3:amod	start_char=5046|end_char=5052
+5	de	de	ADP	r--------	AdpType=Prep	6	case	6:case	start_char=5053|end_char=5055
+6	sirico	siricus	ADJ	a-s---nbp	Case=Abl|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	9	obl	9:obl	start_char=5056|end_char=5062
+7	cum	cum	ADP	r--------	AdpType=Prep	8	case	8:case	start_char=5063|end_char=5066
+8	armis	arma	NOUN	n-p---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Plur	9	obl	9:obl	start_char=5067|end_char=5072
+9	luppi	luppo	VERB	v3spip---	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	0:root	start_char=5073|end_char=5078
+10	.	.	PUNCT	u--------	_	9	punct	9:punct	start_char=5079|end_char=5080
+
+# sent_id = 94BBA1BF-59DF-475B-A791-C71E15F0046D
+# text = Item unam parvam caxietam cappelle.
+1	Item	item	ADV	d--------	_	5	advmod	5:advmod	start_char=5082|end_char=5086
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	4	nummod	4:nummod	start_char=5087|end_char=5091
+3	parvam	paruus	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	4	amod	4:amod	start_char=5092|end_char=5098
+4	caxietam	caxieta	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	5	obl	5:obl	start_char=5099|end_char=5107
+5	cappelle	cappella	NOUN	n-p---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Plur	0	root	0:root	start_char=5108|end_char=5116
+6	.	.	PUNCT	u--------	_	5	punct	5:punct	start_char=5117|end_char=5118
+
+# sent_id = 77795D42-FD0A-4A10-AC9A-9305CAD8BE11
+# text = Item unum vestir complit.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=5120|end_char=5124
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nsubj	3:nsubj	start_char=5125|end_char=5129
+3	vestir	uestor	VERB	v1spia---	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	4:ccomp	start_char=5130|end_char=5136
+4	complit	compleo	VERB	v3spia---	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	start_char=5137|end_char=5144
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=5145|end_char=5146
+
+# sent_id = D8C1F331-4FF1-4A3F-B068-D4BEFF4BF1DA
+# text = Item unum parvum missale.
+1	Item	item	ADV	d--------	_	2	advmod	2:advmod	start_char=5148|end_char=5152
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	0	root	0:root	start_char=5153|end_char=5157
+3	parvum	paruus	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	2	amod	2:amod	start_char=5158|end_char=5164
+4	missale	missalis	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurI|Number=Sing	2	amod	2:amod	start_char=5165|end_char=5172
+5	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=5173|end_char=5174
+
+# sent_id = 25595939-E533-421B-9920-DC5E6BBF01BD
+# text = Item unam cappam altaris.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=5176|end_char=5180
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=5181|end_char=5185
+3	cappam	cappa	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=5186|end_char=5192
+4	altaris	altare	NOUN	n-s---ng-	Case=Gen|Gender=Neut|InflClass=IndEurX|Number=Sing	3	nmod	3:nmod	start_char=5193|end_char=5200
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=5201|end_char=5202
+
+# sent_id = E10FE68F-5E93-48B8-9D77-4E03EAF16AD5
+# text = Item duo paramenta parva altaris de pano depicto.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=5204|end_char=5208
+2	duo	duo	NUM	m-p---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=5209|end_char=5212
+3	paramenta	paramentum	NOUN	n-p---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur	0	root	0:root	start_char=5213|end_char=5222
+4	parva	paruus	ADJ	a-p---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur	3	amod	3:amod	start_char=5223|end_char=5228
+5	altaris	altare	NOUN	n-s---ng-	Case=Gen|Gender=Neut|InflClass=IndEurX|Number=Sing	3	nmod	3:nmod	start_char=5229|end_char=5236
+6	de	de	ADP	r--------	AdpType=Prep	7	case	7:case	start_char=5237|end_char=5239
+7	pano	panus	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	8	obl	8:obl	start_char=5240|end_char=5244
+8	depicto	depicio	VERB	v-srppnb-	Aspect=Perf|Case=Abl|Degree=Pos|Gender=Neut|InflClass=LatX|InflClass[noun]=IndEurO|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	5:acl	start_char=5245|end_char=5252
+9	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=5253|end_char=5254
+
+# sent_id = 81B96E74-EF7D-4DA9-B507-B1C352F8C771
+# text = In aula.
+1	In	in	ADP	r--------	AdpType=Prep	2	case	2:case	start_char=5256|end_char=5258
+2	aula	aula	NOUN	n-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=5259|end_char=5263
+3	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=5264|end_char=5265
+
+# sent_id = 69445C0C-BEFF-403D-AC96-2347AF88DD72
+# text = Item unam magnam tabulam de sappo cum talonis duobus.
+1	Item	item	ADV	d--------	_	2	advmod	2:advmod	start_char=5267|end_char=5271
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	4	nummod	4:nummod	start_char=5272|end_char=5276
+3	magnam	magnus	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	4	amod	4:amod	start_char=5277|end_char=5283
+4	tabulam	tabulus	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=5284|end_char=5291
+5	de	de	ADP	r--------	AdpType=Prep	6	case	6:case	start_char=5292|end_char=5294
+6	sappo	sappus	NOUN	n-s---mb-	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing	2	obl	2:obl	start_char=5295|end_char=5300
+7	cum	cum	SCONJ	c--------	PronType=Rel	9	mark	9:mark	start_char=5301|end_char=5304
+8	talonis	talon	NOUN	n-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurX|Number=Sing	9	nmod	9:nmod	start_char=5305|end_char=5312
+9	duobus	duo	NUM	m-p---mb-	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Plur|NumForm=Word|NumType=Card	6	det	6:det	start_char=5313|end_char=5319
+10	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=5320|end_char=5321
+
+# sent_id = D670293B-7BF7-4AA2-8204-AE98951986F5
+# text = Item unum dreissatorium de fuste.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=5323|end_char=5327
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	det	3:det	start_char=5328|end_char=5332
+3	dreissatorium	dreissatorium	NOUN	n-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	0:root	start_char=5333|end_char=5346
+4	de	de	ADP	r--------	AdpType=Prep	5	case	5:case	start_char=5347|end_char=5349
+5	fuste	fustis	NOUN	n-s---mb-	Case=Abl|Gender=Masc|InflClass=IndEurA|Number=Sing	3	obl	3:obl	start_char=5350|end_char=5355
+6	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=5356|end_char=5357
+
+# sent_id = 7830F84F-03BE-4214-BCDA-D0065FA706E0
+# text = Item quinque pavesia magna.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=5359|end_char=5363
+2	quinque	quinque	NUM	m-p------	InflClass=Ind|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=5364|end_char=5371
+3	pavesia	pauesius	ADJ	a-p---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur	0	root	0:root	start_char=5372|end_char=5379
+4	magna	magnus	ADJ	a-p---nap	Case=Acc|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur	3	orphan	3:orphan	start_char=5380|end_char=5385
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=5386|end_char=5387
+
+# sent_id = C2EC5D94-1F96-44F5-937C-71EDFF07B4EC
+# text = Item septem scutos.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=5389|end_char=5393
+2	septem	septem	NUM	m-p------	InflClass=Ind|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=5394|end_char=5400
+3	scutos	scuo	VERB	v-prppmn-	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatX|InflClass[noun]=IndEurO|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	start_char=5401|end_char=5407
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=5408|end_char=5409
+
+# sent_id = 58CEAD66-2DCD-4FE5-BBFC-5B4D9C6F373D
+# text = Item unum parvum oratorium.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	start_char=5411|end_char=5415
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	4	det	4:det	start_char=5416|end_char=5420
+3	parvum	paruus	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	4	amod	4:amod	start_char=5421|end_char=5427
+4	oratorium	oratorium	NOUN	n-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	0:root	start_char=5428|end_char=5437
+5	.	.	PUNCT	u--------	_	4	punct	4:punct	start_char=5438|end_char=5439
+
+# sent_id = 76D2F485-4E6D-45D8-9EEE-9FB55AEE049C
+# text = Item unum archibanc cum uno meiano vacuum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=5441|end_char=5445
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nsubj	3:nsubj	start_char=5446|end_char=5450
+3	archibanc	archibo	VERB	v1spia---	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	start_char=5451|end_char=5460
+4	cum	cum	ADP	r--------	AdpType=Prep	5	case	5:case	start_char=5461|end_char=5464
+5	uno	unus	NUM	m-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	obl	3:obl	start_char=5465|end_char=5468
+6	meiano	meianus	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	7	obl:agent	7:obl:agent	start_char=5469|end_char=5475
+7	vacuum	uaceo	VERB	v-srppnn-	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatX|InflClass[noun]=IndEurO|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	3:acl	start_char=5476|end_char=5482
+8	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=5483|end_char=5484
+
+# sent_id = 3BA337CB-A63C-4A64-83B6-B60F408A79D4
+# text = Item unum tappit parvum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=5486|end_char=5490
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nsubj	3:nsubj	start_char=5491|end_char=5495
+3	tappit	tum	AUX	v3spi----	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	start_char=5496|end_char=5502
+4	parvum	paruus	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	3	nsubj	3:nsubj	start_char=5503|end_char=5509
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=5510|end_char=5511
+
+# sent_id = 75E862B7-DF21-416B-87CC-67FC61FCE5EB
+# text = Item sex carrelos.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=5513|end_char=5517
+2	sex	sex	NUM	m-p------	InflClass=Ind|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=5518|end_char=5521
+3	carrelos	carrelus	ADJ	a-p---map	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Plur	0	root	0:root	start_char=5522|end_char=5530
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=5531|end_char=5532
+
+# sent_id = 1EC5ACE3-BE77-4A73-9363-AB8338591C4B
+# text = Item unum matalassium parvum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=5534|end_char=5538
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	0	root	0:root	start_char=5539|end_char=5543
+3	matalassium	matalsis	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	2	amod	2:amod	start_char=5544|end_char=5555
+4	parvum	paruus	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	3	conj	3:conj	start_char=5556|end_char=5562
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=5563|end_char=5564
+
+# sent_id = 9D26BCB0-8969-40CB-A044-F3AB5B8640CB
+# text = In una camera superiori supra illam paramenti.
+1	In	in	ADP	r--------	AdpType=Prep	3	case	3:case	start_char=5566|end_char=5568
+2	una	unus	NUM	m-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=5569|end_char=5572
+3	camera	camera	NOUN	n-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=5573|end_char=5579
+4	superiori	superior	ADJ	a-s---fbc	Case=Abl|Degree=Cmp|Gender=Fem|InflClass=IndEurX|Number=Sing	3	amod	3:amod	start_char=5580|end_char=5589
+5	supra	supra	ADP	r--------	AdpType=Prep	6	case	6:case	start_char=5590|end_char=5595
+6	illam	ille	DET	p-s---fa-	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem	3	obl	3:obl	start_char=5596|end_char=5601
+7	paramenti	paramentum	NOUN	n-s---ng-	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing	6	nmod	6:nmod	start_char=5602|end_char=5611
+8	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=5612|end_char=5613
+
+# sent_id = AA4EEF6B-6C5F-49A9-92E1-401016EE122A
+# text = Item unam magnam mensam ad comedendum cum duobus talonis et uno magno scanno.
+1	Item	item	ADV	d--------	_	2	advmod	2:advmod	start_char=5615|end_char=5619
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	4	nummod	4:nummod	start_char=5620|end_char=5624
+3	magnam	magnus	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	4	amod	4:amod	start_char=5625|end_char=5631
+4	mensam	mensa	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|VerbForm=Part	0	root	0:root	start_char=5632|end_char=5638
+5	ad	ad	ADP	r--------	AdpType=Prep	6	case	6:case	start_char=5639|end_char=5641
+6	comedendum	comedendum	NOUN	n-s---na-	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing	4	obl	4:obl	start_char=5642|end_char=5652
+7	cum	cum	ADP	r--------	AdpType=Prep	8	case	8:case	start_char=5653|end_char=5656
+8	duobus	duo	NUM	m-p---mb-	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Plur|NumForm=Word|NumType=Card	9	nummod	9:nummod	start_char=5657|end_char=5663
+9	talonis	talon	NOUN	n-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurX|Number=Sing	6	nmod	6:nmod	start_char=5664|end_char=5671
+10	et	et	CCONJ	c--------	_	11	cc	11:cc	start_char=5672|end_char=5674
+11	uno	unus	NUM	m-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	9	conj	9:conj	start_char=5675|end_char=5678
+12	magno	magnus	ADJ	a-s---nbp	Case=Abl|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	13	amod	13:amod	start_char=5679|end_char=5684
+13	scanno	scannus	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	11	appos	11:appos	start_char=5685|end_char=5691
+14	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=5692|end_char=5693
+
+# sent_id = 5AB5BBB0-944F-4C8C-AA68-A05F0E75998F
+# text = Item unum archibanc de uno meiano.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=5695|end_char=5699
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nsubj	3:nsubj	start_char=5700|end_char=5704
+3	archibanc	archibo	VERB	v3spia---	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	start_char=5705|end_char=5714
+4	de	de	ADP	r--------	AdpType=Prep	5	case	5:case	start_char=5715|end_char=5717
+5	uno	unus	NUM	m-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	obl	3:obl	start_char=5718|end_char=5721
+6	meiano	meianus	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	3	obl	3:obl	start_char=5722|end_char=5728
+7	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=5729|end_char=5730
+
+# sent_id = 21CC65C7-AA47-409C-959E-449BF31BA5E7
+# text = Item unum gardemagiar stangni cum copertello.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=5732|end_char=5736
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nsubj	3:nsubj	start_char=5737|end_char=5741
+3	gardemagiar	gardemagior	VERB	v1spip---	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	0:root	start_char=5742|end_char=5753
+4	stangni	stangnus	ADJ	a-s---fdp	Case=Dat|Degree=Pos|Gender=Fem|InflClass=IndEurX|Number=Sing	6	amod	6:amod	start_char=5754|end_char=5761
+5	cum	cum	ADP	r--------	AdpType=Prep	6	case	6:case	start_char=5762|end_char=5765
+6	copertello	copertellum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	3	obl	3:obl	start_char=5766|end_char=5776
+7	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=5777|end_char=5778
+
+# sent_id = 35909495-CC45-4C94-8B8E-5217F4736BE4
+# text = Item unam conquetam de duobus brochis.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=5780|end_char=5784
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=5785|end_char=5789
+3	conquetam	conqueta	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=5790|end_char=5799
+4	de	de	ADP	r--------	AdpType=Prep	6	case	6:case	start_char=5800|end_char=5802
+5	duobus	duo	NUM	m-p---mb-	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Plur|NumForm=Word|NumType=Card	6	nummod	6:nummod	start_char=5803|end_char=5809
+6	brochis	brochus	NOUN	n-p---mb-	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Plur	3	nmod	3:nmod	start_char=5810|end_char=5817
+7	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=5818|end_char=5819
+
+# sent_id = 267D7B84-F689-4799-A595-371D7CB7B2A6
+# text = In quoquina.
+1	In	in	ADP	r--------	AdpType=Prep	2	case	2:case	start_char=5821|end_char=5823
+2	quoquina	quiquina	DET	p-s---nb-	Case=Abl|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Ind	0	root	0:root	start_char=5824|end_char=5832
+3	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=5833|end_char=5834
+
+# sent_id = 71844F62-CA8B-4D6A-B7B7-C2A1A228B410
+# text = Item unam tabuletam parvam cum taulonis.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=5836|end_char=5840
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=5841|end_char=5845
+3	tabuletam	tabuleta	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=5846|end_char=5855
+4	parvam	paruus	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	3	amod	3:amod	start_char=5856|end_char=5862
+5	cum	cum	ADP	r--------	AdpType=Prep	6	case	6:case	start_char=5863|end_char=5866
+6	taulonis	taulo	NOUN	n-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurX|Number=Sing	3	nmod	3:nmod	start_char=5867|end_char=5875
+7	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=5876|end_char=5877
+
+# sent_id = F8331B0E-F291-4257-8E2A-B316288B75A2
+# text = Item quatuor parvos platos stagni.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	start_char=5879|end_char=5883
+2	quatuor	quattuor	NUM	m-p------	InflClass=Ind|Number=Plur|NumForm=Word|NumType=Card	4	nummod	4:nummod	start_char=5884|end_char=5891
+3	parvos	paruus	ADJ	a-p---map	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Plur	4	amod	4:amod	start_char=5892|end_char=5898
+4	platos	platus	NOUN	n-p---ma-	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur	0	root	0:root	start_char=5899|end_char=5905
+5	stagni	stagnus	NOUN	n-s---ng-	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing	4	nmod	4:nmod	start_char=5906|end_char=5912
+6	.	.	PUNCT	u--------	_	4	punct	4:punct	start_char=5913|end_char=5914
+
+# sent_id = 61A42A54-1140-4294-BC0E-27EAF2FD5869
+# text = Item sex cissoria stangni.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=5916|end_char=5920
+2	sex	sex	NUM	m-p------	InflClass=Ind|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=5921|end_char=5924
+3	cissoria	cyssoria	NOUN	n-p---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur	0	root	0:root	start_char=5925|end_char=5933
+4	stangni	stangnus	ADJ	a-s---fdp	Case=Dat|Degree=Pos|Gender=Fem|InflClass=IndEurO|Number=Sing	3	amod	3:amod	start_char=5934|end_char=5941
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=5942|end_char=5943
+
+# sent_id = F935738D-6DE4-411C-B662-883969F31159
+# text = Item decem salseiros stangni.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	start_char=5945|end_char=5949
+2	decem	decem	NUM	m-p------	InflClass=Ind|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=5950|end_char=5955
+3	salseiros	salseirus	ADJ	a-p---map	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Plur	4	obj	4:obj	start_char=5956|end_char=5965
+4	stangni	stango	VERB	v--pnp---	Aspect=Imp|InflClass=LatA|InflClass[noun]=Ind|Tense=Pres|VerbForm=Inf|Voice=Pass	0	root	0:root	start_char=5966|end_char=5973
+5	.	.	PUNCT	u--------	_	4	punct	4:punct	start_char=5974|end_char=5975
+
+# sent_id = C6C12F5E-3958-4031-9A2F-4D1070B62355
+# text = Item duas conquas una fracta et alia bona.
+1	Item	item	ADV	d--------	_	5	advmod	5:advmod	start_char=5977|end_char=5981
+2	duas	duo	NUM	m-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=5982|end_char=5986
+3	conquas	conqua	NOUN	n-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	5	obj	5:obj	start_char=5987|end_char=5994
+4	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	5	nsubj:pass	5:nsubj:pass	start_char=5995|end_char=5998
+5	fracta	frango	VERB	v-prppfn-	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Fem|InflClass=LatX|InflClass[noun]=IndEurA|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	start_char=5999|end_char=6005
+6	et	et	CCONJ	c--------	_	7	cc	7:cc	start_char=6006|end_char=6008
+7	alia	alius	DET	p-p---nn-	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Ind	5	nsubj:pass	5:nsubj:pass	start_char=6009|end_char=6013
+8	bona	bonum	NOUN	n-p---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur	5	nsubj:pass	5:nsubj:pass	start_char=6014|end_char=6018
+9	.	.	PUNCT	u--------	_	5	punct	5:punct	start_char=6019|end_char=6020
+
+# sent_id = 65DFDFBF-5BDE-4F4C-9CB4-E2FECC6177FD
+# text = Item duas peyrolas galee.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	start_char=6022|end_char=6026
+2	duas	duo	NUM	m-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=6027|end_char=6031
+3	peyrolas	peirola	NOUN	n-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	4	nsubj	4:nsubj	start_char=6032|end_char=6040
+4	galee	galee	ADV	d--------	_	0	root	0:root	start_char=6041|end_char=6046
+5	.	.	PUNCT	u--------	_	4	punct	4:punct	start_char=6047|end_char=6048
+
+# sent_id = B87F2FC5-522A-457C-8CB3-ACDE5A5F461D
+# text = Item duas sartagines.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=6050|end_char=6054
+2	duas	duo	NUM	m-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=6055|end_char=6059
+3	sartagines	sartagina	NOUN	n-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Plur	0	root	0:root	start_char=6060|end_char=6070
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=6071|end_char=6072
+
+# sent_id = 0ECF813A-1E65-474F-B7CD-1C299D3F1D06
+# text = Item unam grailham ferri.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	start_char=6074|end_char=6078
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=6079|end_char=6083
+3	grailham	grailha	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	4	obj	4:obj	start_char=6084|end_char=6092
+4	ferri	fero	VERB	v--pnp---	Aspect=Imp|InflClass=LatI2|InflClass[noun]=Ind|Tense=Pres|VerbForm=Inf|Voice=Pass	0	root	0:root	start_char=6093|end_char=6098
+5	.	.	PUNCT	u--------	_	4	punct	4:punct	start_char=6099|end_char=6100
+
+# sent_id = 628F4AB0-1E36-4B56-B93F-BF9A04E11D2B
+# text = Item duo calfatoria cupri uno parvo.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=6102|end_char=6106
+2	duo	duo	NUM	m-p---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=6107|end_char=6110
+3	calfatoria	calfatorium	NOUN	n-p---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur	0	root	0:root	start_char=6111|end_char=6121
+4	cupri	cuprus	NOUN	n-s---ng-	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing	3	nmod	3:nmod	start_char=6122|end_char=6127
+5	uno	unus	NUM	m-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	obl	3:obl	start_char=6128|end_char=6131
+6	parvo	paruus	ADJ	a-s---nbp	Case=Abl|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	5	amod	5:amod	start_char=6132|end_char=6137
+7	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=6138|end_char=6139
+
+# sent_id = DDDAD203-DA8F-4E5F-B44D-399F59A996B4
+# text = In camera serve.
+1	In	in	ADP	r--------	AdpType=Prep	2	case	2:case	start_char=6141|end_char=6143
+2	camera	camera	NOUN	n-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=6144|end_char=6150
+3	serve	seruis	NOUN	n-s---mv-	Case=Voc|Gender=Masc|InflClass=IndEurX|Number=Sing	2	amod	2:amod	start_char=6151|end_char=6156
+4	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=6157|end_char=6158
+
+# sent_id = 17944902-27F9-4C23-8C16-9C709782A45B
+# text = Item unam colcam cum matalassio uno traversio duobus linteaminibus uno lodice et copertorio.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=6160|end_char=6164
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=6165|end_char=6169
+3	colcam	colca	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=6170|end_char=6176
+4	cum	cum	SCONJ	c--------	PronType=Rel	6	mark	6:mark	start_char=6177|end_char=6180
+5	matalassio	matalsis	ADJ	a-p---fap	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Plur	3	amod	3:amod	start_char=6181|end_char=6191
+6	uno	unus	NUM	m-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=6192|end_char=6195
+7	traversio	trauersio	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	6	obl	6:obl	start_char=6196|end_char=6205
+8	duobus	duo	NUM	m-p---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Plur|NumForm=Word|NumType=Card	9	nummod	9:nummod	start_char=6206|end_char=6212
+9	linteaminibus	linteamen	NOUN	n-p---nb-	Case=Abl|Gender=Neut|InflClass=IndEurX|Number=Plur	6	obl	6:obl	start_char=6213|end_char=6226
+10	uno	unus	NUM	m-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	9	nummod	9:nummod	start_char=6227|end_char=6230
+11	lodice	lodix	NOUN	n-s---fg-	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing	10	nmod	10:nmod	start_char=6231|end_char=6237
+12	et	et	CCONJ	c--------	_	13	cc	13:cc	start_char=6238|end_char=6240
+13	copertorio	copertorius	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	11	conj	11:conj	start_char=6241|end_char=6251
+14	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=6252|end_char=6253
+
+# sent_id = 984AFB01-9204-433A-B91C-ADE0B8759B42
+# text = Item duo morteria lapidis.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=6255|end_char=6259
+2	duo	duo	NUM	m-p---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=6260|end_char=6263
+3	morteria	morteria	NOUN	n-p---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur	0	root	0:root	start_char=6264|end_char=6272
+4	lapidis	lapis	NOUN	n-s---ng-	Case=Gen|Gender=Neut|InflClass=IndEurX|Number=Sing	3	nmod	3:nmod	start_char=6273|end_char=6280
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=6281|end_char=6282
+
+# sent_id = B7BC390B-0729-40FA-9322-B7275EDE4422
+# text = Item duos broquos.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=6284|end_char=6288
+2	duos	duo	NUM	m-p---ma-	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=6289|end_char=6293
+3	broquos	broquus	NOUN	n-p---ma-	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur	0	root	0:root	start_char=6294|end_char=6301
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=6302|end_char=6303
+
+# sent_id = 2F13350E-DB16-450A-B85C-D7BE4DB156B8
+# text = In dispensa.
+1	In	in	ADP	r--------	AdpType=Prep	2	mark	2:mark	start_char=6305|end_char=6307
+2	dispensa	dispendo	VERB	v-srppfb-	Aspect=Perf|Case=Abl|Degree=Pos|Gender=Fem|InflClass=LatX|InflClass[noun]=IndEurA|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	start_char=6308|end_char=6316
+3	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=6317|end_char=6318
+
+# sent_id = F7FBBD6C-EF38-4B30-A85A-30408F78A84B
+# text = Item unam archam cum duobus meianis ad tenendum farinam.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=6320|end_char=6324
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=6325|end_char=6329
+3	archam	archa	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	8	obj	8:obj	start_char=6330|end_char=6336
+4	cum	cum	ADP	r--------	AdpType=Prep	6	case	6:case	start_char=6337|end_char=6340
+5	duobus	duo	NUM	m-p---mb-	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Plur|NumForm=Word|NumType=Card	6	nummod	6:nummod	start_char=6341|end_char=6347
+6	meianis	meganus	ADJ	a-p---mbp	Case=Abl|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Plur	8	obl	8:obl	start_char=6348|end_char=6355
+7	ad	ad	ADP	r--------	AdpType=Prep	8	case	8:case	start_char=6356|end_char=6358
+8	tenendum	teneo	VERB	v-sfgpna-	Aspect=Imp|Case=Acc|Degree=Pos|Gender=Neut|InflClass=LatE|InflClass[noun]=IndEurO|Number=Sing|Tense=Fut|VerbForm=Gdv|Voice=Pass	0	root	0:root	start_char=6359|end_char=6367
+9	farinam	farina	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	8	obj	8:obj	start_char=6368|end_char=6375
+10	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=6376|end_char=6377
+
+# sent_id = 51E2E483-D2CD-4348-9C01-DE7AFC96D11E
+# text = Item unam paneriam.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=6379|end_char=6383
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=6384|end_char=6388
+3	paneriam	paneria	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=6389|end_char=6397
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=6398|end_char=6399
+
+# sent_id = 29C9659D-CFDE-4B44-A332-1A7117FC5DDD
+# text = Item unum archibanc de duobus meianis vacuum ad tenendum legumiam.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=6401|end_char=6405
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nsubj	3:nsubj	start_char=6406|end_char=6410
+3	archibanc	archibo	VERB	v3spia---	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	start_char=6411|end_char=6420
+4	de	de	ADP	r--------	AdpType=Prep	6	case	6:case	start_char=6421|end_char=6423
+5	duobus	duo	NUM	m-p---mb-	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Plur|NumForm=Word|NumType=Card	6	nummod	6:nummod	start_char=6424|end_char=6430
+6	meianis	meianus	NOUN	n-p---mb-	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Plur	3	obl	3:obl	start_char=6431|end_char=6438
+7	vacuum	uaceo	VERB	v-srppna-	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Neut|InflClass=LatX|InflClass[noun]=IndEurO|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	advcl:abs	3:advcl:abs	start_char=6439|end_char=6445
+8	ad	ad	ADP	r--------	AdpType=Prep	9	case	9:case	start_char=6446|end_char=6448
+9	tenendum	teneo	VERB	v-sfgpna-	Aspect=Imp|Case=Acc|Degree=Pos|Gender=Neut|InflClass=LatE|InflClass[noun]=IndEurO|Number=Sing|Tense=Fut|VerbForm=Gdv|Voice=Pass	7	obl	7:obl	start_char=6449|end_char=6457
+10	legumiam	legumia	NOUN	n-s---na-	Case=Acc|Gender=Neut|InflClass=IndEurX|Number=Sing	7	obl	7:obl	start_char=6458|end_char=6466
+11	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=6467|end_char=6468
+
+# sent_id = 3FB52566-C621-4D02-863A-3C5B350F3F1E
+# text = In porticu.
+1	In	in	ADP	r--------	AdpType=Prep	2	case	2:case	start_char=6470|end_char=6472
+2	porticu	porticus	NOUN	n-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=6473|end_char=6480
+3	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=6481|end_char=6482
+
+# sent_id = 7277DAEE-976C-4F5A-9EAF-EF8F69C61DF2
+# text = Item duas bredolas.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=6484|end_char=6488
+2	duas	duo	NUM	m-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=6489|end_char=6493
+3	bredolas	bredolas	NOUN	n-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	0	root	0:root	start_char=6494|end_char=6502
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=6503|end_char=6504
+
+# sent_id = 25B79D2C-31B6-4154-A671-C42D360C2329
+# text = Item quidam census unius fioreni quem servit Isnardetus Columberii pro quadam avellaneta scita.
+1	Item	item	ADV	d--------	_	12	advmod	12:advmod	start_char=6506|end_char=6510
+2	quidam	quidam	DET	p-s---mn-	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Ind	3	det	3:det	start_char=6511|end_char=6517
+3	census	census	NOUN	n-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurU|Number=Sing	12	obl:arg	12:obl:arg	start_char=6518|end_char=6524
+4	unius	unus	NUM	m-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	5	nummod	5:nummod	start_char=6525|end_char=6530
+5	fioreni	fioren	NOUN	n-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Sing	3	nmod	3:nmod	start_char=6531|end_char=6538
+6	quem	qui	PRON	p-s---ma-	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Rel	7	obj	7:obj	start_char=6539|end_char=6543
+7	servit	seruo	VERB	v3spia---	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	5:acl:relcl	start_char=6544|end_char=6550
+8	Isnardetus	isnardo	VERB	v-srppmn-	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatA|InflClass[noun]=IndEurO|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	xcomp	7:xcomp	start_char=6551|end_char=6561
+9	Columberii	columber	NOUN	n-s---ng-	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing	5	nmod	5:nmod	start_char=6562|end_char=6572
+10	pro	pro	ADP	r--------	AdpType=Prep	11	case	11:case	start_char=6573|end_char=6576
+11	quadam	quidam	DET	p-s---fb-	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Ind	13	det	13:det	start_char=6577|end_char=6583
+12	avellaneta	auello	VERB	v3sria---	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	start_char=6584|end_char=6594
+13	scita	scio	VERB	v-prppna-	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Neut|InflClass=LatX|InflClass[noun]=IndEurO|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	12	advcl:abs	12:advcl:abs	start_char=6595|end_char=6600
+14	.	.	PUNCT	u--------	_	12	punct	12:punct	start_char=6601|end_char=6602
+
+# sent_id = FCDF00A8-FBFC-4CA2-B70E-CA6CE12216D4
+# text = Item duodecim denarios regalium quos serviebat dicto condam Philippono Guillelmus Cancellarii pro quodam hospicio scito in dicta civitate in carreria confrontatum ab un parte.
+1	Item	item	ADV	d--------	_	15	advmod	15:advmod	start_char=6604|end_char=6608
+2	duodecim	duodecim	NUM	m-p------	InflClass=Ind|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=6609|end_char=6617
+3	denarios	denarius	NOUN	n-p---ma-	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur	15	obl	15:obl	start_char=6618|end_char=6626
+4	regalium	regalium	NOUN	n-p---ng-	Case=Gen|Gender=Neut|InflClass=IndEurX|Number=Plur	3	nmod	3:nmod	start_char=6627|end_char=6635
+5	quos	qui	PRON	p-p---ma-	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Rel	6	obj	6:obj	start_char=6636|end_char=6640
+6	serviebat	seruio	VERB	v3sria---	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	4:acl:relcl	start_char=6641|end_char=6650
+7	dicto	dictum	VERB	v-srppmb-	Aspect=Perf|Case=Abl|Degree=Pos|Gender=Masc|InflClass=LatX|InflClass[noun]=IndEurO|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	3:acl	start_char=6651|end_char=6656
+8	condam	conda	NOUN	n-s---mn-	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	6	nsubj	6:nsubj	start_char=6657|end_char=6663
+9	Philippono	phylipponus	PROPN	n-s---md-	Case=Dat|Gender=Masc|InflClass=IndEurO|NameType=Giv|Number=Sing	7	obl	7:obl	start_char=6664|end_char=6674
+10	Guillelmus	guillelmus	PROPN	n-s---mn-	Case=Nom|Gender=Masc|InflClass=IndEurO|NameType=Giv|Number=Sing	15	nsubj	15:nsubj	start_char=6675|end_char=6685
+11	Cancellarii	cancellarius	ADJ	a-s---mgp	Case=Gen|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	10	amod	10:amod	start_char=6686|end_char=6697
+12	pro	pro	ADP	r--------	AdpType=Prep	14	case	14:case	start_char=6698|end_char=6701
+13	quodam	quidam	DET	p-s---nb-	Case=Abl|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Ind	14	det	14:det	start_char=6702|end_char=6708
+14	hospicio	ospicium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	15	obl	15:obl	start_char=6709|end_char=6717
+15	scito	scito	VERB	v3srip---	Aspect=Perf|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	start_char=6718|end_char=6723
+16	in	in	ADP	r--------	AdpType=Prep	18	case	18:case	start_char=6724|end_char=6726
+17	dicta	dico	VERB	v-srppfb-	Aspect=Perf|Case=Abl|Degree=Pos|Gender=Fem|InflClass=LatX|InflClass[noun]=IndEurA|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	18	acl	18:acl	start_char=6727|end_char=6732
+18	civitate	ciuitas	NOUN	n-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	15	obl	15:obl	start_char=6733|end_char=6741
+19	in	in	ADP	r--------	AdpType=Prep	20	case	20:case	start_char=6742|end_char=6744
+20	carreria	carrerium	NOUN	n-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	21	obl	21:obl	start_char=6745|end_char=6753
+21	confrontatum	confronto	VERB	v-srppma-	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Masc|InflClass=LatA|InflClass[noun]=IndEurO|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	18	acl	18:acl	start_char=6754|end_char=6766
+22	ab	ab	ADP	r--------	AdpType=Prep	24	case	24:case	start_char=6767|end_char=6769
+23	un	un	DET	p-s---mb-	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing|Poss=Yes|PronType=Prs	24	det	24:det	start_char=6770|end_char=6772
+24	parte	pars	NOUN	n-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	21	obl	21:obl	start_char=6773|end_char=6778
+25	.	.	PUNCT	u--------	_	15	punct	15:punct	start_char=6779|end_char=6780
+
+# sent_id = 521DFC95-2B52-4432-935E-780F5FDCE0EF
+# text = Sequitur inventarium bonorum hereditatis de Philipponi Colini candelerii cere quondam de massili.
+1	Sequitur	sequor	VERB	v3spip---	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	0:root	start_char=6782|end_char=6790
+2	inventarium	inuentarius	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	1	nsubj	1:nsubj	start_char=6791|end_char=6802
+3	bonorum	bonum	NOUN	n-p---ng-	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Plur	2	nmod	2:nmod	start_char=6803|end_char=6810
+4	hereditatis	hereditas	NOUN	n-s---fg-	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing	3	nmod	3:nmod	start_char=6811|end_char=6822
+5	de	de	ADP	r--------	AdpType=Prep	6	case	6:case	start_char=6823|end_char=6825
+6	Philipponi	phylipponus	PROPN	n-s---mb-	Case=Abl|Gender=Masc|InflClass=IndEurO|NameType=Giv|Number=Sing	1	obl	1:obl	start_char=6826|end_char=6836
+7	Colini	colinus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Sing	6	nmod	6:nmod	start_char=6837|end_char=6843
+8	candelerii	candelerius	ADJ	a-s---ngp	Case=Gen|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	7	amod	7:amod	start_char=6844|end_char=6854
+9	cere	caer	NOUN	n-s---fg-	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing	7	nmod	7:nmod	start_char=6855|end_char=6859
+10	quondam	quondam	ADV	d--------	PronType=Rel	12	advmod	12:advmod	start_char=6860|end_char=6867
+11	de	de	ADP	r--------	AdpType=Prep	12	case	12:case	start_char=6868|end_char=6870
+12	massili	massilis	ADJ	a-s---nbp	Case=Abl|Degree=Pos|Gender=Neut|InflClass=IndEurI|Number=Sing	1	obl	1:obl	start_char=6871|end_char=6878
+13	.	.	PUNCT	u--------	_	1	punct	1:punct	start_char=6879|end_char=6880
+
+# sent_id = A9B739DD-3765-4F6E-8684-51015FE04B8C
+# text = Et primo quoddam hospicium scitum in civitate Massilie ante ecclesiam Beate Marie de Acuis confrontatum ab una latere cum hospicio Raymundi de Berra Et ab alio latere cum quodam alio hospicio dicti quondam Philipponi Et retro cum quadam traversia transeunte Et ante cum catreria publica submissum maiori directo dominio Et senhoria Jacobi Trelhe ad censum octo librarum regalium anno quolibet solvendorum in festo in quo fuerunt reperte res subsequentes.
+1	Et	et	CCONJ	c--------	_	4	cc	4:cc	start_char=6882|end_char=6884
+2	primo	primo	ADV	d--------	Degree=Pos|NumType=Ord	4	advmod	4:advmod	start_char=6885|end_char=6890
+3	quoddam	quidam	DET	p-s---nn-	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Ind	4	det	4:det	start_char=6891|end_char=6898
+4	hospicium	hospicium	NOUN	n-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	40	nsubj	40:nsubj	start_char=6899|end_char=6908
+5	scitum	scio	VERB	v-srppnn-	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatX|InflClass[noun]=IndEurO|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	4:acl	start_char=6909|end_char=6915
+6	in	in	ADP	r--------	AdpType=Prep	7	case	7:case	start_char=6916|end_char=6918
+7	civitate	ciuitas	NOUN	n-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	5	obl	5:obl	start_char=6919|end_char=6927
+8	Massilie	massilia	PROPN	n-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurA|NameType=Giv|Number=Sing	7	nmod	7:nmod	start_char=6928|end_char=6936
+9	ante	ante	ADP	r--------	AdpType=Prep	10	case	10:case	start_char=6937|end_char=6941
+10	ecclesiam	ecclesia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|NameType=Com|Number=Sing	5	obl	5:obl	start_char=6942|end_char=6951
+11	Beate	beates	NOUN	n-s---fg-	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing	10	nmod	10:nmod	start_char=6952|end_char=6957
+12	Marie	marias	PROPN	n-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurA|NameType=Giv|Number=Sing	11	flat	11:flat	start_char=6958|end_char=6963
+13	de	de	ADP	r--------	AdpType=Prep	14	case	14:case	start_char=6964|end_char=6966
+14	Acuis	acuis	PROPN	n-s---mb-	Case=Abl|Gender=Masc|InflClass=IndEurA|NameType=Giv|Number=Sing	18	obl	18:obl	start_char=6967|end_char=6972
+15	confrontatum	confronto	VERB	v-srppma-	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Masc|InflClass=LatA|InflClass[noun]=IndEurO|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	10	acl	10:acl	start_char=6973|end_char=6985
+16	ab	ab	ADP	r--------	AdpType=Prep	17	case	17:case	start_char=6986|end_char=6988
+17	una	unus	NUM	m-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	18	obl:arg	18:obl:arg	start_char=6989|end_char=6992
+18	latere	lateo	VERB	v--pna---	Aspect=Imp|InflClass=LatE|InflClass[noun]=Ind|Tense=Pres|VerbForm=Inf|Voice=Act	15	ccomp	15:ccomp	start_char=6993|end_char=6999
+19	cum	cum	ADP	r--------	AdpType=Prep	20	case	20:case	start_char=7000|end_char=7003
+20	hospicio	ospicium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	18	obl	18:obl	start_char=7004|end_char=7012
+21	Raymundi	raymundus	PROPN	n-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurO|NameType=Giv|Number=Sing	20	nmod	20:nmod	start_char=7013|end_char=7021
+22	de	de	ADP	r--------	AdpType=Prep	23	case	23:case	start_char=7022|end_char=7024
+23	Berra	berra	PROPN	n-s---mb-	Case=Abl|Gender=Masc|InflClass=IndEurA|NameType=Giv|Number=Sing	18	obl	18:obl	start_char=7025|end_char=7030
+24	Et	et	CCONJ	c--------	_	27	cc	27:cc	start_char=7031|end_char=7033
+25	ab	ab	ADP	r--------	AdpType=Prep	26	case	26:case	start_char=7034|end_char=7036
+26	alio	alius	DET	p-s---mb-	Case=Abl|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Ind	23	conj	23:conj	start_char=7037|end_char=7041
+27	latere	lateo	VERB	v--pna---	Aspect=Imp|InflClass=LatE|InflClass[noun]=Ind|Tense=Pres|VerbForm=Inf|Voice=Act	18	conj	18:conj	start_char=7042|end_char=7048
+28	cum	cum	ADP	r--------	AdpType=Prep	31	case	31:case	start_char=7049|end_char=7052
+29	quodam	quidam	DET	p-s---mb-	Case=Abl|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Ind	31	det	31:det	start_char=7053|end_char=7059
+30	alio	alius	DET	p-s---mb-	Case=Abl|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Ind	31	det	31:det	start_char=7060|end_char=7064
+31	hospicio	ospicium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	27	obl	27:obl	start_char=7065|end_char=7073
+32	dicti	dico	VERB	v-prppmg-	Aspect=Perf|Case=Gen|Degree=Pos|Gender=Masc|InflClass=LatX|InflClass[noun]=IndEurO|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	34	acl	34:acl	start_char=7074|end_char=7079
+33	quondam	quondam	ADV	d--------	_	40	advmod	40:advmod	start_char=7080|end_char=7087
+34	Philipponi	phylipponus	PROPN	n-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurO|NameType=Giv|Number=Sing	31	nmod	31:nmod	start_char=7088|end_char=7098
+35	Et	et	CCONJ	c--------	_	39	cc	39:cc	start_char=7099|end_char=7101
+36	retro	retro	ADV	d--------	_	40	advmod	40:advmod	start_char=7102|end_char=7107
+37	cum	cum	ADP	r--------	AdpType=Prep	39	case	39:case	start_char=7108|end_char=7111
+38	quadam	quidam	DET	p-s---fb-	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Ind	39	det	39:det	start_char=7112|end_char=7118
+39	traversia	trauersia	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	40	obl	40:obl	start_char=7119|end_char=7128
+40	transeunt	transeo	VERB	v3ppia---	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	start_char=7129|end_char=7138
+41	e	e	ADP	r--------	AdpType=Prep	45	case	45:case	start_char=7138|end_char=7139
+42	Et	et	CCONJ	c--------	_	47	cc	47:cc	start_char=7140|end_char=7142
+43	ante	ante	ADP	r--------	AdpType=Prep	45	case	45:case	start_char=7143|end_char=7147
+44	cum	cum	ADP	r--------	AdpType=Prep	45	case	45:case	start_char=7148|end_char=7151
+45	catreria	catreria	NOUN	n-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	47	obl	47:obl	start_char=7152|end_char=7160
+46	publica	publicus	ADJ	a-s---fbp	Case=Abl|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	45	amod	45:amod	start_char=7161|end_char=7168
+47	submissum	submido	VERB	v-srppmn-	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatX|InflClass[noun]=IndEurO|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	40	advcl	40:advcl	start_char=7169|end_char=7178
+48	maiori	magnus	ADJ	a-s---mbc	Case=Abl|Degree=Cmp|Gender=Masc|InflClass=IndEurX|Number=Sing	49	amod	49:amod	start_char=7179|end_char=7185
+49	directo	directum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	47	obl	47:obl	start_char=7186|end_char=7193
+50	dominio	dominium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	47	obl	47:obl	start_char=7194|end_char=7201
+51	Et	et	CCONJ	c--------	_	52	cc	52:cc	start_char=7202|end_char=7204
+52	senhoria	senhoria	NOUN	n-p---na-	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	50	conj	50:conj	start_char=7205|end_char=7213
+53	Jacobi	Jacobi	PROPN	n-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurX|NameType=Giv|Number=Sing	52	nmod	52:nmod	start_char=7214|end_char=7220
+54	Trelhe	trelha	PROPN	n-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurA|NameType=Giv|Number=Sing	53	nmod	53:nmod	start_char=7221|end_char=7227
+55	ad	ad	ADP	r--------	AdpType=Prep	56	case	56:case	start_char=7228|end_char=7230
+56	censum	census	NOUN	n-s---na-	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing	52	obl	52:obl	start_char=7231|end_char=7237
+57	octo	octo	NUM	m-p------	InflClass=Ind|Number=Plur|NumForm=Word|NumType=Card	56	nummod	56:nummod	start_char=7238|end_char=7242
+58	librarum	liber	NOUN	n-p---mg-	Case=Gen|Gender=Masc|InflClass=IndEurA|Number=Plur	56	nmod	56:nmod	start_char=7243|end_char=7251
+59	regalium	regalium	NOUN	n-p---ng-	Case=Gen|Gender=Neut|InflClass=IndEurX|Number=Plur	58	nmod	58:nmod	start_char=7252|end_char=7260
+60	anno	annus	NOUN	n-s---mb-	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing	62	obl	62:obl	start_char=7261|end_char=7265
+61	quolibet	quilibet	DET	p-s---mb-	Case=Abl|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Ind	60	det	60:det	start_char=7266|end_char=7274
+62	solvendorum	soluo	VERB	v-pfgpmg-	Aspect=Imp|Case=Gen|Degree=Pos|Gender=Masc|InflClass=LatX|InflClass[noun]=IndEurO|Number=Plur|Tense=Fut|VerbForm=Gdv|Voice=Pass	59	acl:relcl	59:acl:relcl	start_char=7275|end_char=7286
+63	in	in	ADP	r--------	AdpType=Prep	64	case	64:case	start_char=7287|end_char=7289
+64	festo	festus	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	62	obl	62:obl	start_char=7290|end_char=7295
+65	in	in	ADP	r--------	AdpType=Prep	66	case	66:case	start_char=7296|end_char=7298
+66	quo	qui	PRON	p-s---mb-	Case=Abl|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Rel	70	obl	70:obl	start_char=7299|end_char=7302
+67	fuerunt	sum	AUX	v3pri----	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	70	aux	70:aux	start_char=7303|end_char=7310
+68	reperte	repertus	ADJ	a-p---fnp	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurI|Number=Plur	69	amod	69:amod	start_char=7311|end_char=7318
+69	res	res	NOUN	n-p---fn-	Case=Nom|Gender=Fem|InflClass=IndEurE|Number=Plur	70	nsubj	70:nsubj	start_char=7319|end_char=7322
+70	subsequentes	subsequor	VERB	v-pppafn-	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Fem|InflClass=LatX|InflClass[noun]=IndEurI|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	64	acl	64:acl	start_char=7323|end_char=7335
+71	.	.	PUNCT	u--------	_	40	punct	40:punct	start_char=7336|end_char=7337
+
+# sent_id = F140659D-4D49-43C9-B5C2-0E0987367DD9
+# text = Et primo una tabula cum suis submensalibus.
+1	Et	et	CCONJ	c--------	_	4	cc	4:cc	start_char=7339|end_char=7341
+2	primo	primo	ADV	d--------	Degree=Pos|NumType=Ord	4	advmod	4:advmod	start_char=7342|end_char=7347
+3	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	4	nummod	4:nummod	start_char=7348|end_char=7351
+4	tabula	tabulum	NOUN	n-s---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=7352|end_char=7358
+5	cum	cum	ADP	r--------	AdpType=Prep	7	case	7:case	start_char=7359|end_char=7362
+6	suis	suus	DET	p-p---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Plur|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	7	det	7:det	start_char=7363|end_char=7367
+7	submensalibus	submensalis	ADJ	a-p---nbp	Case=Abl|Degree=Pos|Gender=Neut|InflClass=IndEurI|Number=Plur	4	obl	4:obl	start_char=7368|end_char=7381
+8	.	.	PUNCT	u--------	_	4	punct	4:punct	start_char=7382|end_char=7383
+
+# sent_id = EA32B75B-E588-420B-A0F9-27D609AAC391
+# text = Item tres vegetes sive botas capacitatis septem milhayrolarum vel circa vacuas.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=7385|end_char=7389
+2	tres	tres	NUM	m-p---mn-	Case=Nom|Gender=Masc|InflClass=IndEurI|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=7390|end_char=7394
+3	vegetes	ueges	NOUN	n-p---mn-	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Plur	0	root	0:root	start_char=7395|end_char=7402
+4	sive	siue	CCONJ	c--------	_	5	cc	5:cc	start_char=7403|end_char=7407
+5	botas	botus	NOUN	n-p---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Plur	3	conj	3:conj	start_char=7408|end_char=7413
+6	capacitatis	capacitas	NOUN	n-s---fg-	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing	3	nmod	3:nmod	start_char=7414|end_char=7425
+7	septem	septem	NUM	m-p------	InflClass=Ind|Number=Plur|NumForm=Word|NumType=Card	8	nummod	8:nummod	start_char=7426|end_char=7432
+8	milhayrolarum	milhayrolarus	NOUN	n-p---fg-	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Plur	6	nmod	6:nmod	start_char=7433|end_char=7446
+9	vel	uel	CCONJ	c--------	_	11	cc	11:cc	start_char=7447|end_char=7450
+10	circa	circa	ADP	r--------	AdpType=Prep	11	case	11:case	start_char=7451|end_char=7456
+11	vacuas	uacuus	ADJ	a-p---fap	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Plur	8	conj	8:conj	start_char=7457|end_char=7463
+12	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=7464|end_char=7465
+
+# sent_id = 56B634AE-9AB5-4D11-A5A9-DC6FAA162220
+# text = Item unum scannum magnum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=7467|end_char=7471
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nsubj	3:nsubj	start_char=7472|end_char=7476
+3	scannum	scannus	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	0:root	start_char=7477|end_char=7484
+4	magnum	magnus	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	3	nsubj	3:nsubj	start_char=7485|end_char=7491
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=7492|end_char=7493
+
+# sent_id = F901BC86-0AE0-4589-9B22-2B72266CC837
+# text = item unum parvum scannum.
+1	item	item	ADV	d--------	_	4	advmod	4:advmod	start_char=7495|end_char=7499
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	4	nsubj	4:nsubj	start_char=7500|end_char=7504
+3	parvum	paruus	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	2	amod	2:amod	start_char=7505|end_char=7511
+4	scannum	scannus	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	0:root	start_char=7512|end_char=7519
+5	.	.	PUNCT	u--------	_	4	punct	4:punct	start_char=7520|end_char=7521
+
+# sent_id = 029EFD8A-54AE-41D9-BE97-CBED0C3797AD
+# text = Item unam tabulam ad portandum panem.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=7523|end_char=7527
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=7528|end_char=7532
+3	tabulam	tabulus	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=7533|end_char=7540
+4	ad	ad	ADP	r--------	AdpType=Prep	5	case	5:case	start_char=7541|end_char=7543
+5	portandum	porto	VERB	v-sfdpna-	Aspect=Imp|Case=Acc|Gender=Neut|InflClass=LatA|InflClass[noun]=IndEurO|Number=Sing|Tense=Fut|VerbForm=Ger|Voice=Pass	3	advcl	3:advcl	start_char=7544|end_char=7553
+6	panem	panis	NOUN	n-s---ma-	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Sing	5	obj	5:obj	start_char=7554|end_char=7559
+7	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=7560|end_char=7561
+
+# sent_id = 2B73065C-B9A7-4536-8723-52584C2B8078
+# text = Item unam tendoyram.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=7563|end_char=7567
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=7568|end_char=7572
+3	tendoyram	tendoira	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=7573|end_char=7582
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=7583|end_char=7584
+
+# sent_id = D4349970-2442-4591-BB9F-28CEB321DD23
+# text = Item unum calfatorium cupri.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=7586|end_char=7590
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	det	3:det	start_char=7591|end_char=7595
+3	calfatorium	calfatorium	NOUN	n-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	0:root	start_char=7596|end_char=7607
+4	cupri	cuprus	NOUN	n-s---ng-	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing	3	nmod	3:nmod	start_char=7608|end_char=7613
+5	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=7614|end_char=7615
+
+# sent_id = 370FB674-A436-4F85-BB96-C22F60B02CB0
+# text = Item unum morterium lapidis.
+1	Item	item	ADV	d--------	_	2	advmod	2:advmod	start_char=7617|end_char=7621
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	0	root	0:root	start_char=7622|end_char=7626
+3	morterium	morterium	NOUN	n-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	2	nsubj	2:nsubj	start_char=7627|end_char=7636
+4	lapidis	lapis	NOUN	n-s---ng-	Case=Gen|Gender=Neut|InflClass=IndEurX|Number=Sing	3	nmod	3:nmod	start_char=7637|end_char=7644
+5	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=7645|end_char=7646
+
+# sent_id = 7A568DD3-A45B-4246-990A-FA297B4963BE
+# text = Item unum potum stagni.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=7648|end_char=7652
+2	unum	unus	NUM	m-s---na-	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=7653|end_char=7657
+3	potum	potus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing	0	root	0:root	start_char=7658|end_char=7663
+4	stagni	stagnus	NOUN	n-s---ng-	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing	3	nmod	3:nmod	start_char=7664|end_char=7670
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=7671|end_char=7672
+
+# sent_id = 5CB0EC20-CD0D-4BFB-99B2-1C5D63C714DD
+# text = Item duas misserabas stagni.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=7674|end_char=7678
+2	duas	duo	NUM	m-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur|NumForm=Word|NumType=Card	3	obj	3:obj	start_char=7679|end_char=7683
+3	misserabas	missero	VERB	v2pfsa---	Aspect=Imp|InflClass=LatA|Mood=Sub|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	0:root	start_char=7684|end_char=7694
+4	stagni	stagnus	NOUN	n-s---ng-	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing	2	nmod	2:nmod	start_char=7695|end_char=7701
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=7702|end_char=7703
+
+# sent_id = 7D7766E1-0B52-4744-9833-E7EF4828AF2E
+# text = Item unam colcam fuste tantum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=7705|end_char=7709
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=7710|end_char=7714
+3	colcam	colca	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	0	root	0:root	start_char=7715|end_char=7721
+4	fuste	fustis	NOUN	n-s---ma-	Case=Acc|Gender=Masc|InflClass=IndEurA|Number=Sing	3	conj	3:conj	start_char=7722|end_char=7727
+5	tantum	tantum	ADV	d--------	PronType=Dem	3	advmod:emph	3:advmod:emph	start_char=7728|end_char=7734
+6	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=7735|end_char=7736
+
+# sent_id = 0908A616-A019-4540-B795-19D65184E603
+# text = Item unum matalassium parvum pauci valoris.
+1	Item	item	ADV	d--------	_	5	advmod	5:advmod	start_char=7738|end_char=7742
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	5	nsubj	5:nsubj	start_char=7743|end_char=7747
+3	matalassium	matalsis	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	2	amod	2:amod	start_char=7748|end_char=7759
+4	parvum	paruus	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	5	amod	5:amod	start_char=7760|end_char=7766
+5	pauci	paucus	DET	p-p---mn-	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Plur|NumType=Card|PronType=Ind	0	root	0:root	start_char=7767|end_char=7772
+6	valoris	ualorus	ADJ	a-s---mgp	Case=Gen|Degree=Pos|Gender=Masc|InflClass=IndEurX|Number=Sing	5	amod	5:amod	start_char=7773|end_char=7780
+7	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=7781|end_char=7782
+
+# sent_id = 33491AB5-7443-4E43-A8BB-7C8F56DB13CE
+# text = Item transversarium plume de Alexandria bonum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=7784|end_char=7788
+2	transversarium	transuersarius	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	3	nsubj	3:nsubj	start_char=7789|end_char=7803
+3	plume	plemo	VERB	v3spia---	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	start_char=7804|end_char=7809
+4	de	de	ADP	r--------	AdpType=Prep	5	case	5:case	start_char=7810|end_char=7812
+5	Alexandria	alexandria	PROPN	n-s---fb-	Case=Abl|Gender=Fem|InflClass=IndEurA|NameType=Geo|Number=Sing	3	obl	3:obl	start_char=7813|end_char=7823
+6	bonum	bonum	NOUN	n-s---na-	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing	3	obj	3:obj	start_char=7824|end_char=7829
+7	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=7830|end_char=7831
+
+# sent_id = 30DD508A-90FB-42BD-B075-40718797F703
+# text = Item quatuor scutellas fuste.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	start_char=7833|end_char=7837
+2	quatuor	quattuor	NUM	m-p------	InflClass=Ind|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=7838|end_char=7845
+3	scutellas	scutellas	NOUN	n-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	4	obj	4:obj	start_char=7846|end_char=7855
+4	fuste	fustis	NOUN	n-s---mn-	Case=Nom|Gender=Masc|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=7856|end_char=7861
+5	.	.	PUNCT	u--------	_	4	punct	4:punct	start_char=7862|end_char=7863
+
+# sent_id = 255C10EB-AC66-4ADC-9BA6-ECCFE60BE720
+# text = Item tres trapalas.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=7865|end_char=7869
+2	tres	tres	NUM	m-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurI|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=7870|end_char=7874
+3	trapalas	trapala	NOUN	n-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	0	root	0:root	start_char=7875|end_char=7883
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=7884|end_char=7885
+
+# sent_id = E1A8D0EB-AA7E-4DAD-B143-2A2DE616BFA4
+# text = Item duos rastels.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=7887|end_char=7891
+2	duos	duo	NUM	m-p---ma-	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=7892|end_char=7896
+3	rastels	rasto	VERB	v-prppma-	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Masc|InflClass=LatA|InflClass[noun]=IndEurO|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	start_char=7897|end_char=7904
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=7905|end_char=7906
+
+# sent_id = 18DD6652-3E60-479D-9B84-9182DCD9E95E
+# text = Item tres furcas fuste.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=7908|end_char=7912
+2	tres	tres	NUM	m-p---ma-	Case=Acc|Gender=Masc|InflClass=IndEurI|Number=Plur|NumForm=Word|NumType=Card	4	nummod	4:nummod	start_char=7913|end_char=7917
+3	furcas	furca	NOUN	n-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	4	amod	4:amod	start_char=7918|end_char=7924
+4	fuste	fustis	NOUN	n-s---ma-	Case=Acc|Gender=Masc|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=7925|end_char=7930
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=7931|end_char=7932
+
+# sent_id = D6278A78-562A-4D8D-997A-6A384E9198B9
+# text = Item unum furcat.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=7934|end_char=7938
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nsubj	3:nsubj	start_char=7939|end_char=7943
+3	furcat	furco	VERB	v3spia---	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	start_char=7944|end_char=7950
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=7951|end_char=7952
+
+# sent_id = D7B4AC4A-6F3A-486A-8B25-02B6C65304E9
+# text = Item decem et octo coffinos ad vindemiandum.
+1	Item	item	ADV	d--------	_	5	advmod	5:advmod	start_char=7954|end_char=7958
+2	decem	decem	NUM	m-p------	InflClass=Ind|Number=Plur|NumForm=Word|NumType=Card	5	obl	5:obl	start_char=7959|end_char=7964
+3	et	et	CCONJ	c--------	_	5	cc	5:cc	start_char=7965|end_char=7967
+4	octo	octo	NUM	m-p------	InflClass=Ind|Number=Plur|NumForm=Word|NumType=Card	5	nummod	5:nummod	start_char=7968|end_char=7972
+5	coffinos	coffinus	NOUN	n-p---mn-	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Plur	0	root	0:root	start_char=7973|end_char=7981
+6	ad	ad	ADP	r--------	AdpType=Prep	7	case	7:case	start_char=7982|end_char=7984
+7	vindemiandum	uindemio	VERB	v-sfdpna-	Aspect=Imp|Case=Acc|Gender=Neut|InflClass=LatA|InflClass[noun]=IndEurO|Number=Sing|Tense=Fut|VerbForm=Ger|Voice=Pass	5	advcl	5:advcl	start_char=7985|end_char=7997
+8	.	.	PUNCT	u--------	_	5	punct	5:punct	start_char=7998|end_char=7999
+
+# sent_id = EEC563F0-D795-4BE3-BD0C-AA3AFFEB697D
+# text = Item unam tinam bugaderiam quasi fundutam et fractam.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=8001|end_char=8005
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=8006|end_char=8010
+3	tinam	tina	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=8011|end_char=8016
+4	bugaderiam	bugaderia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	3	conj	3:conj	start_char=8017|end_char=8027
+5	quasi	quasi	ADV	d--------	Compound=Yes|PronType=Rel	6	advmod	6:advmod	start_char=8028|end_char=8033
+6	fundutam	funduo	VERB	v-srppfa-	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Fem|InflClass=LatA|InflClass[noun]=IndEurA|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	4:acl	start_char=8034|end_char=8042
+7	et	et	CCONJ	c--------	_	8	cc	8:cc	start_char=8043|end_char=8045
+8	fractam	fractus	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	6	conj	6:conj	start_char=8046|end_char=8053
+9	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=8054|end_char=8055
+
+# sent_id = CE8E73A9-3715-4181-8924-31077B44FB73
+# text = Item unum comascle ferri.
+1	Item	item	ADV	d--------	_	2	advmod	2:advmod	start_char=8057|end_char=8061
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	det	3:det	start_char=8062|end_char=8066
+3	comascle	comascla	NOUN	n-s---fn-	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=8067|end_char=8075
+4	ferri	fero	VERB	v--pnp---	Aspect=Imp|InflClass=LatI2|InflClass[noun]=Ind|Tense=Pres|VerbForm=Inf|Voice=Pass	2	csubj	2:csubj	start_char=8076|end_char=8081
+5	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=8082|end_char=8083
+
+# sent_id = 62CE493C-22F3-4080-9A57-0B80B99CAA80
+# text = Item unum lapidem cavatum ad faciendum bugatam.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	start_char=8085|end_char=8089
+2	unum	unus	NUM	m-s---na-	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=8090|end_char=8094
+3	lapidem	lapis	NOUN	n-s---ma-	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Sing	4	obj	4:obj	start_char=8095|end_char=8102
+4	cavatum	cauo	VERB	v-srppnn-	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatA|InflClass[noun]=IndEurO|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	start_char=8103|end_char=8110
+5	ad	ad	ADP	r--------	AdpType=Prep	6	case	6:case	start_char=8111|end_char=8113
+6	faciendum	facio	VERB	v-sfgpna-	Aspect=Imp|Case=Acc|Degree=Pos|Gender=Neut|InflClass=LatX|InflClass[noun]=IndEurO|Number=Sing|Tense=Fut|VerbForm=Gdv|Voice=Pass	4	advcl	4:advcl	start_char=8114|end_char=8123
+7	bugatam	bugo	VERB	v-srppfa-	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Fem|InflClass=LatA|InflClass[noun]=IndEurA|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	3:acl	start_char=8124|end_char=8131
+8	.	.	PUNCT	u--------	_	4	punct	4:punct	start_char=8132|end_char=8133
+
+# sent_id = 7266DD4A-5122-4793-B866-636F76D3789C
+# text = Item unam payrolhetam cupri fractam.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=8135|end_char=8139
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=8140|end_char=8144
+3	payrolhetam	pairolheta	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=8145|end_char=8156
+4	cupri	cuprus	NOUN	n-s---ng-	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing	3	nmod	3:nmod	start_char=8157|end_char=8162
+5	fractam	fractus	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	3	amod	3:amod	start_char=8163|end_char=8170
+6	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=8171|end_char=8172
+
+# sent_id = F897265F-FD32-487D-8D8D-616A7554AA7C
+# text = Item unam aliam modicam olletam cupri.
+1	Item	item	ADV	d--------	_	2	advmod	2:advmod	start_char=8174|end_char=8178
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	0	root	0:root	start_char=8179|end_char=8183
+3	aliam	alius	DET	p-s---fa-	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Ind	5	det	5:det	start_char=8184|end_char=8189
+4	modicam	modicus	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	5	amod	5:amod	start_char=8190|end_char=8197
+5	olletam	olleta	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	2	orphan	2:orphan	start_char=8198|end_char=8205
+6	cupri	cuprus	NOUN	n-s---ng-	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing	5	nmod	5:nmod	start_char=8206|end_char=8211
+7	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=8212|end_char=8213
+
+# sent_id = 4776F923-DD51-4377-94C1-A36E51F3342C
+# text = Item unam forquetam ferri pro stabulo.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=8215|end_char=8219
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	4	nsubj	4:nsubj	start_char=8220|end_char=8224
+3	forquetam	forquam	VERB	v-srppfa-	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Fem|InflClass=LatA|InflClass[noun]=IndEurA|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	start_char=8225|end_char=8234
+4	ferri	fero	VERB	v--pnp---	Aspect=Imp|InflClass=LatX|InflClass[noun]=Ind|Tense=Pres|VerbForm=Inf|Voice=Pass	3	ccomp	3:ccomp	start_char=8235|end_char=8240
+5	pro	pro	ADP	r--------	AdpType=Prep	6	case	6:case	start_char=8241|end_char=8244
+6	stabulo	stabulus	NOUN	n-s---nb-	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	4	obl	4:obl	start_char=8245|end_char=8252
+7	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=8253|end_char=8254
+
+# sent_id = AB5D04A0-8473-4EE9-9008-43D77487373B
+# text = Item unum morterium parvum lapidis.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=8256|end_char=8260
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	det	3:det	start_char=8261|end_char=8265
+3	morterium	morterium	NOUN	n-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	0:root	start_char=8266|end_char=8275
+4	parvum	paruus	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	3	amod	3:amod	start_char=8276|end_char=8282
+5	lapidis	lapis	NOUN	n-s---ng-	Case=Gen|Gender=Neut|InflClass=IndEurX|Number=Sing	3	nmod	3:nmod	start_char=8283|end_char=8290
+6	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=8291|end_char=8292
+
+# sent_id = 6D6F1496-C25F-4749-AB36-51851CD47EFA
+# text = Item duas ollas terre.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=8294|end_char=8298
+2	duas	duo	NUM	m-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=8299|end_char=8303
+3	ollas	ollum	NOUN	n-p---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	0	root	0:root	start_char=8304|end_char=8309
+4	terre	terra	NOUN	n-s---fg-	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing	3	nmod	3:nmod	start_char=8310|end_char=8315
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=8316|end_char=8317
+
+# sent_id = DBA4FB46-872B-4954-BEDA-67840FC132A5
+# text = Item unum carratellum capacitatis duarum metretarum vel circa.
+1	Item	item	ADV	d--------	_	2	advmod	2:advmod	start_char=8319|end_char=8323
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	0	root	0:root	start_char=8324|end_char=8328
+3	carratellum	carratellum	NOUN	n-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	2	xcomp:pred	2:xcomp:pred	start_char=8329|end_char=8340
+4	capacitatis	capacitas	NOUN	n-s---fg-	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing	3	nmod	3:nmod	start_char=8341|end_char=8352
+5	duarum	duo	NUM	m-p---fg-	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Plur|NumForm=Word|NumType=Card	6	nummod	6:nummod	start_char=8353|end_char=8359
+6	metretarum	metreta	NOUN	n-p---fg-	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Plur	4	nmod	4:nmod	start_char=8360|end_char=8370
+7	vel	uel	CCONJ	c--------	_	8	cc	8:cc	start_char=8371|end_char=8374
+8	circa	circa	ADP	r--------	AdpType=Prep	6	conj	6:conj	start_char=8375|end_char=8380
+9	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=8381|end_char=8382
+
+# sent_id = 35D6DFDC-EDEB-4F5C-BA7C-0A0A5796CE2E
+# text = Item unam bassachiam debilem.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=8384|end_char=8388
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=8389|end_char=8393
+3	bassachiam	bassachia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	0	root	0:root	start_char=8394|end_char=8404
+4	debilem	debilis	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurI|Number=Sing	3	amod	3:amod	start_char=8405|end_char=8412
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=8413|end_char=8414
+
+# sent_id = 5FE3D9B8-620D-41EE-BB31-53C3FA189625
+# text = Item unum bancum fusteum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=8416|end_char=8420
+2	unum	unus	NUM	m-s---na-	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	4	nummod	4:nummod	start_char=8421|end_char=8425
+3	bancum	bancum	NOUN	n-s---na-	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing	4	amod	4:amod	start_char=8426|end_char=8432
+4	fusteum	fusteum	NOUN	n-s---ma-	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing	0	root	0:root	start_char=8433|end_char=8440
+5	.	.	PUNCT	u--------	_	4	punct	4:punct	start_char=8441|end_char=8442
+
+# sent_id = 138655AE-5E65-40C0-9080-AB7ADD400872
+# text = Item unum martellum fabri.
+1	Item	item	ADV	d--------	_	2	advmod	2:advmod	start_char=8444|end_char=8448
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=8449|end_char=8453
+3	martellum	martellum	NOUN	n-s---nn-	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Sing	0	root	0:root	start_char=8454|end_char=8463
+4	fabri	faber	NOUN	n-s---mg-	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Sing	3	nmod	3:nmod	start_char=8464|end_char=8469
+5	.	.	PUNCT	u--------	_	2	punct	2:punct	start_char=8470|end_char=8471
+
+# sent_id = 5BE2FA4A-37D6-4C5E-B3BD-71EFA5E6F197
+# text = Item unum crucibolum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	start_char=8473|end_char=8477
+2	unum	unus	NUM	m-s---ma-	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=8478|end_char=8482
+3	crucibolum	crucibolum	NOUN	n-s---ma-	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing	0	root	0:root	start_char=8483|end_char=8493
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	start_char=8494|end_char=8495
+
+# sent_id = C2D7F466-AB35-44DF-B7BE-635E4866733A
+# text = item unam capcietam fractam.
+1	item	item	ADV	d--------	_	4	advmod	4:advmod	start_char=8497|end_char=8501
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	start_char=8502|end_char=8506
+3	capcietam	capcieta	NOUN	n-s---fa-	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	4	obj	4:obj	start_char=8507|end_char=8516
+4	fractam	fringo	VERB	v-srppfa-	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Fem|InflClass=LatX|InflClass[noun]=IndEurA|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	start_char=8517|end_char=8524
+5	.	.	PUNCT	u--------	_	4	punct	4:punct	start_char=8525|end_char=8526
+
