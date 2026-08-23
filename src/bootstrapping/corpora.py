@@ -9,7 +9,9 @@ import requests
 from .config import PROJECT_ROOT
 
 UD_ORG = 'https://github.com/UniversalDependencies'
-UD_BRANCH = 'master'
+
+
+UD_RELEASE = 'r2.16'  # pinned to the release the paper's figures were computed against
 SPLITS = ('dev', 'test', 'train')
 HTTP_OK = 200
 
@@ -52,13 +54,13 @@ def fetch_treebank(treebank: str, code: str, *, timeout: int = 60) -> str:
     """
     parts = []
     for split in SPLITS:
-        url = f'{UD_ORG}/{treebank}/raw/refs/heads/{UD_BRANCH}/{code}-ud-{split}.conllu'
+        url = f'{UD_ORG}/{treebank}/raw/refs/tags/{UD_RELEASE}/{code}-ud-{split}.conllu'
         response = requests.get(url, timeout=timeout)
         if response.status_code == HTTP_OK:
             parts.append(response.text)
 
     if not parts:
-        msg = f'no splits downloaded for {treebank}. Check the repository name and branch'
+        msg = f'no splits downloaded for {treebank}. Check the repository name and UD_RELEASE'
         raise RuntimeError(msg)
 
     return ''.join(parts)
