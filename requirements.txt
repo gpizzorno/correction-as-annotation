@@ -1,0 +1,6 @@
+# Dependencies are declared in pyproject.toml. This file just installs the project.
+#
+#   python3.11 -m venv .venv
+#   .venv/bin/pip install -r requirements.txt
+#
+-e .[notebooks,vectors]
