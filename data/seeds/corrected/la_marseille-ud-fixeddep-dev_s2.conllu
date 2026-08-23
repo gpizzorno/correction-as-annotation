@@ -1,0 +1,2290 @@
+# sent_id = 0157A56F-5CD6-4D82-8F84-B812CB9EDC30
+# text = Item ii botas circa x milhayrolas utraque.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	ii	duo	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	botas	bota	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	0	root	0:root	Gloss=cask
+4	circa	circa	ADP	r--------	AdpType=Prep	5	case	5:case	Gloss=around
+5	x	decem	NUM	m--------	NumForm=Digit	6	nummod	6:nummod	Gloss=Unknown
+6	milhayrolas	meillerola	NOUN	n-p---fa-	Case=Acc|Function=Unit|Gender=Fem|Number=Plur	3	acl	3:acl	Gloss=millerole
+7	utraque	uterque	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	amod	3:amod	Gloss=each|SpaceAfter=No
+8	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 01E31AFE-5021-4209-B979-0039924983F8
+# text = Et primo in cellario domus.
+1	Et	et	CCONJ	c--------	_	2	cc	2:cc	Gloss=and
+2	primo	primo	ADV	d--------	_	4	advcl	4:advcl	Gloss=first
+3	in	in	ADP	r--------	AdpType=Prep	4	case	4:case	Gloss=in
+4	cellario	cellarium	NOUN	n-s---mb-	Case=Abl|Function=Location|Gender=Masc|Number=Sing	0	root	0:root	Gloss=cellar
+5	domus	domus	NOUN	n-s---fn-	Case=Nom|Function=Location|Gender=Fem|Number=Sing	4	nmod	4:nmod	Gloss=house|SpaceAfter=No
+6	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = 027B6F58-A43F-408D-AFF9-E5B9E86BC247
+# text = Item unum officiarium quod incipit asperge me et finit perathte queravi auxilio gratias etc.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	officiarium	officiarium	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	0	root	0:root	Gloss=Unknown
+4	quod	qui	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	5	nsubj	5:nsubj	Gloss=which
+5	incipit	incipere	VERB	v3spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	3:acl	Gloss=Unknown
+6	asperge	aspergere	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	5:parataxis	Gloss=Unknown
+7	me	me	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	6	obj	6:obj	Gloss=Unknown
+8	et	et	CCONJ	c--------	_	9	cc	9:cc	Gloss=and
+9	finit	finire	VERB	v3spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	5:conj	Gloss=to end
+10	perathte	perathte	VERB	v--------	_	9	parataxis	9:parataxis	Gloss=Unknown
+11	queravi	queror	DET	p-s------	Number=Sing|Person=1	10	det	10:det	Gloss=Unknown
+12	auxilio	auxilior	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	10	obj	10:obj	Gloss=Unknown
+13	gratias	gratia	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	12	nmod	12:nmod	Gloss=Unknown
+14	etc	ceterus	PART	t--------	_	10	advmod	10:advmod	Gloss=Unknown|SpaceAfter=No
+15	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 04B4A0A5-21BE-44AB-84A2-5AF9A1CD16E2
+# text = Item unum lectum de tabulis cum una bassachia tant.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	lectum	lectum	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	0	root	0:root	Gloss=bed
+4	de	de	ADP	r--------	AdpType=Prep	5	case	5:case	Gloss=of
+5	tabulis	tabula	NOUN	n-p---fd-	Case=Dat|Gender=Fem|Number=Plur	3	nmod	3:nmod	Gloss=board
+6	cum	cum	SCONJ	c--------	_	8	mark	8:mark	Gloss=with
+7	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|Number=Sing	8	nummod	8:nummod	Gloss=one
+8	bassachia	bassacha	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	acl	3:acl	Gloss=straw mattress
+9	tant	tant	NOUN	n--------	_	8	nmod	8:nmod	Gloss=Unknown|SpaceAfter=No
+10	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 04B893EA-CFDF-4F1C-8519-2BF99A534AFA
+# text = Item i trahedoyra.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	trahedoyra	trahedoyra	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Gloss=vat|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 04CA9D77-CBB4-4574-8C02-EF614B1968A8
+# text = Primo ii carratellos capacitatis quolibet trium milhayrolarum vel circa quorum una est pauci valoris.
+1	Primo	primo	ADV	d--------	_	3	advmod	3:advmod	Gloss=first
+2	ii	duo	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	carratellos	caratellus	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	0	root	0:root	Gloss=cask
+4	capacitatis	capacitas	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	3	acl	3:acl	Gloss=with a capacity of
+5	quolibet	quilibet	DET	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing|PronType=Ind	4	det	4:det	Gloss=each
+6	trium	tres	NUM	m-p---ng-	Case=Gen|Gender=Neut|Number=Plur|NumType=Card	7	nummod	7:nummod	Gloss=three
+7	milhayrolarum	meillerola	NOUN	n-p---fg-	Case=Gen|Function=Unit|Gender=Fem|Number=Plur	4	acl	4:acl	Gloss=millerole
+8	vel	vel	CCONJ	c--------	_	9	cc	9:cc	Gloss=or
+9	circa	circa	ADP	r--------	AdpType=Prep	6	conj	6:conj	Gloss=around
+10	quorum	qui	DET	p-p---mg-	Case=Gen|Gender=Masc|Number=Plur|PronType=Ind	11	det	11:det	Gloss=which
+11	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|Number=Sing	14	obl	14:obl	Gloss=one
+12	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	14:cop	Gloss=to be
+13	pauci	paucus	ADJ	a-p---mnp	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	14	amod	14:amod	Gloss=few
+14	valoris	valor	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	3	acl	3:acl	Gloss=value|SpaceAfter=No
+15	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 04CC9389-F97A-4F9B-A15C-66A0CA482499
+# text = Item unum magnum coffrum vacuum modici valoris.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	Gloss=next
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	4	nummod	4:nummod	Gloss=one
+3	magnum	magnus	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	4:amod	Gloss=large
+4	coffrum	coffrus	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	0	root	0:root	Gloss=coffer
+5	vacuum	vacuus	ADJ	a-s---nap	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	4	amod	4:amod	Gloss=empty
+6	modici	modicus	ADJ	a-p---mnp	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	7	amod	7:amod	Gloss=a small amount
+7	valoris	valor	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	4	acl	4:acl	Gloss=value|SpaceAfter=No
+8	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = 0571AF8E-BCF8-47FD-95A7-AB934C45EC74
+# text = Item i mantelletum album mulieris modici valoris.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	mantelletum	mantelletum	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	0	root	0:root	Gloss=small cloak
+4	album	albus	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	3:amod	Gloss=white
+5	mulieris	mulier	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	3	amod	3:amod	Gloss=woman
+6	modici	modicus	ADJ	a-p---mnp	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	7	amod	7:amod	Gloss=a small amount
+7	valoris	valor	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	3	acl	3:acl	Gloss=value|SpaceAfter=No
+8	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 08C50847-5530-476F-BEA8-0B107B37DBCB
+# text = Item i botam corey circa trium cartayroni.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	botam	bota	NOUN	n--------	_	0	root	0:root	Gloss=cask
+4	corey	corium	ADJ	a-s---mn-	Case=Nom|Number=Sing	3	amod	3:amod	Gloss=leather
+5	circa	circa	ADP	r--------	AdpType=Prep	6	case	6:case	Gloss=around
+6	trium	tres	NUM	m-p---ng-	Case=Gen|Gender=Neut|Number=Plur|NumType=Card	7	nummod	7:nummod	Gloss=three
+7	cartayroni	cartayronum	NOUN	n-s---md-	Case=Dat|Function=Unit|Gender=Masc|Number=Sing	3	acl	3:acl	Gloss=quadroon|SpaceAfter=No
+8	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 08FC361C-36B4-49BC-974D-E0DD1214CD5A
+# text = Item v pelles rubeis.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	v	quinque	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	pelles	pellis	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	0	root	0:root	Gloss=skin
+4	rubeis	rubeus	ADJ	a-p---mb-	Case=Abl|Gender=Masc|Number=Plur	3	amod	3:amod	Gloss=ruby red|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 091F6B93-0624-4553-8882-9FE4EC328C04
+# text = Item quandam aliam domum que fuit poncii Garboti condam que est iuxta domum berengarii vivaudi condam.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	Gloss=next
+2	quandam	quidam	DET	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	4	det	4:det	Gloss=a certain
+3	aliam	alius	DET	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	4	det	4:det	Gloss=other
+4	domum	domus	NOUN	n-s---fa-	Case=Acc|Function=Location|Gender=Fem|Number=Sing	0	root	0:root	Gloss=house
+5	que	qui	CCONJ	c--------	_	7	cc	7:cc	Gloss=which
+6	fuit	sum	AUX	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	7:cop	Gloss=to be
+7	poncii	poncius	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	4	acl	4:acl	Gloss=Unknown
+8	Garboti	Garbotus	PROPN	n-----m--	Case=Nom|Gender=Masc|Number=Sing	7	flat	7:flat	Gloss=Unknown
+9	condam	condam	ADJ	a--------	_	7	amod	7:amod	Gloss=the late
+10	que	qui	CCONJ	c--------	_	13	cc	13:cc	Gloss=which
+11	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	13:cop	Gloss=to be
+12	iuxta	iuxta	ADP	r--------	_	13	case	13:case	Gloss=next to
+13	domum	domus	NOUN	n-s---fa-	Case=Acc|Function=Location|Gender=Fem|Number=Sing	4	acl	4:acl	Gloss=house
+14	berengarii	berengarius	PROPN	n-s---mg-	Case=Nom|Gender=Masc|Number=Sing	13	acl	13:acl	Gloss=Unknown
+15	vivaudi	vivaudus	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	14	flat	14:flat	Gloss=Unknown
+16	condam	condam	ADJ	a--------	_	14	amod	14:amod	Gloss=the late|SpaceAfter=No
+17	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = 09E53288-2141-4E97-85E4-9E3252950C62
+# text = Item ii jarre terre.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	ii	duo	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	jarre	jarra	NOUN	n--------	Case=Loc|Function=Unit|Number=Sing	0	root	0:root	Gloss=jar
+4	terre	terra	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	nmod	3:nmod	Gloss=earthenware|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 0A15569A-0B29-4C3C-80DD-DC3F0A8A77AF
+# text = Item quatuor manipol.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	quatuor	quattuor	NUM	m--------	NumType=Card	3	nummod	3:nummod	Gloss=four
+3	manipol	manipulus	NOUN	n--------	_	0	root	0:root	Gloss=maniple|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 0B73F2B1-7E71-4C4E-8732-88333307FA32
+# text = Item unum gladium cum manubrio de buxo.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	gladium	gladius	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	0	root	0:root	Gloss=sword
+4	cum	cum	SCONJ	c--------	_	5	mark	5:mark	Gloss=with
+5	manubrio	manubrium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	3	acl	3:acl	Gloss=handle
+6	de	de	ADP	r--------	AdpType=Prep	7	case	7:case	Gloss=of
+7	buxo	buxum	NOUN	n-p---nb-	Case=Abl|Gender=Masc|Number=Plur	5	nmod	5:nmod	Gloss=boxwood|SpaceAfter=No
+8	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 0C30D71F-4287-49A1-8227-792EE2C32C0A
+# text = Item ii chalons boni.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	ii	duo	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	chalons	chalonus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	Gloss=bedspread
+4	boni	bonus	ADJ	a-p---mnp	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	3	amod	3:amod	Gloss=good|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 0E4A23CF-0ED4-497D-8348-BCED5C4F6700
+# text = Item pulvinare.
+1	Item	item	ADV	d--------	_	2	advmod	2:advmod	Gloss=next
+2	pulvinare	pulvinar	NOUN	n--------	_	0	root	0:root	Gloss=cushion|SpaceAfter=No
+3	.	.	PUNCT	u--------	_	2	punct	2:punct	Gloss=full_stop
+
+# sent_id = 109E3101-265C-4D5F-B4D8-DA0B6997CB68
+# text = Item unam flassiatam.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	flassiatam	flaciata	NOUN	n--------	_	0	root	0:root	Gloss=coverlet|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 11E8BD68-598D-46B0-910C-827D95B88F46
+# text = Primo ii colquas fusteas.
+1	Primo	primo	ADV	d--------	_	3	advmod	3:advmod	Gloss=first
+2	ii	duo	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	colquas	colca	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	0	root	0:root	Gloss=bed
+4	fusteas	fusteus	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	3	amod	3:amod	Gloss=wooden|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 12D928BB-058F-41F0-9E79-859B86CAD5F0
+# text = Item duo calata sive gavanholos et unam gavanholam magnam.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	duo	duo	NUM	m-p---nn-	Case=Nom|Gender=Neut|Number=Plur	3	nummod	3:nummod	Gloss=two
+3	calata	calatus	NOUN	n--------	_	0	root	0:root	Gloss=basket
+4	sive	sive	CCONJ	c--------	_	5	cc	5:cc	Gloss=or
+5	gavanholos	gavanhola	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	3	conj	3:conj	Gloss=basket
+6	et	et	CCONJ	c--------	_	8	cc	8:cc	Gloss=and
+7	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|Number=Sing	8	nummod	8:nummod	Gloss=one
+8	gavanholam	gavanhola	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	conj	3:conj	Gloss=basket
+9	magnam	magnus	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	8	amod	8:amod	Gloss=large|SpaceAfter=No
+10	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 136AFED4-03DA-42B1-8E7A-22B1CF56AF6C
+# text = I tendedoyra.
+1	I	a	NUM	m--------	NumForm=Digit	2	nummod	2:nummod	Gloss=Unknown
+2	tendedoyra	tendedoyra	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Gloss=sifting frame|SpaceAfter=No
+3	.	.	PUNCT	u--------	_	2	punct	2:punct	Gloss=full_stop
+
+# sent_id = 14E6A8BC-4DAC-49AF-95AC-A9788179B34D
+# text = Item ii pienches unam de oreo et alia de fusta.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	ii	duo	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	pienches	pienche	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	Gloss=comb
+4	unam	unus	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	acl	3:acl	Gloss=one
+5	de	de	ADP	r--------	AdpType=Prep	6	case	6:case	Gloss=of
+6	oreo	aurum	NOUN	n--------	Case=Loc|Number=Sing	4	nmod	4:nmod	Gloss=gold
+7	et	et	CCONJ	c--------	_	8	cc	8:cc	Gloss=and
+8	alia	alius	PRON	p-s---fb-	Case=Abl|Gender=Fem|Number=Sing|PronType=Ind	4	conj	4:conj	Gloss=other
+9	de	de	ADP	r--------	AdpType=Prep	10	case	10:case	Gloss=of
+10	fusta	fusta	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	8	nmod	8:nmod	Gloss=wood|SpaceAfter=No
+11	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 1510B7C4-8B2C-4BB2-85C6-F15CD0AFA447
+# text = Item quedam parva capsieta.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	Gloss=next
+2	quedam	quidam	NUM	m--------	_	4	nummod	4:nummod	Gloss=a certain
+3	parva	parvus	ADJ	a-p---nnp	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	4	amod	4:amod	Gloss=small
+4	capsieta	capcieta	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Gloss=small chest|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = 16417CD7-A190-49C6-ACAC-0E420E908BD0
+# text = Item ii tersores.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	ii	duo	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	tersores	tersor	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	Gloss=napkin|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 17231001-991C-419F-A34A-E1A56AB0010D
+# text = Item ii morterios lapidis.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	ii	duo	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	morterios	morterium	NOUN	n-p---mn-	Case=Acc|Gender=Masc|Number=Plur	0	root	0:root	Gloss=mortar
+4	lapidis	lapis	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	3	nmod	3:nmod	Gloss=stone|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 17B19028-B375-42E9-B463-8C4018CDDD6F
+# text = Item unum mantellum de scacato cum sendato.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	mantellum	mantellum	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	Gloss=cloak
+4	de	de	ADP	r--------	AdpType=Prep	5	case	5:case	Gloss=of
+5	scacato	scacatus	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	3	nmod	3:nmod	Gloss=Unknown
+6	cum	cum	SCONJ	c--------	_	7	mark	7:mark	Gloss=with
+7	sendato	cendalum	NOUN	n--------	_	3	acl	3:acl	Gloss=sendal|SpaceAfter=No
+8	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 18B655F9-66A1-44F6-86A5-38F9126C0FE0
+# text = Item i patres de ambra.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	patres	paternoster	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	Gloss=paternoster
+4	de	de	ADP	r--------	AdpType=Prep	5	case	5:case	Gloss=of
+5	ambra	ambra	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	nmod	3:nmod	Gloss=amber|SpaceAfter=No
+6	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 1C4796D5-6F5F-43CF-82AF-CCDB3744BD2C
+# text = Item quedam mastra.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	quedam	quidam	NUM	m--------	_	3	nummod	3:nummod	Gloss=a certain
+3	mastra	mastra	NOUN	n--------	_	0	root	0:root	Gloss=kneading trough|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 1FFBAE99-D7AD-4FD0-BD13-33C1A74BBDBA
+# text = Item certa quantitas jarrarum terre ad tenendum oleum.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	Gloss=next
+2	certa	certus	DET	p-s---fn-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	det	3:det	Gloss=certain
+3	quantitas	quantitas	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	4	nmod	4:nmod	Gloss=quantity
+4	jarrarum	jarra	NOUN	n-p---fg-	Case=Gen|Function=Unit|Gender=Fem|Number=Plur	0	root	0:root	Gloss=jar
+5	terre	terra	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	nmod	4:nmod	Gloss=earthenware
+6	ad	ad	ADP	r--------	AdpType=Prep	7	mark	7:mark	Gloss=to
+7	tenendum	tenere	VERB	v-s-gpnn-	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Ger|Voice=Pass	4	acl	4:acl	Gloss=holding
+8	oleum	oleum	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	7	obj	7:obj	Gloss=oil|SpaceAfter=No
+9	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = 202DDC08-F58E-4A24-BF42-BF2ADF180A6A
+# text = Item i pessiam fustaney.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	pessiam	pecia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	0	root	0:root	Gloss=piece
+4	fustaney	fustaneum	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	3:amod	Gloss=fustian|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 230BCD5C-1502-4618-92F1-396DF4C11E0D
+# text = Item quandam sayham istoriatam croceam.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	quandam	quidam	DET	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	det	3:det	Gloss=a certain
+3	sayham	saia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	0	root	0:root	Gloss=type of cloth
+4	istoriatam	historiatus	NOUN	n--------	_	5	obj	5:obj	Gloss=historiated
+5	croceam	croceus	VERB	v1sfia---	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	3	acl	3:acl	Gloss=saffron-colored|SpaceAfter=No
+6	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 24AAA384-8C37-46D5-8BBC-F5EB6312D47F
+# text = Item una jarra terrea.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	jarra	jarra	NOUN	n-s---fn-	Case=Nom|Function=Unit|Gender=Fem|Number=Sing	0	root	0:root	Gloss=jar
+4	terrea	terreus	ADJ	a-s---fnp	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	3:amod	Gloss=of earth|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 24B68EC8-71B1-4F2D-9F87-153B8C3AB3F5
+# text = Item ii colcas fuste.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	ii	duo	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	colcas	colca	NOUN	n--------	_	0	root	0:root	Gloss=bed
+4	fuste	fusta	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	nmod	3:nmod	Gloss=wood|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 24DF62E8-6E20-4148-BC08-A3B99836DC66
+# text = Due longerie.
+1	Due	duo	NUM	m-p---fn-	Case=Nom|Gender=Fem|Number=Plur|NumType=Card	2	nummod	2:nummod	Gloss=two
+2	longerie	longeria	NOUN	n--------	Case=Loc|Number=Sing	0	root	0:root	Gloss=table-runner|SpaceAfter=No
+3	.	.	PUNCT	u--------	_	2	punct	2:punct	Gloss=full_stop
+
+# sent_id = 255433DE-B21C-4C86-BB13-95158FD6B569
+# text = Item unum copertorium de burdo pauci valoris.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	copertorium	copertorium	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	Gloss=coverlet
+4	de	de	ADP	r--------	AdpType=Prep	5	case	5:case	Gloss=of
+5	burdo	burdum	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	3	nmod	3:nmod	Gloss=flock
+6	pauci	paucus	ADJ	a-p---mnp	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	7	amod	7:amod	Gloss=few
+7	valoris	valor	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	3	acl	3:acl	Gloss=value|SpaceAfter=No
+8	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 2584F59B-BA74-4D19-B19C-BE5EE7891E29
+# text = Item i morterium fuste.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	morterium	morterium	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	Gloss=mortar
+4	fuste	fusta	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	nmod	3:nmod	Gloss=wood|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 28D1DC18-211F-4469-A4CE-EBA5417822EA
+# text = Item unum copertorium de syndone cunebuli.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	copertorium	copertorium	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	Gloss=coverlet
+4	de	de	ADP	r--------	AdpType=Prep	5	case	5:case	Gloss=of
+5	syndone	cendalum	NOUN	n--------	_	3	acl	3:acl	Gloss=sendal
+6	cunebuli	cunabula	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	5	nmod	5:nmod	Gloss=cradle|SpaceAfter=No
+7	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 29F827B5-E059-4F36-80E4-716529FFA9A4
+# text = Item decem jarras terre vacuas.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	decem	decem	NUM	m--------	NumType=Card	3	nummod	3:nummod	Gloss=ten
+3	jarras	jarra	NOUN	n-p---fa-	Case=Acc|Function=Unit|Gender=Fem|Number=Plur	0	root	0:root	Gloss=jar
+4	terre	terra	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	nmod	3:nmod	Gloss=earthenware
+5	vacuas	vacuus	ADJ	a-p---fap	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	3	amod	3:amod	Gloss=empty|SpaceAfter=No
+6	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 2B877C3A-D3AF-4B27-83DA-EDED5755643E
+# text = Item quatuor tassias de argento.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	quatuor	quattuor	NUM	m--------	NumType=Card	3	nummod	3:nummod	Gloss=four
+3	tassias	tassa	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	0	root	0:root	Gloss=cup
+4	de	de	ADP	r--------	AdpType=Prep	5	case	5:case	Gloss=of
+5	argento	argentum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	3	nmod	3:nmod	Gloss=silver|SpaceAfter=No
+6	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 312DB123-6467-4189-99B4-1A7B3273B679
+# text = Item unam colcam fuste cum bredola.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	colcam	colca	NOUN	n--------	_	0	root	0:root	Gloss=bed
+4	fuste	fusta	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	nmod	3:nmod	Gloss=wood
+5	cum	cum	SCONJ	c--------	_	6	mark	6:mark	Gloss=with
+6	bredola	bredola	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	acl	3:acl	Gloss=bench-step|SpaceAfter=No
+7	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 31E632A4-3A5D-4FF8-858E-ACF4DCBEBE1B
+# text = Item unum randellum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	randellum	randellum	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	Gloss=veil or sail?|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 3281D552-B18E-497C-AAC5-F67D3B25A935
+# text = Item duo paria manicarum domine quarum altere sunt panni albi modici valoris et altere sunt panni rubei.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	Gloss=next
+2	duo	duo	NUM	m-p---nn-	Case=Nom|Gender=Neut|Number=Plur	4	nummod	4:nummod	Gloss=two
+3	paria	par	NUM	m-p---nn-	Case=Nom|Gender=Neut|Number=Plur	2	flat	2:flat	Gloss=pair
+4	manicarum	manica	NOUN	n-p---fg-	Case=Gen|Gender=Fem|Number=Plur	0	root	0:root	Gloss=sleeve
+5	domine	domina	NOUN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	4	nmod	4:nmod	Gloss=mistress
+6	quarum	qui	DET	p-p---fg-	Case=Gen|Gender=Masc|Number=Plur|PronType=Ind	7	det	7:det	Gloss=which
+7	altere	alter	PRON	p--------	_	9	obl	9:obl	Gloss=other
+8	sunt	sum	AUX	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	9:cop	Gloss=to be
+9	panni	pannus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	4	acl	4:acl	Gloss=cloth
+10	albi	albus	ADJ	a-p---mnp	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	9	amod	9:amod	Gloss=white
+11	modici	modicus	ADJ	a-p---mnp	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	12	amod	12:amod	Gloss=Unknown
+12	valoris	valor	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	9	acl	9:acl	Gloss=value
+13	et	et	CCONJ	c--------	_	16	cc	16:cc	Gloss=and
+14	altere	alter	PRON	p--------	_	16	obl	16:obl	Gloss=other
+15	sunt	sum	AUX	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	cop	16:cop	Gloss=to be
+16	panni	pannus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	9	conj	9:conj	Gloss=cloth
+17	rubei	rubeus	ADJ	a-s---mg-	Case=Nom|Gender=Masc|Number=Sing	16	amod	16:amod	Gloss=ruby red|SpaceAfter=No
+18	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = 33C90234-A5DC-43CA-9B4B-26B7712BE8BC
+# text = Item certa quantitas straminis.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	Gloss=next
+2	certa	certus	DET	p-s---fn-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	det	3:det	Gloss=certain
+3	quantitas	quantitas	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	4	nmod	4:nmod	Gloss=quantity
+4	straminis	stramen	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	0	root	0:root	Gloss=straw|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = 33E3C4D0-A7A5-4602-9B91-5C69E3CF54A8
+# text = Item i parva mensura ad mensurandum oleum.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	4	nummod	4:nummod	Gloss=Unknown
+3	parva	parvus	ADJ	a-p---nnp	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	4	amod	4:amod	Gloss=small
+4	mensura	mensura	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Gloss=measure
+5	ad	ad	ADP	r--------	AdpType=Prep	6	mark	6:mark	Gloss=to
+6	mensurandum	mensurare	VERB	v-s-gpnn-	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Ger|Voice=Pass	4	acl	4:acl	Gloss=measuring
+7	oleum	oleum	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	6	obj	6:obj	Gloss=oil|SpaceAfter=No
+8	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = 342915F2-8096-41E3-ADBD-09BBFC66F48D
+# text = Item i bredolam.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	bredolam	bredola	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	0	root	0:root	Gloss=bench-step|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 3C01A43F-EA42-4F69-8368-0568896AEE01
+# text = Item duas flassiatas.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	duas	duo	NUM	m-p---fa-	Case=Acc|Gender=Fem|Number=Plur	3	nummod	3:nummod	Gloss=two
+3	flassiatas	flaciata	NOUN	n--------	_	0	root	0:root	Gloss=coverlet|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 3CE22705-4CF8-465E-B2D8-E1E02F836B7C
+# text = Item i cubessella olle ferrea.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	4	nummod	4:nummod	Gloss=Unknown
+3	cubessella	copercella	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Plur	4	nmod	4:nmod	Gloss=cover
+4	olle	olla	NOUN	n--------	_	0	root	0:root	Gloss=pot
+5	ferrea	ferreus	ADJ	a-p---nnp	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	4	amod	4:amod	Gloss=made of iron|SpaceAfter=No
+6	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = 3D679053-A124-4395-B014-027859D5A8F8
+# text = Item iiiir lintheamina.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	iiiir	quattuor	NUM	m--------	_	3	nummod	3:nummod	Gloss=Unknown
+3	lintheamina	linteamen	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Gloss=sheet|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 3E31EF42-A827-44A0-B905-85E60B6E7FB8
+# text = Et primo in quadam capsia.
+1	Et	et	CCONJ	c--------	_	5	cc	5:cc	Gloss=and
+2	primo	primo	ADV	d--------	_	5	advcl	5:advcl	Gloss=first
+3	in	in	ADP	r--------	AdpType=Prep	5	case	5:case	Gloss=in
+4	quadam	quidam	DET	p-s---fb-	Case=Abl|Gender=Fem|Number=Sing	5	det	5:det	Gloss=a certain
+5	capsia	capcia	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Gloss=chest|SpaceAfter=No
+6	.	.	PUNCT	u--------	_	5	punct	5:punct	Gloss=full_stop
+
+# sent_id = 3F18D09E-F44E-4ACE-B8A9-121EDCCDBB9A
+# text = Item unam capsiam antiquam grossorum ii.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	capsiam	capcia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	0	root	0:root	Gloss=chest
+4	antiquam	antiquus	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	3:amod	Gloss=old
+5	grossorum	grossus	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	3	acl	3:acl	Gloss=coarse
+6	ii	duo	NUM	m--------	NumForm=Digit	5	nummod	5:nummod	Gloss=Unknown|SpaceAfter=No
+7	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 3F1BBFDB-3827-4562-ABE8-74659FC243D0
+# text = Item emptio duorum hospiciorum.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	Gloss=next
+2	emptio	emptio	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	4	amod	4:amod	Gloss=purchase
+3	duorum	duo	NUM	m-p---ng-	Case=Gen|Gender=Neut|Number=Plur|NumType=Card	4	nummod	4:nummod	Gloss=two
+4	hospiciorum	hospicium	NOUN	n-p---ng-	Case=Gen|Function=Location|Gender=Neut|Number=Plur	0	root	0:root	Gloss=Unknown|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = 3F441E02-31DD-4247-B005-40775874471D
+# text = Item i camisia mulieris.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	camisia	camisia	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Gloss=shirt
+4	mulieris	mulier	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	3	amod	3:amod	Gloss=woman|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 3F64D705-6358-4FA1-8519-042BC9798A75
+# text = Item quedam modica ferrago scita infra civitatem Massilie viz al enquisition que confrontatur cum viridario domini episcopalis et cum barrio et cum monasterio sancte Paule et cum camino publico servilis domino Petro de Serveriis solidos octo annis singulis in medio augusto.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	quedam	quidam	DET	p--------	_	3	det	3:det	Gloss=a certain
+3	modica	modicus	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	0	root	0:root	Gloss=a small amount
+4	ferrago	ferrago	NOUN	n--------	Case=Loc|Number=Sing	3	nmod	3:nmod	Gloss=pasture
+5	scita	scitus	VERB	v-srppfb-	Aspect=Perf|Case=Abl|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	3:acl	Gloss=located
+6	infra	infra	ADP	r--------	_	7	case	7:case	Gloss=below
+7	civitatem	civitas	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	5	obl	5:obl	Gloss=city
+8	Massilie	Massalia	PROPN	n--------	Case=Nom|Number=Sing	7	flat	7:flat	Gloss=Marseille
+9	viz	videlicet	ADP	r--------	_	11	case	11:case	Gloss=namely
+10	al	al	ADP	r--------	_	11	case	11:case	Gloss=Unknown
+11	enquisition	enquisitio	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	5	obl	5:obl	Gloss=Unknown
+12	que	qui	CCONJ	c--------	_	13	cc	13:cc	Gloss=which
+13	confrontatur	confrontare	VERB	v3spip---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	11	acl	11:acl	Gloss=Unknown
+14	cum	cum	SCONJ	c--------	_	15	mark	15:mark	Gloss=with
+15	viridario	viridarium	NOUN	n-s---nb-	Case=Abl|Function=Location|Gender=Neut|Number=Sing	13	obj	13:obj	Gloss=orchard
+16	domini	dominus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	15	acl	15:acl	Gloss=lord
+17	episcopalis	episcopus	ADJ	a-s---mnp	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	16	amod	16:amod	Gloss=Unknown
+18	et	et	CCONJ	c--------	_	20	cc	20:cc	Gloss=and
+19	cum	cum	ADP	r--------	AdpType=Prep	20	case	20:case	Gloss=with
+20	barrio	barrium	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	15	conj	15:conj	Gloss=Unknown
+21	et	et	CCONJ	c--------	_	23	cc	23:cc	Gloss=and
+22	cum	cum	ADP	r--------	AdpType=Prep	23	case	23:case	Gloss=with
+23	monasterio	monasterium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	15	conj	15:conj	Gloss=Unknown
+24	sancte	sancte	PROPN	n-----m--	Case=Nom|Gender=Masc|Number=Sing	23	flat	23:flat	Gloss=Unknown
+25	Paule	Pauio	PROPN	n--------	_	23	flat	23:flat	Gloss=Unknown
+26	et	et	CCONJ	c--------	_	28	cc	28:cc	Gloss=and
+27	cum	cum	ADP	r--------	AdpType=Prep	28	case	28:case	Gloss=with
+28	camino	camin	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	15	conj	15:conj	Gloss=Unknown
+29	publico	publicus	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	28	nmod	28:nmod	Gloss=public
+30	servilis	servilis	ADJ	a-s---fnp	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	28	amod	28:amod	Gloss=Unknown
+31	domino	dominus	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	28	acl	28:acl	Gloss=lord
+32	Petro	Petrus	PROPN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	31	flat	31:flat	Gloss=Unknown
+33	de	de	ADP	r--------	AdpType=Prep	31	flat	31:flat	Gloss=of
+34	Serveriis	Servare	PROPN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	31	flat	31:flat	Gloss=Unknown
+35	solidos	solidus	NOUN	n-p---mn-	Case=Nom|Function=Unit|Gender=Masc|Number=Plur	3	acl	3:acl	Gloss=shilling
+36	octo	octo	NUM	m--------	NumType=Card	35	nummod	35:nummod	Gloss=eight
+37	annis	annus	NOUN	n-p---md-	Case=Dat|Gender=Masc|Number=Plur	35	nmod	35:nmod	Gloss=year
+38	singulis	singuli	ADJ	a-p---mdp	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	37	amod	37:amod	Gloss=one each
+39	in	in	ADP	r--------	AdpType=Prep	40	case	40:case	Gloss=in
+40	medio	medius	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	41	nmod	41:nmod	Gloss=Unknown
+41	augusto	augustus	PROPN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	35	obl	35:obl	Gloss=Unknown|SpaceAfter=No
+42	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 3F7B334D-8AF0-4D7C-ACEC-A789573FE24F
+# text = Item i ganaja linea in modum suppelii.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	ganaja	gano	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Gloss=Unknown
+4	linea	lineus	VERB	v-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	acl	3:acl	Gloss=of linen
+5	in	in	ADP	r--------	AdpType=Prep	6	case	6:case	Gloss=in
+6	modum	modus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	7	acl	7:acl	Gloss=way
+7	suppelii	superpellicium	NOUN	n--------	Case=Loc|Number=Sing	4	obl	4:obl	Gloss=surplice|SpaceAfter=No
+8	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 3F973CAE-62A8-4588-BB96-E3EE033F3BFC
+# text = Item una capsia de sapo ante dictum magnum lectum cum sera et clave quam clavem dicitur esse penes blaycayronum de monteolivo.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	capsia	capcia	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Gloss=chest
+4	de	de	ADP	r--------	AdpType=Prep	5	case	5:case	Gloss=of
+5	sapo	sappus	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	nmod	3:nmod	Gloss=pine
+6	ante	ante	ADP	r--------	AdpType=Prep	9	case	9:case	Gloss=before
+7	dictum	dictus	ADJ	a--------	_	9	amod	9:amod	Gloss=the said
+8	magnum	magnus	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	9	amod	9:amod	Gloss=large
+9	lectum	lectum	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	3	acl	3:acl	Gloss=bed
+10	cum	cum	SCONJ	c--------	_	11	mark	11:mark	Gloss=with
+11	sera	sera	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	acl	3:acl	Gloss=lock
+12	et	et	CCONJ	c--------	_	13	cc	13:cc	Gloss=and
+13	clave	clavis	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	11	conj	11:conj	Gloss=key
+14	quam	qui	DET	p--------	_	15	det	15:det	Gloss=which
+15	clavem	clavis	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	16	nsubj	16:nsubj	Gloss=key
+16	dicitur	dicere	VERB	v3spip---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	13	acl	13:acl	Gloss=to say
+17	esse	sum	AUX	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	16	aux	16:aux	Gloss=to be
+18	penes	penes	ADP	r--------	_	19	case	19:case	Gloss=in the possession of
+19	blaycayronum	blaycayronum	PROPN	n-p---ng-	Case=Gen|Gender=Neut|Number=Sing	16	obl	16:obl	Gloss=Unknown
+20	de	de	ADP	r--------	AdpType=Prep	19	flat	19:flat	Gloss=of
+21	monteolivo	monteolivo	PROPN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	19	flat	19:flat	Gloss=Unknown|SpaceAfter=No
+22	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 4206E848-DF1A-4565-BE8E-9233D95B4CEC
+# text = Item unam mantam de pureya iii florenorum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	mantam	manta	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	0	root	0:root	Gloss=mantle
+4	de	de	ADP	r--------	AdpType=Prep	5	case	5:case	Gloss=of
+5	pureya	pureya	NOUN	n--------	_	3	nmod	3:nmod	Gloss=fabric
+6	iii	tres	NUM	m--------	NumForm=Digit	7	nummod	7:nummod	Gloss=Unknown
+7	florenorum	florenus	NOUN	n-p---ng-	Case=Gen|Function=Unit|Gender=Neut|Number=Plur	3	acl	3:acl	Gloss=florin|SpaceAfter=No
+8	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 42793188-083A-48A1-811F-042F5F6B54D9
+# text = Item duas flassiatas.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	duas	duo	NUM	m-p---fa-	Case=Acc|Gender=Fem|Number=Plur	3	nummod	3:nummod	Gloss=two
+3	flassiatas	flaciata	NOUN	n--------	_	0	root	0:root	Gloss=coverlet|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 42FCAB0D-6509-45CD-A2E8-BA5CC69335C8
+# text = Una tabula mensalis cum tabulonis et duos bancos fuste.
+1	Una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|Number=Sing	2	nummod	2:nummod	Gloss=one
+2	tabula	tabula	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Gloss=board
+3	mensalis	mensalis	ADJ	a-s---fnp	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	2:amod	Gloss=of or pertaining to the table
+4	cum	cum	SCONJ	c--------	_	5	mark	5:mark	Gloss=with
+5	tabulonis	tabulonus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	2	nmod	2:nmod	Gloss=trestle
+6	et	et	CCONJ	c--------	_	8	cc	8:cc	Gloss=and
+7	duos	duo	NUM	m-p---mn-	Case=Acc|Gender=Masc|Number=Plur	8	nummod	8:nummod	Gloss=two
+8	bancos	bancus	NOUN	n--------	_	2	conj	2:conj	Gloss=bench
+9	fuste	fusta	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	8	nmod	8:nmod	Gloss=wood|SpaceAfter=No
+10	.	.	PUNCT	u--------	_	2	punct	2:punct	Gloss=full_stop
+
+# sent_id = 4310C4BE-5943-4979-9B84-065DEC18B067
+# text = Item unum aliud pondus unius libre.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	Gloss=next
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	4	nummod	4:nummod	Gloss=one
+3	aliud	alius	DET	p-s---na-	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	4	det	4:det	Gloss=other
+4	pondus	pondus	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	Gloss=weight
+5	unius	unus	NUM	m-s---mg-	Case=Gen|Gender=Neut|Number=Sing|NumType=Card	6	nummod	6:nummod	Gloss=one
+6	libre	libra	NOUN	n-s---nn-	Case=Nom|Function=Unit|Gender=Neut|Number=Sing	4	acl	4:acl	Gloss=pound|SpaceAfter=No
+7	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = 43BBEAC7-3020-4774-AB66-D75AF644D3D3
+# text = Item i embut.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	embut	embutum	NOUN	n--------	_	0	root	0:root	Gloss=funnel|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 468D8FF9-D3D0-4909-A95F-2578BBDC9D06
+# text = Item due libre et media tonini.
+1	Item	item	ADV	d--------	_	6	advmod	6:advmod	Gloss=next
+2	due	duo	NUM	m-p---fn-	Case=Nom|Gender=Fem|Number=Plur|NumType=Card	3	nummod	3:nummod	Gloss=two
+3	libre	libra	NOUN	n-s---nn-	Case=Nom|Function=Unit|Gender=Neut|Number=Sing	6	acl	6:acl	Gloss=pound
+4	et	et	CCONJ	c--------	_	5	cc	5:cc	Gloss=and
+5	media	medius	NOUN	n--------	_	2	conj	2:conj	Gloss=half
+6	tonini	tonina	NOUN	n-----m--	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	Gloss=tuna|SpaceAfter=No
+7	.	.	PUNCT	u--------	_	6	punct	6:punct	Gloss=full_stop
+
+# sent_id = 47F2618E-C3C8-4E2E-95C0-1AD712C5D191
+# text = Item unam caxiatam.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	caxiatam	capcieta	NOUN	n--------	_	0	root	0:root	Gloss=small chest|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 48A7805A-6EA1-42F7-8414-44BCDDF97673
+# text = Item unum mantulum et cotardiam panni brunelli quas vestes habet penes se dictam heres.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	mantulum	mantellum	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	Gloss=cloak
+4	et	et	CCONJ	c--------	_	5	cc	5:cc	Gloss=and
+5	cotardiam	cotardia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	conj	3:conj	Gloss=cotehardie
+6	panni	pannus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	5	acl	5:acl	Gloss=cloth
+7	brunelli	brunettus	ADJ	a-s---ng-	Case=Gen|Gender=Neut|Number=Sing	6	amod	6:amod	Gloss=burnet
+8	quas	qui	DET	p--------	_	9	det	9:det	Gloss=which
+9	vestes	vestis	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	10	nsubj	10:nsubj	Gloss=article of clothing
+10	habet	habeo	VERB	v3spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	3:acl	Gloss=to have
+11	penes	penes	ADP	r--------	_	14	case	14:case	Gloss=in the possession of
+12	se	se	DET	p-s---na-	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs|Reflex=Yes	14	det	14:det	Gloss=himself or herself
+13	dictam	dictus	ADJ	a--------	_	14	amod	14:amod	Gloss=the said
+14	heres	heres	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	10	obl	10:obl	Gloss=heir|SpaceAfter=No
+15	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 4B773D77-B292-436C-9417-D5A2BB6DC796
+# text = Item unum vas vinarium vacuum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	vas	vas	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	Gloss=cask
+4	vinarium	vinarius	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	3:amod	Gloss=of wine
+5	vacuum	vacuus	ADJ	a-s---nap	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	3	amod	3:amod	Gloss=empty|SpaceAfter=No
+6	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 4BAC7B41-BF56-40B0-A22B-5AA65C831036
+# text = Item unum parvum bassinum cupri.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	Gloss=next
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	4	nummod	4:nummod	Gloss=one
+3	parvum	parvus	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	4:amod	Gloss=small
+4	bassinum	bacinus	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	Gloss=basin
+5	cupri	cuprum	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	4	nmod	4:nmod	Gloss=copper|SpaceAfter=No
+6	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = 4E16977D-A661-4314-B89E-D241D0FA1EB7
+# text = Item quatuor forniliera.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	quatuor	quattuor	NUM	m--------	NumType=Card	3	nummod	3:nummod	Gloss=four
+3	forniliera	fornilis	NOUN	n--------	Case=Nom|Number=Sing	0	root	0:root	Gloss=Unknown|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 4E9B4E0E-DB34-4B9B-8743-876F6BF92697
+# text = Item una cathena ad tendendum seu porcum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	cathena	catena	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Gloss=chain
+4	ad	ad	ADP	r--------	AdpType=Prep	5	mark	5:mark	Gloss=to
+5	tendendum	tendere	VERB	v-s-gpnn-	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Ger|Voice=Pass	3	acl	3:acl	Gloss=stretching
+6	seu	seu	DET	p--------	_	7	det	7:det	Gloss=or
+7	porcum	porcus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	5	obj	5:obj	Gloss=pig|SpaceAfter=No
+8	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 4F06F468-16F4-44B9-8941-3B738AF58ACB
+# text = Item i berreta telle.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	berreta	berreta	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Gloss=biretta
+4	telle	tela	NOUN	n-s----n-	Case=Nom|Number=Sing	3	nmod	3:nmod	Gloss=fabric|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 511C65A1-3D3A-494D-8E3E-EDC24ECADF33
+# text = Item unam concquam parvam.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	concquam	conca	NOUN	n--------	_	0	root	0:root	Gloss=basin
+4	parvam	parvus	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	3:amod	Gloss=small|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 55CD0A2C-9769-4CB7-8252-E6987A1CB23F
+# text = Cofffrua ferrata duo in quorum uno sunt decem mappe.
+1	Cofffrua	coffrus	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Gloss=coffer
+2	ferrata	ferratus	ADJ	a--------	_	1	amod	1:amod	Gloss=furnished with iron
+3	duo	duo	NUM	m-p---nn-	Case=Nom|Gender=Neut|Number=Plur	1	nummod	1:nummod	Gloss=two
+4	in	in	ADP	r--------	AdpType=Prep	6	case	6:case	Gloss=in
+5	quorum	qui	DET	p-p---mg-	Case=Gen|Gender=Masc|Number=Plur|PronType=Ind	6	det	6:det	Gloss=which
+6	uno	unus	NUM	m-s---nb-	Case=Abl|Gender=Neut|Number=Sing	9	obl	9:obl	Gloss=one
+7	sunt	sum	AUX	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	9:cop	Gloss=to be
+8	decem	decem	NUM	m--------	NumType=Card	9	nummod	9:nummod	Gloss=ten
+9	mappe	mappa	NOUN	n--------	Number=Sing	1	acl	1:acl	Gloss=tablecloth|SpaceAfter=No
+10	.	.	PUNCT	u--------	_	1	punct	1:punct	Gloss=full_stop
+
+# sent_id = 55FC19E6-403F-4525-9268-BB9E2BEA7886
+# text = Item unum estacador de margaritis et unum cassac argenteo et de margaritis.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	estacador	estacador	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	Gloss=Unknown
+4	de	de	ADP	r--------	AdpType=Prep	5	case	5:case	Gloss=of
+5	margaritis	margarita	NOUN	n-p---fd-	Case=Dat|Gender=Fem|Number=Plur	3	nmod	3:nmod	Gloss=pearl
+6	et	et	CCONJ	c--------	_	8	cc	8:cc	Gloss=and
+7	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	8	nummod	8:nummod	Gloss=one
+8	cassac	cassac	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	3	conj	3:conj	Gloss=Unknown
+9	argenteo	argenteus	ADJ	a-s---nbp	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	8	amod	8:amod	Gloss=of silver
+10	et	et	CCONJ	c--------	_	12	cc	12:cc	Gloss=and
+11	de	de	ADP	r--------	AdpType=Prep	12	case	12:case	Gloss=of
+12	margaritis	margarita	NOUN	n-p---fd-	Case=Dat|Gender=Fem|Number=Plur	8	conj	8:conj	Gloss=pearl|SpaceAfter=No
+13	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 57015836-6639-4FC2-A8F3-3EE56F3593FE
+# text = Quequidem res superius extimate summa in universo perficiunt videlicet florenos centum et novem grossos xi.
+1	Quequidem	quisquidem	DET	p-s---nn-	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	2	det	2:det	Gloss=any sort at all
+2	res	res	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	8:nsubj	Gloss=Unknown
+3	superius	superius	ADJ	a-p---mg-	Case=Gen|Gender=Masc|Number=Plur	4	amod	4:amod	Gloss=above
+4	extimate	extimo	NOUN	n-p------	Number=Plur	8	obj	8:obj	Gloss=Unknown
+5	summa	summa	NOUN	n--------	_	4	nmod	4:nmod	Gloss=total
+6	in	in	ADP	r--------	AdpType=Prep	7	case	7:case	Gloss=in
+7	universo	universus	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	4	nmod	4:nmod	Gloss=all together
+8	perficiunt	perficio	VERB	v3ppia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=Unknown
+9	videlicet	videlicet	ADV	d--------	_	10	advmod	10:advmod	Gloss=namely
+10	florenos	florenus	NOUN	n-p---mn-	Case=Acc|Function=Unit|Gender=Masc|Number=Plur	8	obl	8:obl	Gloss=florin
+11	centum	centum	NUM	m--------	NumType=Card	10	nummod	10:nummod	Gloss=one hundred
+12	et	et	CCONJ	c--------	_	13	cc	13:cc	Gloss=and
+13	novem	novem	NUM	m--------	NumType=Card	11	conj	11:conj	Gloss=nine
+14	grossos	grossus	NOUN	n-p---ma-	Case=Acc|Function=Unit|Gender=Masc|Number=Plur	10	conj	10:conj	Gloss=gros
+15	xi	undecim	NUM	m--------	NumForm=Digit	14	nummod	14:nummod	Gloss=Unknown|SpaceAfter=No
+16	.	.	PUNCT	u--------	_	8	punct	8:punct	Gloss=full_stop
+
+# sent_id = 5A02068B-D47C-4506-B9CD-FBE1E67A8B4D
+# text = Item una terra duarum carteriatarum et dimidie.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	terra	terra	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Gloss=land
+4	duarum	duo	NUM	m-p---fg-	Case=Gen|Gender=Fem|Number=Plur|NumType=Card	5	nummod	5:nummod	Gloss=two
+5	carteriatarum	cartariata	NOUN	n-p---fg-	Case=Gen|Function=Unit|Gender=Fem|Number=Plur	3	acl	3:acl	Gloss=quarter
+6	et	et	CCONJ	c--------	_	7	cc	7:cc	Gloss=and
+7	dimidie	dimidium	NOUN	n--------	Case=Loc|Number=Sing	4	nmod	4:nmod	Gloss=half|SpaceAfter=No
+8	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 5ACE7702-DAEE-4BD7-BB65-08D674C42727
+# text = Que omnia bona mobilia habet penes se Hugo berengarii notarii.
+1	Que	qui	CCONJ	c--------	_	5	cc	5:cc	Gloss=which
+2	omnia	omnis	DET	p-p---na-	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	3	det	3:det	Gloss=all
+3	bona	bona	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	5	nsubj	5:nsubj	Gloss=goods
+4	mobilia	mobilis	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	3	nmod	3:nmod	Gloss=movable
+5	habet	habeo	VERB	v3spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=to have
+6	penes	penes	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	5	obj	5:obj	Gloss=in the possession of
+7	se	se	DET	p-s---na-	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs|Reflex=Yes	8	det	8:det	Gloss=himself or herself
+8	Hugo	Hugo	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	6	acl	6:acl	Gloss=Unknown
+9	berengarii	berengarius	PROPN	n-s---mg-	Case=Nom|Gender=Masc|Number=Sing	8	flat	8:flat	Gloss=Unknown
+10	notarii	notarius	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	8	appos	8:appos	Gloss=Unknown|SpaceAfter=No
+11	.	.	PUNCT	u--------	_	5	punct	5:punct	Gloss=full_stop
+
+# sent_id = 5BE8DD77-0DB6-46DB-93D8-58CFE535C5DE
+# text = Item quoddam hospicium situm in carreria anthonii marquessii prope macellum Tholoney confrontatum ab una parte cum hospicio dicti anthonii marquessii et ab alia parte cum viridario nicholay giraudi et a bodio cum viridario nobilis laurencii ricavi et ante cum carreria publica submissum maiori directo dominio et senhorie nobilis gabriellis de Sarda ad censum seu servicium viginti solidorum regalium annis singulis solvendorum in festo Beate Marie medii mensis augusti precio videlicet et nomine precii sexaginta duorum florenorum et sex grossorum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	quoddam	quidam	DET	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	det	3:det	Gloss=a certain
+3	hospicium	hospicium	NOUN	n-s---nn-	Case=Nom|Function=Location|Gender=Neut|Number=Sing	0	root	0:root	Gloss=house
+4	situm	situs	VERB	v-srppnn-	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	3:acl	Gloss=situated
+5	in	in	ADP	r--------	AdpType=Prep	6	case	6:case	Gloss=in
+6	carreria	carreria	NOUN	n-s---fn-	Case=Nom|Function=Location|Gender=Fem|Number=Sing	4	obl	4:obl	Gloss=street
+7	anthonii	anthonius	PROPN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	6	flat	6:flat	Gloss=Unknown
+8	marquessii	marquessium	PROPN	n-s---fn-	Case=Nom|Number=Sing	6	flat	6:flat	Gloss=Unknown
+9	prope	prope	ADP	r--------	AdpType=Prep	10	case	10:case	Gloss=near
+10	macellum	macellum	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	4	obl	4:obl	Gloss=Unknown
+11	Tholoney	Tholon	PROPN	n-s---mb-	Case=Nom|Gender=Masc|Number=Sing	10	flat	10:flat	Gloss=Unknown
+12	confrontatum	confrontare	VERB	v-srppnn-	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	3:acl	Gloss=to abut
+13	ab	ab	ADP	r--------	AdpType=Prep	15	case	15:case	Gloss=from
+14	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|Number=Sing	15	nummod	15:nummod	Gloss=one
+15	parte	pars	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	17	obl	17:obl	Gloss=Unknown
+16	cum	cum	ADP	r--------	AdpType=Prep	17	case	17:case	Gloss=with
+17	hospicio	hospicium	NOUN	n-s---mn-	Case=Nom|Function=Location|Gender=Masc|Number=Sing	12	obj	12:obj	Gloss=Unknown
+18	dicti	dictus	ADJ	a--------	_	19	amod	19:amod	Gloss=the said
+19	anthonii	anthonius	PROPN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	17	acl	17:acl	Gloss=Unknown
+20	marquessii	marquessium	PROPN	n-s---fn-	Case=Nom|Number=Sing	19	flat	19:flat	Gloss=Unknown
+21	et	et	CCONJ	c--------	_	26	cc	26:cc	Gloss=and
+22	ab	ab	ADP	r--------	AdpType=Prep	24	case	24:case	Gloss=from
+23	alia	alius	DET	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	24	det	24:det	Gloss=other
+24	parte	pars	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	26	obl	26:obl	Gloss=part
+25	cum	cum	ADP	r--------	AdpType=Prep	26	case	26:case	Gloss=with
+26	viridario	viridarium	NOUN	n-s---nb-	Case=Abl|Function=Location|Gender=Neut|Number=Sing	17	conj	17:conj	Gloss=orchard
+27	nicholay	nichola	PROPN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	26	nmod	26:nmod	Gloss=Unknown
+28	giraudi	giraudi	PROPN	n--------	_	27	flat	27:flat	Gloss=Unknown
+29	et	et	CCONJ	c--------	_	33	cc	33:cc	Gloss=and
+30	a	ab	ADP	r--------	AdpType=Prep	31	case	31:case	Gloss=from
+31	bodio	bodium	NOUN	n-----n--	Case=Abl|Gender=Masc|Number=Sing	33	obl	33:obl	Gloss=bottom
+32	cum	cum	ADP	r--------	AdpType=Prep	33	case	33:case	Gloss=with
+33	viridario	viridarium	NOUN	n-s---nb-	Case=Abl|Function=Location|Gender=Neut|Number=Sing	17	conj	17:conj	Gloss=orchard
+34	nobilis	nobilis	ADJ	a-s---mnp	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	35	amod	35:amod	Gloss=noble
+35	laurencii	laurencius	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	33	acl	33:acl	Gloss=Unknown
+36	ricavi	rico	PROPN	n-s------	Number=Sing	35	flat	35:flat	Gloss=Unknown
+37	et	et	CCONJ	c--------	_	40	cc	40:cc	Gloss=and
+38	ante	ante	ADP	r--------	AdpType=Prep	40	case	40:case	Gloss=before
+39	cum	cum	ADP	r--------	AdpType=Prep	40	case	40:case	Gloss=with
+40	carreria	carreria	NOUN	n-s---fn-	Case=Nom|Function=Location|Gender=Fem|Number=Sing	17	conj	17:conj	Gloss=street
+41	publica	publicus	ADJ	a-s---fnp	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	40	amod	40:amod	Gloss=public
+42	submissum	submissus	VERB	v-srppna-	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	3:acl	Gloss=dependent on
+43	maiori	maior	ADJ	a-s---mdc	Case=Dat|Degree=Cmp|Gender=Masc|Number=Sing	45	amod	45:amod	Gloss=larger
+44	directo	dirigo	ADJ	a-s---nb-	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part	45	amod	45:amod	Gloss=Unknown
+45	dominio	dominium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	42	obl	42:obl	Gloss=lordship
+46	et	et	CCONJ	c--------	_	47	cc	47:cc	Gloss=and
+47	senhorie	senho	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	45	conj	45:conj	Gloss=Unknown
+48	nobilis	nobilis	ADJ	a-s---mnp	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	49	amod	49:amod	Gloss=noble
+49	gabriellis	gabriellum	PROPN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	45	acl	45:acl	Gloss=Unknown
+50	de	de	ADP	r--------	AdpType=Prep	49	flat	49:flat	Gloss=of
+51	Sarda	Sarda	PROPN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	49	flat	49:flat	Gloss=Unknown
+52	ad	ad	ADP	r--------	AdpType=Prep	53	case	53:case	Gloss=to
+53	censum	census	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	3	acl	3:acl	Gloss=rent
+54	seu	seu	CCONJ	c--------	_	55	mark	55:mark	Gloss=or
+55	servicium	servicius	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	53	conj	53:conj	Gloss=Unknown
+56	viginti	viginti	NUM	m--------	NumType=Card	57	nummod	57:nummod	Gloss=twenty
+57	solidorum	solidus	NOUN	n-p---mg-	Case=Gen|Function=Unit|Gender=Masc|Number=Plur	53	acl	53:acl	Gloss=shilling
+58	regalium	regalis	NOUN	n-p---mg-	Case=Gen|Gender=Neut|Number=Plur	57	nmod	57:nmod	Gloss=royal
+59	annis	annus	NOUN	n-p---md-	Case=Dat|Gender=Masc|Number=Plur	57	acl	57:acl	Gloss=year
+60	singulis	singuli	ADJ	a-p---mdp	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	59	amod	59:amod	Gloss=one each
+61	solvendorum	solvere	VERB	v-p-gpng-	Aspect=Perf|Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|VerbForm=Gdv|Voice=Pass	57	acl	57:acl	Gloss=to pay
+62	in	in	ADP	r--------	AdpType=Prep	63	case	63:case	Gloss=in
+63	festo	festum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	67	acl	67:acl	Gloss=festival
+64	Beate	Beate	PROPN	n--------	Case=Loc|Number=Sing	63	nmod	63:nmod	Gloss=Unknown
+65	Marie	Maria	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	64	flat	64:flat	Gloss=Mary
+66	medii	medius	NOUN	n--------	_	67	nmod	67:nmod	Gloss=half
+67	mensis	mensis	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	61	obl	61:obl	Gloss=Unknown
+68	augusti	augustus	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	67	nmod	67:nmod	Gloss=Unknown
+69	precio	pretium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	3	acl	3:acl	Gloss=price
+70	videlicet	videlicet	ADV	d--------	_	73	advmod	73:advmod	Gloss=namely
+71	et	et	CCONJ	c--------	_	73	cc	73:cc	Gloss=and
+72	nomine	nomen	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	73	nmod	73:nmod	Gloss=name
+73	precii	pretium	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	69	conj	69:conj	Gloss=price
+74	sexaginta	sexaginta	NUM	m-p---nn-	Case=Nom|Gender=Neut|Number=Plur	76	nummod	76:nummod	Gloss=sixty
+75	duorum	duo	NUM	m-p---ng-	Case=Gen|Gender=Neut|Number=Plur|NumType=Card	74	flat	74:flat	Gloss=two
+76	florenorum	florenus	NOUN	n-p---ng-	Case=Gen|Function=Unit|Gender=Neut|Number=Plur	69	acl	69:acl	Gloss=florin
+77	et	et	CCONJ	c--------	_	79	cc	79:cc	Gloss=and
+78	sex	sex	NUM	m--------	NumType=Card	79	nummod	79:nummod	Gloss=six
+79	grossorum	grossus	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	76	conj	76:conj	Gloss=coarse|SpaceAfter=No
+80	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 5C204B54-D746-4E3F-A923-C1A9ABE83205
+# text = Item unum aliud vas vinarium capacitatis xvii metretarum.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	Gloss=next
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	4	nummod	4:nummod	Gloss=one
+3	aliud	alius	DET	p-s---na-	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	4	det	4:det	Gloss=other
+4	vas	vas	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	Gloss=cask
+5	vinarium	vinarius	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	4:amod	Gloss=of wine
+6	capacitatis	capacitas	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	4	acl	4:acl	Gloss=with a capacity of
+7	xvii	septendecim	NUM	m--------	NumForm=Digit	8	nummod	8:nummod	Gloss=seventeen
+8	metretarum	metreta	NOUN	n--------	Function=Unit	6	acl	6:acl	Gloss=liquid measura|SpaceAfter=No
+9	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = 5C54C408-60D5-493C-BD31-3D83DB30EA0F
+# text = Item unum bloquerium magnum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	bloquerium	bloquerius	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	Gloss=buckler
+4	magnum	magnus	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	3:amod	Gloss=large|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 5D45660D-A49C-4479-AC31-08DF0E51272A
+# text = Item i parvum cacobum novum.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	4	nummod	4:nummod	Gloss=Unknown
+3	parvum	parvus	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	4:amod	Gloss=small
+4	cacobum	cacobus	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	0	root	0:root	Gloss=pot
+5	novum	novus	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	4:amod	Gloss=new|SpaceAfter=No
+6	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = 5D8CDC0E-C66C-4004-88AE-8FE2142763C3
+# text = Item unam botam capacitatis xiii milhayrolarum vel circa extimavunt dicti extimatores eidem johanneti presenti ut supra stipulanti et recipienti in et pro complemento sortis predicto precio ii florenorum vi grossorum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	botam	bota	NOUN	n--------	_	0	root	0:root	Gloss=cask
+4	capacitatis	capacitas	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	3	acl	3:acl	Gloss=with a capacity of
+5	xiii	duodecim	NUM	m-s---mn-	Case=Nom|Gender=Masc|Number=Sing	6	nummod	6:nummod	Gloss=twelve
+6	milhayrolarum	meillerola	NOUN	n-p---fg-	Case=Gen|Function=Unit|Gender=Fem|Number=Plur	4	acl	4:acl	Gloss=millerole
+7	vel	vel	CCONJ	c--------	_	8	cc	8:cc	Gloss=or
+8	circa	circa	ADP	r--------	AdpType=Prep	5	conj	5:conj	Gloss=around
+9	extimavunt	extimo	VERB	v3pria---	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	acl	4:acl	Gloss=Unknown
+10	dicti	dico	ADJ	a--------	_	11	amod	11:amod	Gloss=Unknown
+11	extimatores	extimator	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	9	obl	9:obl	Gloss=Unknown
+12	eidem	idem	DET	p-s---md-	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	13	det	13:det	Gloss=the same
+13	johanneti	johanneti	PROPN	n--------	_	9	obl	9:obl	Gloss=Unknown
+14	presenti	presens	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	13	nmod	13:nmod	Gloss=Unknown
+15	ut	ut	CCONJ	c--------	_	17	cc	17:cc	Gloss=in order that
+16	supra	supra	ADV	d--------	Degree=Pos	17	advmod	17:advmod	Gloss=above
+17	stipulanti	toppulo	NOUN	n-s---md-	Case=Gen|Gender=Masc|Number=Sing	14	conj	14:conj	Gloss=Unknown
+18	et	et	CCONJ	c--------	_	19	cc	19:cc	Gloss=and
+19	recipienti	recipere	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing|VerbForm=Part	14	conj	14:conj	Gloss=to acquire
+20	in	in	ADP	r--------	AdpType=Prep	23	case	23:case	Gloss=in
+21	et	et	CCONJ	c--------	_	22	cc	22:cc	Gloss=and
+22	pro	pro	ADP	r--------	AdpType=Prep	20	conj	20:conj	Gloss=for
+23	complemento	complementum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	24	nmod	24:nmod	Gloss=Unknown
+24	sortis	sors	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	9	obl	9:obl	Gloss=Unknown
+25	predicto	praedictus	ADJ	a--------	_	26	amod	26:amod	Gloss=the said
+26	precio	pretium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	24	acl	24:acl	Gloss=price
+27	ii	duo	NUM	m--------	NumForm=Digit	28	nummod	28:nummod	Gloss=Unknown
+28	florenorum	florenus	NOUN	n-p---ng-	Case=Gen|Function=Unit|Gender=Neut|Number=Plur	26	acl	26:acl	Gloss=florin
+29	vi	sex	NUM	m-s---mn-	Case=Nom|Number=Sing	30	nummod	30:nummod	Gloss=Unknown
+30	grossorum	grossus	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	28	conj	28:conj	Gloss=coarse|SpaceAfter=No
+31	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 5E0AAC4C-1CA3-4860-BB95-55ACB1473501
+# text = Item unam oleriam terre.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	oleriam	oleria	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	0	root	0:root	Gloss=oil jar
+4	terre	terra	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	nmod	3:nmod	Gloss=earthenware|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 6032CD65-DEF9-4EFB-833D-70216B541A2F
+# text = Item una discarcatoria parva.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	discarcatoria	descargadoyra	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Gloss=vat
+4	parva	parvus	ADJ	a-p---nnp	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	3	amod	3:amod	Gloss=small|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 6431CA51-55D4-4160-BEDD-92494CAE23F7
+# text = Item unum lentiamen trium telarum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	lentiamen	linteamen	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	0	root	0:root	Gloss=sheet
+4	trium	tres	NUM	m-p---ng-	Case=Gen|Gender=Neut|Number=Plur|NumType=Card	5	nummod	5:nummod	Gloss=three
+5	telarum	tela	NOUN	n-p---fg-	Case=Gen|Gender=Fem|Number=Plur	3	acl	3:acl	Gloss=panel|SpaceAfter=No
+6	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 648E4795-4455-4C5D-A9CA-CF8B93E35EF7
+# text = Item i bancum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	bancum	bancus	NOUN	n--------	_	0	root	0:root	Gloss=bench|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 662FDE55-79AD-408B-A343-E1EBF545573C
+# text = Item unum pont.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	pont	pont	NOUN	n--------	Number=Sing	0	root	0:root	Gloss=bridge|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 6654A2C0-1BDF-45AC-BC59-F286FAA8726D
+# text = Item undecim mapas novas florenorum ii.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	undecim	undecim	NUM	m--------	NumType=Card	3	nummod	3:nummod	Gloss=eleven
+3	mapas	mappa	NOUN	n--------	Case=Loc|Number=Sing	0	root	0:root	Gloss=tablecloth
+4	novas	novus	ADJ	a-p---fap	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	3	amod	3:amod	Gloss=new
+5	florenorum	florenus	NOUN	n-p---ng-	Case=Gen|Function=Unit|Gender=Neut|Number=Plur	3	acl	3:acl	Gloss=florin
+6	ii	duo	NUM	m--------	NumForm=Digit	5	nummod	5:nummod	Gloss=Unknown|SpaceAfter=No
+7	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 66F77C86-0B8B-4DEF-BF23-F06FC139AF89
+# text = Item unam sargam rubeam florenorum iii.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	sargam	sargia	NOUN	n--------	_	0	root	0:root	Gloss=serge
+4	rubeam	rubeus	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	nmod	3:nmod	Gloss=ruby red
+5	florenorum	florenus	NOUN	n-p---ng-	Case=Gen|Function=Unit|Gender=Neut|Number=Plur	3	acl	3:acl	Gloss=florin
+6	iii	tres	NUM	m--------	NumForm=Digit	5	nummod	5:nummod	Gloss=Unknown|SpaceAfter=No
+7	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 6715C968-CC33-4A13-878B-48B4392B4B41
+# text = Item duo parva crucibola.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	Gloss=next
+2	duo	duo	NUM	m-p---nn-	Case=Nom|Gender=Neut|Number=Plur	4	nummod	4:nummod	Gloss=two
+3	parva	parvus	ADJ	a-p---nnp	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	4	amod	4:amod	Gloss=small
+4	crucibola	crucibolum	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	Gloss=oil lamp|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = 672EE381-469E-4AEA-9C8C-82EACC603D99
+# text = Item unum par stivalium.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	Gloss=next
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	4	nummod	4:nummod	Gloss=one
+3	par	par	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	2	flat	2:flat	Gloss=pair
+4	stivalium	stivale	NOUN	n--------	_	0	root	0:root	Gloss=boot|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = 71218D30-D301-4CB1-B4D0-291A1673EFBE
+# text = Item aliam bredolam parvam.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	aliam	alius	DET	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	3	det	3:det	Gloss=other
+3	bredolam	bredola	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	0	root	0:root	Gloss=bench-step
+4	parvam	parvus	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	3:amod	Gloss=small|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 74585963-F50C-47C5-ADB3-38E79930FF02
+# text = Item una cadeneta argenti cum ymagine Beate Magdales.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	cadeneta	cadeneta	NOUN	n--------	_	0	root	0:root	Gloss=Unknown
+4	argenti	argentum	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	3	nmod	3:nmod	Gloss=silver
+5	cum	cum	SCONJ	c--------	_	6	mark	6:mark	Gloss=with
+6	ymagine	imago	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	3	acl	3:acl	Gloss=image
+7	Beate	Beate	PROPN	n--------	Case=Loc|Number=Sing	6	nmod	6:nmod	Gloss=Unknown
+8	Magdales	Magdales	PROPN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	7	flat	7:flat	Gloss=Unknown|SpaceAfter=No
+9	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 79C1FEE6-4D23-40D4-B372-F2250941EE09
+# text = Eosdem antonium et guilhelmum fratres presentes et audientes cum quanta qua potuit instancia requisivit quare velint et debeant prout tenentur eidem Hugoye dare tradere et restituere bona sua mobilia seu domus utensilia que dicta Hugoya tempore contracti matrimonii inter eam et dictum condam Hugonem ad domum dicti condam hugonis eius viri portavit et in eadem domo posuit et nunc sunt ut credit que bona et res inferius sunt particulariter descripta sequntur bona et res petitas.
+1	Eosdem	idem	DET	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur|PronType=Dem	2	det	2:det	Gloss=the same
+2	antonium	antonius	PROPN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	14	nsubj	14:nsubj	Gloss=Unknown
+3	et	et	CCONJ	c--------	_	4	cc	4:cc	Gloss=and
+4	guilhelmum	guilhelmum	PROPN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	2	conj	2:conj	Gloss=Unknown
+5	fratres	frater	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	2	appos	2:appos	Gloss=Unknown
+6	presentes	presum	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part	2	acl	2:acl	Gloss=Unknown
+7	et	et	CCONJ	c--------	_	8	cc	8:cc	Gloss=and
+8	audientes	audientes	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part	6	conj	6:conj	Gloss=Unknown
+9	cum	cum	SCONJ	c--------	_	12	mark	12:mark	Gloss=with
+10	quanta	quantus	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	13	nmod	13:nmod	Gloss=Unknown
+11	qua	qui	DET	p--------	_	12	det	12:det	Gloss=which
+12	potuit	possum	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|VerbType=Mod|Voice=Act	14	advcl	14:advcl	Gloss=Unknown
+13	instancia	instanc	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	12	obl	12:obl	Gloss=Unknown
+14	requisivit	requiro	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=Unknown
+15	quare	quare	ADP	r--------	_	16	case	16:case	Gloss=Unknown
+16	velint	velint	VERB	v3ppsa---	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act	14	parataxis	14:parataxis	Gloss=Unknown
+17	et	et	CCONJ	c--------	_	18	cc	18:cc	Gloss=and
+18	debeant	debere	VERB	v3ppsa---	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act	16	conj	16:conj	Gloss=to owe
+19	prout	prout	SCONJ	c--------	_	20	mark	20:mark	Gloss=as
+20	tenentur	tenere	VERB	v3ppip---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	18	conj	18:conj	Gloss=to hold
+21	eidem	idem	DET	p-s---md-	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	22	det	22:det	Gloss=the same
+22	Hugoye	Hugoye	PROPN	n--------	_	16	obl	16:obl	Gloss=Unknown
+23	dare	dare	VERB	v--pna---	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	16	xcomp	16:xcomp	Gloss=to give
+24	tradere	trado	VERB	v--pna---	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	23	conj	23:conj	Gloss=Unknown
+25	et	et	CCONJ	c--------	_	26	cc	26:cc	Gloss=and
+26	restituere	restituere	VERB	v--pna---	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	23	conj	23:conj	Gloss=restitute
+27	bona	bona	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	23	obj	23:obj	Gloss=goods
+28	sua	suus	DET	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	27	det	27:det	Gloss=his, hers
+29	mobilia	mobilis	ADJ	a-p---nnp	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	27	amod	27:amod	Gloss=movable
+30	seu	seu	CCONJ	c--------	_	32	cc	32:cc	Gloss=or
+31	domus	domus	NOUN	n-s---fn-	Case=Nom|Function=Location|Gender=Fem|Number=Sing	32	nmod	32:nmod	Gloss=house
+32	utensilia	utensilium	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	27	conj	27:conj	Gloss=Unknown
+33	que	qui	CCONJ	c--------	_	35	cc	35:cc	Gloss=which
+34	dicta	dictus	ADJ	a--------	_	35	amod	35:amod	Gloss=the said
+35	Hugoya	Hugoya	PROPN	n--------	_	52	nsubj	52:nsubj	Gloss=Unknown
+36	tempore	tempore	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	52	obl	52:obl	Gloss=Unknown
+37	contracti	contraho	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part	36	acl	36:acl	Gloss=Unknown
+38	matrimonii	matrimonium	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	37	nmod	37:nmod	Gloss=Unknown
+39	inter	inter	ADP	r--------	AdpType=Prep	40	case	40:case	Gloss=between
+40	eam	is	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	37	nmod	37:nmod	Gloss=it
+41	et	et	CCONJ	c--------	_	44	cc	44:cc	Gloss=and
+42	dictum	dictus	ADJ	a--------	_	44	amod	44:amod	Gloss=the said
+43	condam	condam	ADJ	a--------	_	44	amod	44:amod	Gloss=the late
+44	Hugonem	Hugo	PROPN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	40	conj	40:conj	Gloss=Unknown
+45	ad	ad	ADP	r--------	AdpType=Prep	46	case	46:case	Gloss=to
+46	domum	domus	NOUN	n-s---fa-	Case=Acc|Function=Location|Gender=Fem|Number=Sing	52	obl	52:obl	Gloss=house
+47	dicti	dico	ADJ	a--------	_	49	amod	49:amod	Gloss=Unknown
+48	condam	condam	ADJ	a--------	_	49	amod	49:amod	Gloss=the late
+49	hugonis	hugo	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	46	acl	46:acl	Gloss=Unknown
+50	eius	is	DET	p-s---mg-	Case=Gen|Gender=Masc|Number=Sing|Person=3	51	det	51:det	Gloss=it
+51	viri	viri	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	49	appos	49:appos	Gloss=Unknown
+52	portavit	porto	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	27	acl	27:acl	Gloss=Unknown
+53	et	et	CCONJ	c--------	_	57	cc	57:cc	Gloss=and
+54	in	in	ADP	r--------	AdpType=Prep	56	case	56:case	Gloss=in
+55	eadem	idem	DET	p-s---fb-	Case=Abl|Gender=Fem|Number=Sing|PronType=Dem	56	det	56:det	Gloss=the same
+56	domo	domus	NOUN	n-s---fb-	Case=Abl|Function=Location|Gender=Fem|Number=Sing	57	obl	57:obl	Gloss=house
+57	posuit	ponere	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	52	conj	52:conj	Gloss=to place
+58	et	et	CCONJ	c--------	_	62	cc	62:cc	Gloss=and
+59	nunc	nunc	ADP	r--------	_	62	case	62:case	Gloss=now
+60	sunt	sum	AUX	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	62	aux	62:aux	Gloss=to be
+61	ut	ut	ADV	d--------	PronType=Rel	62	advmod	62:advmod	Gloss=in order that
+62	credit	credo	VERB	v3spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	acl	27:acl	Gloss=Unknown
+63	que	qui	CCONJ	c--------	_	64	cc	64:cc	Gloss=which
+64	bona	bona	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	70	nsubj	70:nsubj	Gloss=goods
+65	et	et	CCONJ	c--------	_	66	cc	66:cc	Gloss=and
+66	res	res	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	64	conj	64:conj	Gloss=thing
+67	inferius	inferius	ADJ	a-s---nnc	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing	66	amod	66:amod	Gloss=lower
+68	sunt	sum	AUX	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	70	aux	70:aux	Gloss=to be
+69	particulariter	particulariter	ADV	d--------	Degree=Pos	70	advmod	70:advmod	Gloss=Unknown
+70	descripta	describere	VERB	v-prppnn-	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	62	ccomp	62:ccomp	Gloss=depicted
+71	sequntur	sequor	VERB	v3ppip---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	14	parataxis	14:parataxis	Gloss=to follow
+72	bona	bona	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	71	nsubj	71:nsubj	Gloss=goods
+73	et	et	CCONJ	c--------	_	74	cc	74:cc	Gloss=and
+74	res	res	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	72	conj	72:conj	Gloss=thing
+75	petitas	peto	VERB	v-prppfa-	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	74	acl	74:acl	Gloss=Unknown|SpaceAfter=No
+76	.	.	PUNCT	u--------	_	14	punct	14:punct	Gloss=full_stop
+
+# sent_id = 7C59785A-82C3-46A1-B629-E5B1201FDE58
+# text = Item i crocum baliste.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	4	nummod	4:nummod	Gloss=Unknown
+3	crocum	crocus	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	4	amod	4:amod	Gloss=crook
+4	baliste	balista	NOUN	n--------	_	0	root	0:root	Gloss=crossbow|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = 7C64764D-0A44-4B28-9542-F162D572DA69
+# text = Item i deffectu bonorum mobilium quandam bastitam cum toto suo affari scitam in territorio dicte civitatis loco dicto calfona precio videlicet et nomine precii centum et viginti quinque florenorum auri de Rege.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	Gloss=next
+2	i	unus	NUM	m--------	NumForm=Digit	4	nummod	4:nummod	Gloss=one
+3	deffectu	defficio	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	4	nmod	4:nmod	Gloss=Unknown
+4	bonorum	bona	NOUN	n-p---ng-	Case=Gen|Gender=Neut|Number=Plur	0	root	0:root	Gloss=goods
+5	mobilium	mobilis	ADJ	a-p---ngp	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	4	amod	4:amod	Gloss=movable
+6	quandam	quidam	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	7	det	7:det	Gloss=a certain
+7	bastitam	bastida	NOUN	n-s---fa-	Case=Acc|Function=Location|Gender=Fem|Number=Sing	12	nsubj	12:nsubj	Gloss=fortified settlement
+8	cum	cum	SCONJ	c--------	_	11	mark	11:mark	Gloss=with
+9	toto	totus	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	11	nmod	11:nmod	Gloss=all
+10	suo	suus	DET	p-s---nb-	Case=Abl|Gender=Neut|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	11	det	11:det	Gloss=his, hers
+11	affari	affare	NOUN	n--------	_	7	acl	7:acl	Gloss=farm
+12	scitam	scitus	VERB	v-srppfa-	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	4:acl	Gloss=located
+13	in	in	ADP	r--------	AdpType=Prep	14	case	14:case	Gloss=in
+14	territorio	territorium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	12	obl	12:obl	Gloss=territory
+15	dicte	dictus	ADJ	a--------	_	16	amod	16:amod	Gloss=the said
+16	civitatis	civitas	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	14	acl	14:acl	Gloss=city
+17	loco	locus	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	14	acl	14:acl	Gloss=place
+18	dicto	dictus	ADJ	a--------	_	19	amod	19:amod	Gloss=the said
+19	calfona	calfo	PROPN	n-s------	Number=Sing	17	acl	17:acl	Gloss=Unknown
+20	precio	pretium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	4	acl	4:acl	Gloss=price
+21	videlicet	videlicet	ADV	d--------	_	24	advmod	24:advmod	Gloss=namely
+22	et	et	CCONJ	c--------	_	24	cc	24:cc	Gloss=and
+23	nomine	nomen	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	24	nmod	24:nmod	Gloss=name
+24	precii	pretium	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	20	conj	20:conj	Gloss=price
+25	centum	centum	NUM	m--------	NumType=Card	29	nummod	29:nummod	Gloss=one hundred
+26	et	et	CCONJ	c--------	_	27	cc	27:cc	Gloss=and
+27	viginti	viginti	NUM	m--------	NumType=Card	25	conj	25:conj	Gloss=twenty
+28	quinque	quinque	NUM	m--------	NumType=Card	27	flat	27:flat	Gloss=five
+29	florenorum	florenus	NOUN	n-p---ng-	Case=Gen|Function=Unit|Gender=Neut|Number=Plur	24	acl	24:acl	Gloss=florin
+30	auri	aurum	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	29	nmod	29:nmod	Gloss=gold
+31	de	de	ADP	r--------	AdpType=Prep	32	case	32:case	Gloss=of
+32	Rege	Rex	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	29	nmod	29:nmod	Gloss=king|SpaceAfter=No
+33	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = 7D3B9593-B13D-457C-A20D-78AC07FEBC4B
+# text = Item una cassia cupri.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	cassia	capcia	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Gloss=chest
+4	cupri	cuprum	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	3	nmod	3:nmod	Gloss=copper|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 7D5F087E-9324-4368-A17E-B3366CA99FDA
+# text = Item unum vesibulum ferri.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	vesibulum	vesibol	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	Gloss=billhook
+4	ferri	ferrum	NOUN	n--------	_	3	nmod	3:nmod	Gloss=iron|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 7E554B0F-65E8-4479-ACFF-F71267FF7640
+# text = Item i parva fronteria perllarum que est in pignore penes dictum Jussonum.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	4	nummod	4:nummod	Gloss=Unknown
+3	parva	parvus	ADJ	a-p---nnp	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	4	amod	4:amod	Gloss=small
+4	fronteria	fronteria	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	0	root	0:root	Gloss=headband
+5	perllarum	perla	ADJ	a-p---fg-	Case=Gen|Gender=Fem|Number=Plur	4	amod	4:amod	Gloss=pearl
+6	que	qui	CCONJ	c--------	_	9	cc	9:cc	Gloss=which
+7	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	9:cop	Gloss=to be
+8	in	in	ADP	r--------	AdpType=Prep	9	case	9:case	Gloss=in
+9	pignore	pignus	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	4	acl	4:acl	Gloss=a pledge
+10	penes	penes	ADP	r--------	_	12	case	12:case	Gloss=in the possession of
+11	dictum	dictus	ADJ	a--------	_	12	amod	12:amod	Gloss=the said
+12	Jussonum	Jussonum	PROPN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	9	obl	9:obl	Gloss=Unknown|SpaceAfter=No
+13	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = 7E6B11BA-DB18-4FD1-AEB1-B41A3F1589BD
+# text = Item tres magnas serras dictas vulgariter de doas mans.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	Gloss=next
+2	tres	tres	NUM	m-p---mn-	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	4	nummod	4:nummod	Gloss=three
+3	magnas	magnus	ADJ	a-p---fap	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	4	amod	4:amod	Gloss=large
+4	serras	serra	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	0	root	0:root	Gloss=saw
+5	dictas	dictus	VERB	v-prppfa-	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	9	acl	9:acl	Gloss=the said
+6	vulgariter	vulgariter	ADV	d--------	Degree=Pos	5	obl	5:obl	Gloss=commonly
+7	de	de	ADP	r--------	AdpType=Prep	9	case	9:case	Gloss=of
+8	doas	doas	NUM	m--------	_	9	nummod	9:nummod	Gloss=two
+9	mans	man	NOUN	n--------	Number=Sing	4	acl	4:acl	Gloss=hand|SpaceAfter=No
+10	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = 7F8DF7B1-A9D6-4CA6-9518-23E38504CA86
+# text = Primo i putatoyram.
+1	Primo	primo	ADV	d--------	_	3	advmod	3:advmod	Gloss=first
+2	i	a	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	putatoyram	putatoyra	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	0	root	0:root	Gloss=sickle|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 80262BE7-A5E3-4C5E-AA7E-B477A18F5AAD
+# text = Item una bassachia lane.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	bassachia	bassacha	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Gloss=straw mattress
+4	lane	lana	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	nmod	3:nmod	Gloss=wool|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 81D45E43-6FD1-4F91-9BA2-EA793277EBAB
+# text = Item iiii clipeos.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	iiii	quadraginta	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	clipeos	clipeus	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	Gloss=round shield|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 81F8D0AA-8F01-4DAF-BF4A-3BD406A0972F
+# text = Item unum parvum tripedem.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	Gloss=next
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	4	nummod	4:nummod	Gloss=one
+3	parvum	parvus	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	4:amod	Gloss=small
+4	tripedem	tripes	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	0	root	0:root	Gloss=tripod|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = 82F1C22A-3E48-456E-9202-DDAE272E3239
+# text = Item ii cohieras.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	ii	duo	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	cohieras	codio	NOUN	n-p---fa-	Case=Gen|Gender=Masc|Number=Sing	0	root	0:root	Gloss=Unknown|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 83303DE6-9960-429D-8BC3-F4189D3BB0B2
+# text = Item i enbutum cupri.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	enbutum	embutum	NOUN	n--------	_	0	root	0:root	Gloss=funnel
+4	cupri	cuprum	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	3	nmod	3:nmod	Gloss=copper|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 833AE932-7000-49BE-8AB6-ED2416651E38
+# text = Item una miysseraba stagni.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	miysseraba	misseraba	NOUN	n--------	_	0	root	0:root	Gloss=cruet
+4	stagni	stagnum	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	3	nmod	3:nmod	Gloss=tin|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 84BCC817-F83C-4465-B6D0-7D103CC207BB
+# text = Una colca fustea munita bassachia matalacio et traverserio.
+1	Una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|Number=Sing	2	nummod	2:nummod	Gloss=one
+2	colca	colca	NOUN	n--------	_	0	root	0:root	Gloss=bed
+3	fustea	fusteus	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	2	nmod	2:nmod	Gloss=wooden
+4	munita	munire	VERB	v-srppfn-	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	acl	2:acl	Gloss=furnished
+5	bassachia	bassacha	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	4	obj	4:obj	Gloss=straw mattress
+6	matalacio	matalacium	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	5	nmod	5:nmod	Gloss=mattress
+7	et	et	CCONJ	c--------	_	8	cc	8:cc	Gloss=and
+8	traverserio	traverserium	NOUN	n-----m--	Case=Loc|Number=Sing	5	conj	5:conj	Gloss=bolster|SpaceAfter=No
+9	.	.	PUNCT	u--------	_	2	punct	2:punct	Gloss=full_stop
+
+# sent_id = 8604C229-28E0-4BE5-A897-DA02FDB7216B
+# text = Item unum scossorum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	scossorum	escosson	NOUN	n-p---ng-	Case=Gen|Gender=Masc|Number=Plur	0	root	0:root	Gloss=flail|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 8684E0C1-268B-4C5B-A810-9CB4B15518F9
+# text = Item unam magnam capciam cum clave et sera infra quam dixit se reperisse.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	Gloss=next
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|Number=Sing	4	nummod	4:nummod	Gloss=one
+3	magnam	magnus	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	4:amod	Gloss=large
+4	capciam	capcia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	0	root	0:root	Gloss=chest
+5	cum	cum	SCONJ	c--------	_	6	mark	6:mark	Gloss=with
+6	clave	clavis	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	4	acl	4:acl	Gloss=key
+7	et	et	CCONJ	c--------	_	8	cc	8:cc	Gloss=and
+8	sera	sera	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	6	conj	6:conj	Gloss=lock
+9	infra	infra	ADP	r--------	_	10	case	10:case	Gloss=below
+10	quam	qui	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	11	obl	11:obl	Gloss=which
+11	dixit	dicere	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	acl	6:acl	Gloss=to say
+12	se	se	PRON	p-s---na-	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs|Reflex=Yes	13	obj	13:obj	Gloss=himself or herself
+13	reperisse	reperire	VERB	v--rna---	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	11	xcomp	11:xcomp	Gloss=to find|SpaceAfter=No
+14	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = 8906E2FA-C443-45C7-8473-134DCFC1EB1F
+# text = In focanea.
+1	In	in	ADP	r--------	AdpType=Prep	2	case	2:case	Gloss=in
+2	focanea	focanea	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Gloss=kitchen|SpaceAfter=No
+3	.	.	PUNCT	u--------	_	2	punct	2:punct	Gloss=full_stop
+
+# sent_id = 8ACB3486-9EA3-490D-9CDD-EA1636F94FC0
+# text = Item i virga auri esmalhada.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	virga	virga	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Gloss=ring
+4	auri	aurum	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	3	nmod	3:nmod	Gloss=gold
+5	esmalhada	esmailhat	ADJ	a--------	_	3	amod	3:amod	Gloss=enameled|SpaceAfter=No
+6	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 8B14268C-D48C-40E8-BE03-2550F9B73766
+# text = Item unam parvam cella perforatam.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	Gloss=next
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|Number=Sing	4	nummod	4:nummod	Gloss=one
+3	parvam	parvus	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	4:amod	Gloss=small
+4	cella	sella	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Gloss=seat
+5	perforatam	perforare	ADJ	a--------	_	4	amod	4:amod	Gloss=pierced|SpaceAfter=No
+6	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = 8C3079FB-FF50-46D5-9983-FB3C72F22239
+# text = Item in aula ipsius domus.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	in	in	ADP	r--------	AdpType=Prep	3	case	3:case	Gloss=in
+3	aula	aula	NOUN	n-s---fn-	Case=Nom|Function=Location|Gender=Fem|Number=Sing	0	root	0:root	Gloss=hall
+4	ipsius	ipse	DET	p-s---fg-	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	5	det	5:det	Gloss=self
+5	domus	domus	NOUN	n-s---fn-	Case=Nom|Function=Location|Gender=Fem|Number=Sing	3	nmod	3:nmod	Gloss=house|SpaceAfter=No
+6	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 8D7A9DCA-75D2-4145-A2B1-FC3F6734C448
+# text = Item in quadam camera.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	Gloss=next
+2	in	in	ADP	r--------	AdpType=Prep	4	case	4:case	Gloss=in
+3	quadam	quidam	DET	p-s---fb-	Case=Abl|Gender=Fem|Number=Sing	4	det	4:det	Gloss=a certain
+4	camera	camera	NOUN	n-s---fn-	Case=Nom|Function=Location|Gender=Fem|Number=Sing	0	root	0:root	Gloss=room|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = 8E138CD1-B097-4B52-9F31-6E1743A69CD0
+# text = Item xii cofinorum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	xii	duodecim	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	cofinorum	coffinus	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	0	root	0:root	Gloss=carrycot|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 8FC68375-9201-4EBF-9891-B5CE8322ABEB
+# text = Item unam zonam argenti domine esmaltatam ponderis decemocto unciarum florenorum xx.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	zonam	zona	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	0	root	0:root	Gloss=belt
+4	argenti	argentum	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	3	nmod	3:nmod	Gloss=silver
+5	domine	domina	NOUN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	3	nmod	3:nmod	Gloss=mistress
+6	esmaltatam	esmailhat	ADJ	a--------	_	3	amod	3:amod	Gloss=enameled
+7	ponderis	pondus	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	3	acl	3:acl	Gloss=weight
+8	decemocto	duodeviginti	NUM	m-s---mb-	Case=Abl|Gender=Masc|Number=Sing	9	nummod	9:nummod	Gloss=eighteen
+9	unciarum	uncia	NOUN	n-p---fg-	Case=Gen|Gender=Fem|Number=Plur	7	acl	7:acl	Gloss=ounce
+10	florenorum	florenus	NOUN	n-p---ng-	Case=Gen|Function=Unit|Gender=Neut|Number=Plur	3	acl	3:acl	Gloss=florin
+11	xx	xx	NUM	m--------	NumForm=Digit	10	nummod	10:nummod	Gloss=Unknown|SpaceAfter=No
+12	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 913DC033-1DAF-4BC0-981F-14DE5A98DE74
+# text = Item iii carratelli parvi.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	iii	tres	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	carratelli	caratellus	NOUN	n-s---mg-	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	Gloss=cask
+4	parvi	parvus	ADJ	a-s---mnp	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	3:amod	Gloss=Unknown|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 934FBC9B-91EF-41D1-A092-6A8517A78C1D
+# text = Primo dixit se invenisse quoddam hospicium situm in carreria triparie confrontatum ab una latere cum quodam hospicio heredum girardi lurdi et ab alio latere cum hospicio domine margariet de Ansana et a parte bodii cum submissum maiori directo dominio et senhorie curie regie dicte divitatis ad censum seu servicium trium denariorum regalium in festo sancti Thome apostoli annis singulis perpetuo solvendum in quoquidem hospicio dixit reperisse res sequentes primo.
+1	Primo	primo	ADV	d--------	_	2	advmod	2:advmod	Gloss=first
+2	dixit	dicere	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=to say
+3	se	se	PRON	p-s---na-	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs|Reflex=Yes	4	nsubj	4:nsubj	Gloss=himself or herself
+4	invenisse	invenio	VERB	v--rna---	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	2	xcomp	2:xcomp	Gloss=to find
+5	quoddam	quidam	DET	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing	6	det	6:det	Gloss=a certain
+6	hospicium	hospicium	NOUN	n-s---nn-	Case=Nom|Function=Location|Gender=Neut|Number=Sing	4	obj	4:obj	Gloss=house
+7	situm	situs	VERB	v-srppnn-	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	acl	6:acl	Gloss=situated
+8	in	in	ADP	r--------	AdpType=Prep	9	case	9:case	Gloss=in
+9	carreria	carreria	NOUN	n-s---fn-	Case=Nom|Function=Location|Gender=Fem|Number=Sing	7	obl	7:obl	Gloss=street
+10	triparie	triparius	PROPN	n--------	_	9	flat	9:flat	Gloss=Unknown
+11	confrontatum	confrontare	VERB	v-srppnn-	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	acl	6:acl	Gloss=to abut
+12	ab	ab	ADP	r--------	AdpType=Prep	14	case	14:case	Gloss=from
+13	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|Number=Sing	14	nummod	14:nummod	Gloss=one
+14	latere	latus	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	17	acl	17:acl	Gloss=side
+15	cum	cum	ADP	r--------	AdpType=Prep	17	case	17:case	Gloss=with
+16	quodam	quidam	DET	p-s----b-	Case=Abl|Number=Sing	17	det	17:det	Gloss=a certain
+17	hospicio	hospicium	NOUN	n-s---mn-	Case=Nom|Function=Location|Gender=Masc|Number=Sing	11	obj	11:obj	Gloss=house
+18	heredum	heres	NOUN	n-p---ng-	Case=Gen|Gender=Neut|Number=Plur	17	acl	17:acl	Gloss=heir
+19	girardi	girardes	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	18	nmod	18:nmod	Gloss=Unknown
+20	lurdi	lurdi	PROPN	n--------	_	19	flat	19:flat	Gloss=Unknown
+21	et	et	CCONJ	c--------	_	26	cc	26:cc	Gloss=and
+22	ab	ab	ADP	r--------	AdpType=Prep	24	case	24:case	Gloss=from
+23	alio	alius	DET	p-s---ma-	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	24	det	24:det	Gloss=other
+24	latere	latus	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	26	acl	26:acl	Gloss=side
+25	cum	cum	ADP	r--------	AdpType=Prep	26	case	26:case	Gloss=with
+26	hospicio	hospicium	NOUN	n-s---mn-	Case=Nom|Function=Location|Gender=Masc|Number=Sing	17	conj	17:conj	Gloss=house
+27	domine	domina	NOUN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	26	acl	26:acl	Gloss=mistress
+28	margariet	margo	PROPN	n-s------	Number=Sing	27	flat	27:flat	Gloss=Unknown
+29	de	de	ADP	r--------	AdpType=Prep	27	flat	27:flat	Gloss=of
+30	Ansana	Ansanus	PROPN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	27	flat	27:flat	Gloss=Unknown
+31	et	et	CCONJ	c--------	_	39	cc	39:cc	Gloss=and
+32	a	ab	ADP	r--------	AdpType=Prep	33	case	33:case	Gloss=from
+33	parte	pars	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	34	nmod	34:nmod	Gloss=part
+34	bodii	boda	NOUN	n-----m--	Case=Nom|Gender=Masc|Number=Sing	39	acl	39:acl	Gloss=Unknown
+35	cum	cum	ADP	r--------	AdpType=Prep	39	case	39:case	Gloss=with
+36	submissum	submissus	VERB	v-srppna-	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	39	acl	39:acl	Gloss=dependent on
+37	maiori	maior	ADJ	a-s---mdc	Case=Dat|Degree=Cmp|Gender=Masc|Number=Sing	39	amod	39:amod	Gloss=larger
+38	directo	dirigo	ADJ	a-s---nb-	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part	39	amod	39:amod	Gloss=Unknown
+39	dominio	dominium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	17	conj	17:conj	Gloss=lordship
+40	et	et	CCONJ	c--------	_	41	cc	41:cc	Gloss=and
+41	senhorie	senho	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	39	conj	39:conj	Gloss=Unknown
+42	curie	curis	NOUN	n-s---md-	Case=Nom|Gender=Masc|Number=Sing	39	acl	39:acl	Gloss=Unknown
+43	regie	regia	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	42	amod	42:amod	Gloss=palace
+44	dicte	dictus	ADJ	a--------	_	45	amod	45:amod	Gloss=the said
+45	divitatis	divitatis	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	42	acl	42:acl	Gloss=Unknown
+46	ad	ad	ADP	r--------	AdpType=Prep	47	case	47:case	Gloss=to
+47	censum	census	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	6	acl	6:acl	Gloss=rent
+48	seu	seu	CCONJ	c--------	_	49	cc	49:cc	Gloss=or
+49	servicium	servicius	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	47	conj	47:conj	Gloss=Unknown
+50	trium	tres	NUM	m-p---ng-	Case=Gen|Gender=Neut|Number=Plur|NumType=Card	51	nummod	51:nummod	Gloss=three
+51	denariorum	denarius	NOUN	n-p---ng-	Case=Gen|Function=Unit|Gender=Neut|Number=Plur	47	acl	47:acl	Gloss=penny
+52	regalium	regalis	ADJ	a-p---ngp	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	51	amod	51:amod	Gloss=royal
+53	in	in	ADP	r--------	AdpType=Prep	54	case	54:case	Gloss=in
+54	festo	festum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	61	obl	61:obl	Gloss=festival
+55	sancti	sanctus	PROPN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	54	nmod	54:nmod	Gloss=Unknown
+56	Thome	Thom	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	55	flat	55:flat	Gloss=Unknown
+57	apostoli	apostolus	PROPN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	55	flat	55:flat	Gloss=apostle
+58	annis	annus	NOUN	n-p---md-	Case=Dat|Gender=Masc|Number=Plur	61	obl	61:obl	Gloss=year
+59	singulis	singuli	ADJ	a-p---mdp	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	58	amod	58:amod	Gloss=one each
+60	perpetuo	perpetuo	ADV	d--------	Degree=Pos	61	advmod	61:advmod	Gloss=Unknown
+61	solvendum	solvere	VERB	v-s-gpnn-	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Gdv|Voice=Pass	51	acl	51:acl	Gloss=to pay
+62	in	in	ADP	r--------	AdpType=Prep	64	case	64:case	Gloss=in
+63	quoquidem	quisquidem	PRON	p-s---nb-	Case=Abl|Gender=Neut|Number=Sing|PronType=Ind	64	det	64:det	Gloss=any sort at all
+64	hospicio	hospicium	NOUN	n-s---mn-	Case=Nom|Function=Location|Gender=Masc|Number=Sing	2	parataxis	2:parataxis	Gloss=house
+65	dixit	dicere	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	64	acl	64:acl	Gloss=to say
+66	reperisse	reperire	VERB	v--rna---	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	65	xcomp	65:xcomp	Gloss=to find
+67	res	res	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	66	obj	66:obj	Gloss=thing
+68	sequentes	sequor	DET	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur|PronType=Ind	67	det	67:det	Gloss=to follow
+69	primo	primo	ADV	d--------	_	66	advmod	66:advmod	Gloss=first|SpaceAfter=No
+70	.	.	PUNCT	u--------	_	2	punct	2:punct	Gloss=full_stop
+
+# sent_id = 936C27B3-D250-43D3-A7EE-43B56DDFBC69
+# text = Item duo parva lintiamina.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	Gloss=next
+2	duo	duo	NUM	m-p---nn-	Case=Nom|Gender=Neut|Number=Plur	4	nummod	4:nummod	Gloss=two
+3	parva	parvus	ADJ	a-p---nnp	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	4	amod	4:amod	Gloss=small
+4	lintiamina	linteamen	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Gloss=sheet|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = 946ED006-4A7B-476E-8081-01CED310941D
+# text = Item unum payrolum cupri.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	payrolum	payrola	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	Gloss=cauldron
+4	cupri	cuprum	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	3	nmod	3:nmod	Gloss=copper|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 95AE87DE-E626-4DBD-9DDE-A24F615C9584
+# text = Item quandam ferraginem duarum eminatarum vel circa sitam ad Bedale.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	quandam	quidam	DET	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	det	3:det	Gloss=a certain
+3	ferraginem	ferrago	NOUN	n-s---ma-	Case=Acc|Gender=Fem|Number=Sing	0	root	0:root	Gloss=pasture
+4	duarum	duo	NUM	m-p---fg-	Case=Gen|Gender=Fem|Number=Plur|NumType=Card	5	nummod	5:nummod	Gloss=two
+5	eminatarum	eminor	NOUN	n--------	_	3	acl	3:acl	Gloss=unit of measure for land
+6	vel	vel	CCONJ	c--------	_	7	cc	7:cc	Gloss=or
+7	circa	circa	ADP	r--------	AdpType=Prep	4	conj	4:conj	Gloss=around
+8	sitam	situs	VERB	v-srppfa-	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	3:acl	Gloss=situated
+9	ad	ad	ADP	r--------	AdpType=Prep	10	case	10:case	Gloss=to
+10	Bedale	Bedalis	PROPN	n--------	_	8	obl	8:obl	Gloss=Unknown|SpaceAfter=No
+11	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 9638B731-9971-42C9-8020-F5DF8E08A5C8
+# text = Item i bouges.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	bouges	bougia	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Gloss=candle|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 973BC503-6363-4A15-9C45-B02B08953A7D
+# text = Item una Pala de ferro.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	Pala	Pala	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Gloss=spade
+4	de	de	ADP	r--------	AdpType=Prep	5	case	5:case	Gloss=of
+5	ferro	ferrum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	3	nmod	3:nmod	Gloss=iron|SpaceAfter=No
+6	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 976F812C-D133-444E-854C-A89ACA819C32
+# text = Item unam caxiam plenam veratonum pauci valoris.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	caxiam	capcia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	0	root	0:root	Gloss=chest
+4	plenam	plenus	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	3	acl	3:acl	Gloss=full
+5	veratonum	viratonus	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	4	obl	4:obl	Gloss=quarrel
+6	pauci	paucus	ADJ	a-p---mnp	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	7	amod	7:amod	Gloss=few
+7	valoris	valor	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	3	acl	3:acl	Gloss=value|SpaceAfter=No
+8	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 977DB969-5FAB-410F-939E-2AE6D11F9FCC
+# text = Item quaedam vinea scita ad moldendinum crote territorii civitatis Massilie.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	quaedam	quidam	DET	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	3	det	3:det	Gloss=a certain
+3	vinea	vinea	NOUN	n-s---fn-	Case=Nom|Function=Location|Gender=Fem|Number=Sing	0	root	0:root	Gloss=vine
+4	scita	scitus	VERB	v-srppfb-	Aspect=Perf|Case=Abl|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	3:acl	Gloss=located
+5	ad	ad	ADP	r--------	AdpType=Prep	6	case	6:case	Gloss=to
+6	moldendinum	moldendo	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Gdv	4	obl	4:obl	Gloss=Unknown
+7	crote	crote	PROPN	n--------	_	6	flat	6:flat	Gloss=Unknown
+8	territorii	territorium	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	6	appos	6:appos	Gloss=territory
+9	civitatis	civitas	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	8	acl	8:acl	Gloss=city
+10	Massilie	Massilie	PROPN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	9	flat	9:flat	Gloss=Unknown|SpaceAfter=No
+11	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 985AE68A-A742-4363-8561-21A78893C06D
+# text = Item viginti lintiamina xiii trium telarum et octo duarum telarum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	viginti	viginti	NUM	m--------	NumType=Card	3	nummod	3:nummod	Gloss=twenty
+3	lintiamina	linteamen	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Gloss=sheet
+4	xiii	duodecim	NUM	m-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	acl	3:acl	Gloss=twelve
+5	trium	tres	NUM	m-p---ng-	Case=Gen|Gender=Neut|Number=Plur|NumType=Card	6	nummod	6:nummod	Gloss=three
+6	telarum	tela	NOUN	n-p---fg-	Case=Gen|Gender=Fem|Number=Plur	4	acl	4:acl	Gloss=panel
+7	et	et	CCONJ	c--------	_	8	cc	8:cc	Gloss=and
+8	octo	octo	NUM	m--------	NumType=Card	4	conj	4:conj	Gloss=eight
+9	duarum	duo	NUM	m-p---fg-	Case=Gen|Gender=Fem|Number=Plur|NumType=Card	10	nummod	10:nummod	Gloss=two
+10	telarum	tela	NOUN	n-p---fg-	Case=Gen|Gender=Fem|Number=Plur	8	acl	8:acl	Gloss=panel|SpaceAfter=No
+11	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 9CE08B2D-EB3B-4B49-8F99-F6BCF2C81759
+# text = Item iii sellas.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	iii	tres	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	sellas	sella	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	0	root	0:root	Gloss=seat|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 9F59EB2F-7378-4F9A-9C23-951357E8FCBA
+# text = Item unum mantellum de frisia hominis.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	mantellum	mantellum	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	Gloss=cloak
+4	de	de	ADP	r--------	AdpType=Prep	5	case	5:case	Gloss=of
+5	frisia	frisia	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	nmod	3:nmod	Gloss=Unknown
+6	hominis	homo	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	3	nmod	3:nmod	Gloss=man|SpaceAfter=No
+7	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = 9F772CFC-B7E9-4D57-9273-519591E7E115
+# text = Item i tripedem.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	tripedem	tripes	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	0	root	0:root	Gloss=tripod|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = A01A7B3A-7DA4-49F5-BC83-E26BC0E25365
+# text = Item i arquibans in qua sunt viii scutellas et viii sissoria terre.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	arquibans	archibancus	NOUN	n--------	_	0	root	0:root	Gloss=bench-chest
+4	in	in	ADP	r--------	AdpType=Prep	5	case	5:case	Gloss=in
+5	qua	qui	DET	p--------	_	8	obl	8:obl	Gloss=which
+6	sunt	sum	AUX	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	8:cop	Gloss=to be
+7	viii	octo	NUM	m--------	NumForm=Digit	8	nummod	8:nummod	Gloss=Unknown
+8	scutellas	scutella	NOUN	n-p---fa-	Case=Acc|Function=Unit|Gender=Fem|Number=Plur	3	acl	3:acl	Gloss=bowl
+9	et	et	CCONJ	c--------	_	11	cc	11:cc	Gloss=and
+10	viii	octo	NUM	m--------	NumForm=Digit	11	nummod	11:nummod	Gloss=Unknown
+11	sissoria	cissorium	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	8	conj	8:conj	Gloss=trencher
+12	terre	terra	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	11	nmod	11:nmod	Gloss=earthenware|SpaceAfter=No
+13	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = A02CB759-3721-4E23-BF1F-415E3FA6E71C
+# text = Item unum mandilum scacatum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	mandilum	mandillum	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	Gloss=sail
+4	scacatum	scacatus	ADJ	a--------	_	3	amod	3:amod	Gloss=checkered|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = A3ECD9BC-A93D-4FCB-8EFE-11DE960431B3
+# text = Item unam colcam cum bredulis circumcirca.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	colcam	colca	NOUN	n--------	_	0	root	0:root	Gloss=bed
+4	cum	cum	SCONJ	c--------	_	5	mark	5:mark	Gloss=with
+5	bredulis	bredola	NOUN	n-p---mb-	Case=Abl|Gender=Masc|Number=Plur	3	acl	3:acl	Gloss=bench-step
+6	circumcirca	circumcirca	ADJ	a--------	_	5	amod	5:amod	Gloss=Unknown|SpaceAfter=No
+7	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = A4212135-A780-46AC-BABD-3589DAE2601D
+# text = Item duas meysurabis.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	duas	duo	NUM	m-p---fa-	Case=Acc|Gender=Fem|Number=Plur	3	nummod	3:nummod	Gloss=two
+3	meysurabis	misseraba	NOUN	n--------	_	0	root	0:root	Gloss=cruet|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = A4476B12-24FC-4704-95B7-CA3D23517CD7
+# text = Item una toalhola operate de syrico.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	toalhola	tohalhola	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Gloss=tablecloth
+4	operate	operare	ADJ	a--------	_	3	amod	3:amod	Gloss=worked
+5	de	de	ADP	r--------	AdpType=Prep	6	case	6:case	Gloss=of
+6	syrico	sericus	NOUN	n--------	_	3	nmod	3:nmod	Gloss=silk|SpaceAfter=No
+7	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = A58CD5AB-7511-40B4-8F3C-CB74E043D355
+# text = Item unam travellam grossam.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	travellam	travella	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	0	root	0:root	Gloss=awl
+4	grossam	grossus	ADJ	a--------	Function=Unit	3	amod	3:amod	Gloss=coarse|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = A74C0B9B-8D46-4751-B5D0-897EBB901C1C
+# text = In primis unum lectum tabularum.
+1	In	in	ADP	r--------	AdpType=Prep	2	case	2:case	Gloss=in
+2	primis	primus	ADV	d--------	_	4	advmod	4:advmod	Gloss=first
+3	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	4	nummod	4:nummod	Gloss=one
+4	lectum	lectum	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	0	root	0:root	Gloss=bed
+5	tabularum	tabula	NOUN	n-p---fg-	Case=Gen|Gender=Fem|Number=Plur	4	nmod	4:nmod	Gloss=board|SpaceAfter=No
+6	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = AB1C3C45-5F7A-4718-BE8F-C27242594EF5
+# text = Item duas jarras de lhieusieu.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	duas	duo	NUM	m-p---fa-	Case=Acc|Gender=Fem|Number=Plur	3	nummod	3:nummod	Gloss=two
+3	jarras	jarra	NOUN	n-p---fa-	Case=Acc|Function=Unit|Gender=Fem|Number=Plur	0	root	0:root	Gloss=jar
+4	de	de	ADP	r--------	AdpType=Prep	5	case	5:case	Gloss=of
+5	lhieusieu	lhieusieus	NOUN	n-----m--	Case=Nom|Number=Sing	3	nmod	3:nmod	Gloss=Unknown|SpaceAfter=No
+6	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = AB668FA2-EC2B-4602-8B37-4CE2C76EE6E0
+# text = Item duo caquoba.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	duo	duo	NUM	m-p---nn-	Case=Nom|Gender=Neut|Number=Plur	3	nummod	3:nummod	Gloss=two
+3	caquoba	cacobus	NOUN	n--------	Case=Loc|Number=Sing	0	root	0:root	Gloss=pot|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = AD1A4ABD-85E2-4596-843C-3173261AAEB5
+# text = Item quadam alia terra sita in dicto territorio iuxta terram pascalis fabiani et iuxta iter publicum.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	Gloss=next
+2	quadam	quidam	DET	p-s---fb-	Case=Abl|Gender=Fem|Number=Sing	4	det	4:det	Gloss=a certain
+3	alia	alius	DET	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	4	det	4:det	Gloss=other
+4	terra	terra	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Gloss=land
+5	sita	situs	VERB	v-prppnn-	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	4:acl	Gloss=situated
+6	in	in	ADP	r--------	AdpType=Prep	8	case	8:case	Gloss=in
+7	dicto	dictus	ADJ	a--------	_	8	amod	8:amod	Gloss=the said
+8	territorio	territorium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	5	obl	5:obl	Gloss=territory
+9	iuxta	iuxta	ADP	r--------	_	10	case	10:case	Gloss=next to
+10	terram	terra	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	5	obl	5:obl	Gloss=land
+11	pascalis	pascalis	PROPN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	10	nmod	10:nmod	Gloss=Unknown
+12	fabiani	fabianus	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	11	flat	11:flat	Gloss=Unknown
+13	et	et	CCONJ	c--------	_	15	cc	15:cc	Gloss=and
+14	iuxta	iuxta	ADP	r--------	_	15	case	15:case	Gloss=next to
+15	iter	iter	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	10	conj	10:conj	Gloss=road
+16	publicum	publicus	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	15	amod	15:amod	Gloss=Unknown|SpaceAfter=No
+17	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = AD7A162F-705F-4D2E-8184-4618F150854B
+# text = Una sartago.
+1	Una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|Number=Sing	2	nummod	2:nummod	Gloss=one
+2	sartago	sartago	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Gloss=pan|SpaceAfter=No
+3	.	.	PUNCT	u--------	_	2	punct	2:punct	Gloss=full_stop
+
+# sent_id = AEBDF80A-E73C-4194-A50D-93629780187F
+# text = Item duo stivalia vetera.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	duo	duo	NUM	m-p---nn-	Case=Nom|Gender=Neut|Number=Plur	3	nummod	3:nummod	Gloss=two
+3	stivalia	stivale	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	0	root	0:root	Gloss=boot
+4	vetera	vetus	ADJ	a-p---nnp	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	3	amod	3:amod	Gloss=old|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = B17C1B5D-FA5D-4D90-9236-FF9E809FE9B3
+# text = Item unum magnum enbutum.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	Gloss=next
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	4	nummod	4:nummod	Gloss=one
+3	magnum	magnus	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	4:amod	Gloss=large
+4	enbutum	embutum	NOUN	n--------	_	0	root	0:root	Gloss=funnel|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = B481FA87-7216-4DF3-B9FD-BD28E75A62E5
+# text = Item una magna arca.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	Gloss=next
+2	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|Number=Sing	4	nummod	4:nummod	Gloss=one
+3	magna	magnus	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	4:amod	Gloss=large
+4	arca	arca	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Gloss=chest|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = B51DB80E-F427-4F2F-BB12-D5589B48EB11
+# text = Item i mapa cabata a quolibet capite de filo auri et cirici.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	mapa	mappa	NOUN	n--------	_	0	root	0:root	Gloss=tablecloth
+4	cabata	cabadus	ADJ	a--------	_	3	amod	3:amod	Gloss=finished
+5	a	ab	ADP	r--------	AdpType=Prep	6	case	6:case	Gloss=from
+6	quolibet	quilibet	DET	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing|PronType=Ind	7	det	7:det	Gloss=each
+7	capite	caput	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	3	acl	3:acl	Gloss=head
+8	de	de	ADP	r--------	AdpType=Prep	9	case	9:case	Gloss=of
+9	filo	filum	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	7	acl	7:acl	Gloss=thread
+10	auri	aurum	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	9	acl	9:acl	Gloss=gold
+11	et	et	CCONJ	c--------	_	12	cc	12:cc	Gloss=and
+12	cirici	sericus	NOUN	n-----m--	Case=Nom|Gender=Masc|Number=Sing	10	conj	10:conj	Gloss=silk|SpaceAfter=No
+13	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = B6634639-D4AE-42AD-AD8C-C48EED4EA433
+# text = Item decemseptem lintiamina inter bona et debilia.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	decemseptem	septendecim	NUM	m-s---ma-	Case=Acc|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=seventeen
+3	lintiamina	linteamen	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Gloss=sheet
+4	inter	inter	ADP	r--------	AdpType=Prep	5	case	5:case	Gloss=between
+5	bona	bonus	ADJ	a-p---nnp	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	3	acl	3:acl	Gloss=good
+6	et	et	CCONJ	c--------	_	7	cc	7:cc	Gloss=and
+7	debilia	debilis	ADJ	a-p---nnp	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	5	conj	5:conj	Gloss=shabby|SpaceAfter=No
+8	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = B807BBB3-6F5D-4C70-9F06-B5BCDB89772E
+# text = Item i parvam bassinam fractam.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	4	nummod	4:nummod	Gloss=Unknown
+3	parvam	parvus	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	4:amod	Gloss=small
+4	bassinam	bacinus	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	0	root	0:root	Gloss=basin
+5	fractam	fractus	ADJ	a--------	_	4	amod	4:amod	Gloss=broken|SpaceAfter=No
+6	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = B86799CA-EE84-4D1E-B754-AD628D5906D5
+# text = Item unum tionerium ferri.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	tionerium	tisonerium	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	Gloss=poker
+4	ferri	ferrum	NOUN	n--------	_	3	nmod	3:nmod	Gloss=iron|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = BD0143BE-0327-48E2-86D3-AFB42FCD602D
+# text = In focanea.
+1	In	in	ADP	r--------	AdpType=Prep	2	case	2:case	Gloss=in
+2	focanea	focanea	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Gloss=kitchen|SpaceAfter=No
+3	.	.	PUNCT	u--------	_	2	punct	2:punct	Gloss=full_stop
+
+# sent_id = BF6AB7C1-98BD-454C-8DA1-51E700A51CBF
+# text = Item i casseta cupri.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	casseta	casseta	NOUN	n--------	_	0	root	0:root	Gloss=small pan
+4	cupri	cuprum	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	3	nmod	3:nmod	Gloss=copper|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = BFCEAE3C-2AB7-4A75-AACA-C2F55C6748F9
+# text = Item duo pavesia.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	duo	duo	NUM	m-p---nn-	Case=Nom|Gender=Neut|Number=Plur	3	nummod	3:nummod	Gloss=two
+3	pavesia	pavesium	NOUN	n-s----n-	Case=Nom|Number=Sing	0	root	0:root	Gloss=pavise|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = C33EA694-4BC3-4C81-91B8-E0ED980AD630
+# text = Item unam scutellam de canna de opere Domacii.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	scutellam	scutella	NOUN	n-s---fa-	Case=Acc|Function=Unit|Gender=Fem|Number=Sing	0	root	0:root	Gloss=bowl
+4	de	de	ADP	r--------	AdpType=Prep	5	case	5:case	Gloss=of
+5	canna	canna	NOUN	n-s---fn-	Case=Nom|Function=Unit|Gender=Fem|Number=Sing	3	nmod	3:nmod	Gloss=cane
+6	de	de	ADP	r--------	AdpType=Prep	7	case	7:case	Gloss=of
+7	opere	opus	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	3	acl	3:acl	Gloss=work
+8	Domacii	Damascus	ADJ	a-s---ng-	Case=Gen|Gender=Neut|Number=Sing	7	amod	7:amod	Gloss=Damascus|SpaceAfter=No
+9	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = C52DBE3D-E049-47FB-AC0D-DD4BFB76C6A5
+# text = Item tria capitergia.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	tria	tres	NUM	m-p---nn-	Case=Nom|Gender=Neut|Number=Plur|NumType=Card	3	nummod	3:nummod	Gloss=three
+3	capitergia	capitergium	NOUN	n--------	Case=Loc|Number=Sing	0	root	0:root	Gloss=face cloth|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = C79D1EB6-BD35-4612-B32B-C04D778D9E63
+# text = Item unam serram magnam et unam parvam.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	serram	serra	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	0	root	0:root	Gloss=saw
+4	magnam	magnus	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	3:amod	Gloss=large
+5	et	et	CCONJ	c--------	_	6	cc	6:cc	Gloss=and
+6	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	conj	3:conj	Gloss=one
+7	parvam	parvus	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	amod	6:amod	Gloss=small|SpaceAfter=No
+8	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = C9867A60-12E6-4175-ABA4-41AC08BE5B0B
+# text = Item i longeriam.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	longeriam	longeria	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	0	root	0:root	Gloss=table-runner|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = CA94DC4A-81BB-4F67-9C07-0CDCC6701A77
+# text = Item in parvo domo.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	Gloss=next
+2	in	in	ADP	r--------	AdpType=Prep	4	case	4:case	Gloss=in
+3	parvo	parvus	ADJ	a-s---mbp	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing	4	amod	4:amod	Gloss=small
+4	domo	domus	NOUN	n-s---fb-	Case=Abl|Function=Location|Gender=Fem|Number=Sing	0	root	0:root	Gloss=house|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = CBF09E42-C12C-4672-BE9B-C54B43579C4F
+# text = Item duas librarum mellis rosati quartorum ii.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	Gloss=next
+2	duas	duo	NUM	m-p---fa-	Case=Acc|Gender=Fem|Number=Plur	3	nummod	3:nummod	Gloss=two
+3	librarum	libra	NOUN	n-p---fg-	Case=Gen|Function=Unit|Gender=Fem|Number=Plur	4	acl	4:acl	Gloss=pound
+4	mellis	mel	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	0	root	0:root	Gloss=honey
+5	rosati	rosare	ADJ	a--------	_	4	amod	4:amod	Gloss=made rosy
+6	quartorum	quartonus	NOUN	n-p---ng-	Case=Gen|Function=Unit|Gender=Neut|Number=Plur	4	acl	4:acl	Gloss=quadroon
+7	ii	duo	NUM	m--------	NumForm=Digit	6	nummod	6:nummod	Gloss=Unknown|SpaceAfter=No
+8	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = CBFBF458-0A12-48CB-81D4-A2FF9284EB22
+# text = In camera ad medium egredarium.
+1	In	in	ADP	r--------	AdpType=Prep	2	case	2:case	Gloss=in
+2	camera	camera	NOUN	n-s---fn-	Case=Nom|Function=Location|Gender=Fem|Number=Sing	0	root	0:root	Gloss=room
+3	ad	ad	ADP	r--------	AdpType=Prep	5	case	5:case	Gloss=to
+4	medium	medius	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	5:amod	Gloss=half
+5	egredarium	egredarium	NOUN	n-p---ng-	Case=Gen|Gender=Neut|Number=Plur	2	acl	2:acl	Gloss=stairway|SpaceAfter=No
+6	.	.	PUNCT	u--------	_	2	punct	2:punct	Gloss=full_stop
+
+# sent_id = CC4BCB18-4830-4B0B-B972-9EE8C324EF9F
+# text = Item unus cultellus lateralis.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unus	unus	NUM	m-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	cultellus	cultellus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	Gloss=knife
+4	lateralis	lateralis	ADJ	a-s---fnp	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	3:amod	Gloss=of the side|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = CCA61F5A-B689-4008-B9CA-A36BF45AE3B1
+# text = Item una parva tina vinaria cum suo torculari.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	Gloss=next
+2	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|Number=Sing	4	nummod	4:nummod	Gloss=one
+3	parva	parvus	ADJ	a-p---nnp	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	4	amod	4:amod	Gloss=small
+4	tina	tina	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	Gloss=vat
+5	vinaria	vinarius	ADJ	a-s---fnp	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	4:amod	Gloss=of wine
+6	cum	cum	SCONJ	c--------	_	8	mark	8:mark	Gloss=with
+7	suo	suus	DET	p-s---nb-	Case=Abl|Gender=Neut|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	8	det	8:det	Gloss=his, hers
+8	torculari	torcular	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	4	acl	4:acl	Gloss=press|SpaceAfter=No
+9	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = CE4EE467-3218-4F64-A797-6F818E8A4A86
+# text = Item i potum stagni.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	potum	potus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	0	root	0:root	Gloss=cup
+4	stagni	stagnum	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	3	nmod	3:nmod	Gloss=tin|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = CEF67FD7-2DF0-4F8F-9CF2-FEDA1403B078
+# text = Item x coffinos.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	x	decem	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	coffinos	coffinus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	Gloss=carrycot|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = D0072015-7701-45A0-ADD6-5192A7806ED0
+# text = Item i mastram.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	mastram	mastra	NOUN	n--------	Case=Loc|Number=Sing	0	root	0:root	Gloss=kneading trough|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = D2243DA3-6814-4727-93EF-F4193D9CB2C3
+# text = Item i morterium lapidis.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	morterium	morterium	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	Gloss=mortar
+4	lapidis	lapis	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	3	nmod	3:nmod	Gloss=stone|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = D29BD30D-9E08-4FC8-823D-3C4ED61B44D9
+# text = Item unam tabuletam ad comedendum cum suis submensalibus unum bancum et tres sellas parvas modici valoris unam toalhetam illaceratam et unum toalhonum precio vi grossorum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	tabuletam	tabuleta	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	0	root	0:root	Gloss=small table
+4	ad	ad	ADP	r--------	AdpType=Prep	5	case	5:case	Gloss=to
+5	comedendum	comedo	VERB	v-s-gpnn-	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Ger|Voice=Pass	3	acl	3:acl	Gloss=Unknown
+6	cum	cum	SCONJ	c--------	_	8	mark	8:mark	Gloss=with
+7	suis	suus	DET	p-p---nd-	Case=Dat|Gender=Neut|Number=Plur|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	8	det	8:det	Gloss=his, hers
+8	submensalibus	mensalis	NOUN	n-p---mb-	Case=Abl|Gender=Masc|Number=Plur	3	acl	3:acl	Gloss=trestle
+9	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	10	nummod	10:nummod	Gloss=one
+10	bancum	bancus	NOUN	n--------	_	8	acl	8:acl	Gloss=bench
+11	et	et	CCONJ	c--------	_	13	cc	13:cc	Gloss=and
+12	tres	tres	NUM	m-p---mn-	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	13	nummod	13:nummod	Gloss=three
+13	sellas	sella	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	10	conj	10:conj	Gloss=seat
+14	parvas	parvus	ADJ	a-p---fap	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	13	amod	13:amod	Gloss=small
+15	modici	modicus	ADJ	a-p---mnp	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	16	amod	16:amod	Gloss=a small amount
+16	valoris	valor	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	13	acl	13:acl	Gloss=value
+17	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|Number=Sing	18	nummod	18:nummod	Gloss=one
+18	toalhetam	tohalheta	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	10	conj	10:conj	Gloss=small tablecloth
+19	illaceratam	lacerare	ADJ	a--------	_	18	amod	18:amod	Gloss=lacerated
+20	et	et	CCONJ	c--------	_	22	cc	22:cc	Gloss=and
+21	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	22	nummod	22:nummod	Gloss=one
+22	toalhonum	tohalhonus	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	10	conj	10:conj	Gloss=large tablecloth
+23	precio	pretium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	3	acl	3:acl	Gloss=price
+24	vi	sex	NUM	m-s---mn-	Case=Nom|Number=Sing	25	nummod	25:nummod	Gloss=Unknown
+25	grossorum	grossus	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	23	acl	23:acl	Gloss=coarse|SpaceAfter=No
+26	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = D2E7CE57-DE24-438A-9BF9-F6211714C008
+# text = Item i aliud tros zone cum viii clavellis argenti albi.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	4	nummod	4:nummod	Gloss=Unknown
+3	aliud	alius	DET	p-s---na-	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	4	det	4:det	Gloss=other
+4	tros	tros	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	Gloss=piece
+5	zone	zona	NOUN	n-s----n-	Case=Nom|Number=Sing	4	nmod	4:nmod	Gloss=belt
+6	cum	cum	SCONJ	c--------	_	8	mark	8:mark	Gloss=with
+7	viii	octo	NUM	m--------	NumForm=Digit	8	nummod	8:nummod	Gloss=Unknown
+8	clavellis	clavellus	NOUN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	4	acl	4:acl	Gloss=stud, boss
+9	argenti	argentum	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	8	nmod	8:nmod	Gloss=silver
+10	albi	albus	ADJ	a-p---mnp	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	8	amod	8:amod	Gloss=white|SpaceAfter=No
+11	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = D38D8DC6-F6AF-46F8-96CD-D9C6D71C9D79
+# text = Primo quoddam ospicium in quo dictus quondam Petrus habitabat situm in carreria sancti Augustini iuxta in quaquidem domo dixit retroscripta tutrix se invenisse bona subscripta et primo.
+1	Primo	primo	ADV	d--------	_	3	advmod	3:advmod	Gloss=first
+2	quoddam	quidam	DET	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	det	3:det	Gloss=a certain
+3	ospicium	hospicium	NOUN	n-s---nn-	Case=Nom|Function=Location|Gender=Neut|Number=Sing	0	root	0:root	Gloss=house
+4	in	in	ADP	r--------	AdpType=Prep	5	case	5:case	Gloss=in
+5	quo	qui	PRON	p-s---nb-	Case=Abl|Gender=Masc|Number=Sing|PronType=Rel	9	obl	9:obl	Gloss=which
+6	dictus	dico	ADJ	a--------	_	8	amod	8:amod	Gloss=Unknown
+7	quondam	quondam	ADV	d--------	_	9	advmod	9:advmod	Gloss=the late
+8	Petrus	Petrus	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	9:nsubj	Gloss=Unknown
+9	habitabat	habitare	VERB	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	acl	3:acl	Gloss=to inhabit
+10	situm	situs	VERB	v-srppnn-	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	3:acl	Gloss=situated
+11	in	in	ADP	r--------	AdpType=Prep	12	case	12:case	Gloss=in
+12	carreria	carreria	NOUN	n-s---fn-	Case=Nom|Function=Location|Gender=Fem|Number=Sing	10	obl	10:obl	Gloss=street
+13	sancti	sanctus	PROPN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	12	flat	12:flat	Gloss=Unknown
+14	Augustini	Augustinus	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	12	flat	12:flat	Gloss=Unknown
+15	iuxta	iuxta	ADP	r--------	_	18	case	18:case	Gloss=next to
+16	in	in	ADP	r--------	AdpType=Prep	17	case	17:case	Gloss=in
+17	quaquidem	quisquidem	DET	p-s---fb-	Case=Abl|Gender=Fem|Number=Sing|PronType=Ind	18	det	18:det	Gloss=any sort at all
+18	domo	domus	NOUN	n-s---fb-	Case=Abl|Function=Location|Gender=Fem|Number=Sing	10	obl	10:obl	Gloss=house
+19	dixit	dicere	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	23	advcl	23:advcl	Gloss=to say
+20	retroscripta	retroscribo	ADJ	a-s---fn-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part	21	amod	21:amod	Gloss=Unknown
+21	tutrix	tutrix	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	19	nsubj	19:nsubj	Gloss=Unknown
+22	se	se	PRON	p-s---na-	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs|Reflex=Yes	23	det	23:det	Gloss=himself or herself
+23	invenisse	invenio	VERB	v--rna---	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	18	acl	18:acl	Gloss=to find
+24	bona	bona	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	23	obj	23:obj	Gloss=goods
+25	subscripta	subscriptus	ADJ	a--------	_	24	amod	24:amod	Gloss=below-mentioned
+26	et	et	CCONJ	c--------	_	27	cc	27:cc	Gloss=and
+27	primo	primo	ADV	d--------	_	23	advmod	23:advmod	Gloss=first|SpaceAfter=No
+28	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = D42D40A8-016F-4F2B-9D52-7DCC0BD703F2
+# text = Item vii corea pelosa bovius.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	vii	septem	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=seven
+3	corea	corium	NOUN	n--------	Case=Nom|Number=Sing	0	root	0:root	Gloss=leather
+4	pelosa	pilosus	ADJ	a-p---nnp	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	3	amod	3:amod	Gloss=hairy
+5	bovius	bos	NOUN	n--------	Case=Loc|Number=Sing	3	nmod	3:nmod	Gloss=ox|SpaceAfter=No
+6	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = D46F37A7-6DE5-4A65-9386-F4D401429B3F
+# text = Item i morterium marmoreum cum trissono.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	morterium	morterium	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	Gloss=mortar
+4	marmoreum	marmoreus	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	3:amod	Gloss=marble
+5	cum	cum	SCONJ	c--------	_	6	mark	6:mark	Gloss=with
+6	trissono	trissonum	NOUN	n-----m--	Case=Abl|Gender=Masc|Number=Sing	3	acl	3:acl	Gloss=pestle|SpaceAfter=No
+7	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = D52500AF-DD2F-4D19-8388-220B3418BF42
+# text = Item unam capciam clausam cum clave et sera sigillatam sigillo dicti subclavari.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	capciam	capcia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	0	root	0:root	Gloss=chest
+4	clausam	clausus	ADJ	a--------	_	3	amod	3:amod	Gloss=closed
+5	cum	cum	SCONJ	c--------	_	6	mark	6:mark	Gloss=with
+6	clave	clavis	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	acl	3:acl	Gloss=key
+7	et	et	CCONJ	c--------	_	8	cc	8:cc	Gloss=and
+8	sera	sera	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	6	conj	6:conj	Gloss=lock
+9	sigillatam	sigillare	VERB	v-srppfa-	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	8	acl	8:acl	Gloss=sealed
+10	sigillo	sigillum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	9	obl	9:obl	Gloss=seal
+11	dicti	dictus	ADJ	a--------	_	12	amod	12:amod	Gloss=the said
+12	subclavari	subclavari	NOUN	n--------	VerbForm=Inf	10	acl	10:acl	Gloss=Unknown|SpaceAfter=No
+13	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = D7668BF9-9A15-4668-8444-24437673567E
+# text = Item duo tabuloni.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	duo	duo	NUM	m-p---nn-	Case=Nom|Gender=Neut|Number=Plur	3	nummod	3:nummod	Gloss=two
+3	tabuloni	tabulonus	NOUN	n-s---md-	Case=Abl|Gender=Masc|Number=Sing	0	root	0:root	Gloss=trestle|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = D7953656-FC83-4874-8FAA-9BA84A200325
+# text = Primo unum cubile ligni albi.
+1	Primo	primo	ADV	d--------	_	3	advmod	3:advmod	Gloss=first
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	cubile	cubile	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	Gloss=bed
+4	ligni	lignum	NOUN	n-s---ng-	Case=Gen|Function=Location|Gender=Neut|Number=Sing	3	nmod	3:nmod	Gloss=wood
+5	albi	albus	ADJ	a-p---mnp	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	3	amod	3:amod	Gloss=white|SpaceAfter=No
+6	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = D7E60069-2711-4EA3-AACB-0CF00B58BCB7
+# text = Item duas vegetes tres carratellos et unam barrillam florenorum iiii grossorum vi.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	duas	duo	NUM	m-p---fa-	Case=Acc|Gender=Fem|Number=Plur	3	nummod	3:nummod	Gloss=two
+3	vegetes	veges	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	Gloss=cask
+4	tres	tres	NUM	m-p---mn-	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	5	nummod	5:nummod	Gloss=three
+5	carratellos	caratellus	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	3	conj	3:conj	Gloss=cask
+6	et	et	CCONJ	c--------	_	8	cc	8:cc	Gloss=and
+7	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|Number=Sing	8	nummod	8:nummod	Gloss=one
+8	barrillam	barrale	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	conj	3:conj	Gloss=barrel
+9	florenorum	florenus	NOUN	n-p---ng-	Case=Gen|Function=Unit|Gender=Neut|Number=Plur	3	acl	3:acl	Gloss=florin
+10	iiii	quadraginta	NUM	m--------	NumForm=Digit	9	nummod	9:nummod	Gloss=Unknown
+11	grossorum	grossus	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	9	conj	9:conj	Gloss=coarse
+12	vi	sex	NUM	m-s---mn-	Case=Nom|Number=Sing	11	nummod	11:nummod	Gloss=Unknown|SpaceAfter=No
+13	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = D80AA56E-3166-4F0D-85B7-A7BE5E5B5598
+# text = Item duo vasa vacua capacitatis cuiuslibet xii milhayrolas.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	duo	duo	NUM	m-p---nn-	Case=Nom|Gender=Neut|Number=Plur	3	nummod	3:nummod	Gloss=two
+3	vasa	vas	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	0	root	0:root	Gloss=cask
+4	vacua	vacuus	ADJ	a-s---nnp	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	3:amod	Gloss=empty
+5	capacitatis	capacitas	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	3	acl	3:acl	Gloss=with a capacity of
+6	cuiuslibet	quilibet	DET	p-s---fg-	Case=Gen|Gender=Fem|Number=Sing|PronType=Ind	5	det	5:det	Gloss=each
+7	xii	duodecim	NUM	m--------	NumForm=Digit	8	nummod	8:nummod	Gloss=Unknown
+8	milhayrolas	meillerola	NOUN	n-p---fa-	Case=Acc|Function=Unit|Gender=Fem|Number=Plur	5	acl	5:acl	Gloss=millerole|SpaceAfter=No
+9	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = D89021B7-BD5F-42AF-BAA7-1F841A36639B
+# text = Item iii trosseti argenti parvi.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	iii	tres	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	trosseti	trossus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	0	root	0:root	Gloss=Unknown
+4	argenti	argentum	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	3	nmod	3:nmod	Gloss=silver
+5	parvi	parvus	ADJ	a-s---mnp	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	3:amod	Gloss=Unknown|SpaceAfter=No
+6	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = D965B087-0D79-445E-8702-12A78D5D87A3
+# text = Item ii calotas novas.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	ii	duo	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	calotas	calota	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Gloss=cap
+4	novas	novus	ADJ	a-p---fap	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	3	amod	3:amod	Gloss=new|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = D9826E8B-9CB8-4308-A1D9-22A12BD17A83
+# text = Item i aliud saquetum cum thirre.
+1	Item	item	ADV	d--------	_	4	advmod	4:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	4	nummod	4:nummod	Gloss=Unknown
+3	aliud	alius	DET	p-s---na-	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	4	det	4:det	Gloss=other
+4	saquetum	saquetus	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	Gloss=small sack
+5	cum	cum	SCONJ	c--------	_	6	case	6:case	Gloss=with
+6	thirre	thirreo	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	4	acl	4:acl	Gloss=Unknown|SpaceAfter=No
+7	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = D993DD83-8F8B-423C-AE53-B52C995A4E3C
+# text = Item unum gardacorsium panni marbati hominis.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	gardacorsium	gardacorssium	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	Gloss=gardecorpe
+4	panni	pannus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	3	acl	3:acl	Gloss=cloth
+5	marbati	marbo	ADJ	a-s---mgp	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	4:amod	Gloss=Unknown
+6	hominis	homo	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	3	nmod	3:nmod	Gloss=man|SpaceAfter=No
+7	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = DC49397C-63E4-4939-BA03-397D92FFC39E
+# text = De cissoriis fusteis pessie xxxix.
+1	De	de	ADP	r--------	AdpType=Prep	2	case	2:case	Gloss=of
+2	cissoriis	cissorium	NOUN	n-p---fb-	Case=Abl|Gender=Fem|Number=Plur	4	acl	4:acl	Gloss=trencher
+3	fusteis	fusteus	NOUN	n-p---fb-	Case=Abl|Gender=Masc|Number=Plur	2	nmod	2:nmod	Gloss=wooden
+4	pessie	pecia	NOUN	n--------	Case=Loc|Number=Sing	0	root	0:root	Gloss=piece
+5	xxxix	trigintanovem	NUM	m-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	nummod	4:nummod	Gloss=thirty-nine|SpaceAfter=No
+6	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = DC59E1F6-3C31-428E-B509-76B93C2BB3FE
+# text = Item unum cardacossium de mesclato cum penna alungnorum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	cardacossium	gardacorsium	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	0	root	0:root	Gloss=gardecorpe
+4	de	de	ADP	r--------	AdpType=Prep	5	case	5:case	Gloss=of
+5	mesclato	mesclatus	NOUN	n--------	_	3	nmod	3:nmod	Gloss=medley
+6	cum	cum	SCONJ	c--------	_	7	mark	7:mark	Gloss=with
+7	penna	penna	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	acl	3:acl	Gloss=skin
+8	alungnorum	agnus	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	7	nmod	7:nmod	Gloss=Unknown|SpaceAfter=No
+9	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = DF56DDBA-CF80-4791-AA89-F2C1F958C2DD
+# text = Et primo in aula.
+1	Et	et	CCONJ	c--------	_	2	cc	2:cc	Gloss=and
+2	primo	primo	ADV	d--------	_	4	advcl	4:advcl	Gloss=first
+3	in	in	ADP	r--------	AdpType=Prep	4	case	4:case	Gloss=in
+4	aula	aula	NOUN	n-s---fn-	Case=Nom|Function=Location|Gender=Fem|Number=Sing	0	root	0:root	Gloss=hall|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	4	punct	4:punct	Gloss=full_stop
+
+# sent_id = E123753B-37CB-4154-9B90-D50B70C69670
+# text = Item due jarre magne.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	due	duo	NUM	m-p---fn-	Case=Nom|Gender=Fem|Number=Plur|NumType=Card	3	nummod	3:nummod	Gloss=two
+3	jarre	jarra	NOUN	n--------	Case=Loc|Function=Unit|Number=Sing	0	root	0:root	Gloss=jar
+4	magne	magnus	ADJ	a--------	_	3	amod	3:amod	Gloss=large|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = E287B4A9-1828-4814-A786-D6BFB8ED6234
+# text = In cuius domus cellario inventa fuerunt bona infrascripta videlicet.
+1	In	in	ADP	r--------	AdpType=Prep	4	case	4:case	Gloss=in
+2	cuius	qui	DET	p-s---mg-	Case=Gen|Gender=Masc|Number=Sing|PronType=Ind	3	det	3:det	Gloss=which
+3	domus	domus	NOUN	n-s---fn-	Case=Nom|Function=Location|Gender=Fem|Number=Sing	4	nmod	4:nmod	Gloss=house
+4	cellario	cellarium	NOUN	n-s---mb-	Case=Abl|Function=Location|Gender=Masc|Number=Sing	5	obl	5:obl	Gloss=cellar
+5	inventa	invenio	VERB	v-srppfn-	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	Gloss=to find
+6	fuerunt	sum	AUX	v3pria---	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	aux	5:aux	Gloss=to be
+7	bona	bona	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	5	obj	5:obj	Gloss=goods
+8	infrascripta	infrascribibo	ADJ	a--------	_	7	amod	7:amod	Gloss=below-mentioned
+9	videlicet	videlicet	ADV	d--------	_	5	advmod	5:advmod	Gloss=namely|SpaceAfter=No
+10	.	.	PUNCT	u--------	_	5	punct	5:punct	Gloss=full_stop
+
+# sent_id = E329AB72-EDF6-4ED3-ABF9-6F4218C039D2
+# text = Item unam tunicam albam hominis debilem.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	tunicam	tunica	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	0	root	0:root	Gloss=tunic
+4	albam	albus	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	3:amod	Gloss=white
+5	hominis	homo	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	3	nmod	3:nmod	Gloss=man
+6	debilem	debilis	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	3:amod	Gloss=shabby|SpaceAfter=No
+7	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = E39B5908-2CA9-40AA-B9D9-3C5DA1D6D1E0
+# text = Item i gabiam pro taulino.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	gabiam	gabia	NOUN	n-----m--	Case=Loc|Number=Sing	0	root	0:root	Gloss=cage
+4	pro	pro	ADP	r--------	AdpType=Prep	5	case	5:case	Gloss=for
+5	taulino	taulinus	NOUN	n-----m--	Case=Abl|Gender=Masc|Number=Sing	3	nmod	3:nmod	Gloss=Unknown|SpaceAfter=No
+6	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = E41D4DCB-31F0-4DF5-BEE8-87CE61B029F8
+# text = Item unum libellum terre.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	libellum	libellum	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	0	root	0:root	Gloss=Unknown
+4	terre	terra	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	nmod	3:nmod	Gloss=earthenware|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = E5FAB8D4-4A35-41AC-B3C9-F787CBB6D45A
+# text = Item nycolaus Sarralla in sexaginta florenis est obligatus per quandam apodixam.
+1	Item	item	ADV	d--------	_	8	advmod	8:advmod	Gloss=next
+2	nycolaus	nycolaus	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	8:nsubj	Gloss=Unknown
+3	Sarralla	Sarrallum	PROPN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	2	flat	2:flat	Gloss=Unknown
+4	in	in	ADP	r--------	AdpType=Prep	6	case	6:case	Gloss=in
+5	sexaginta	sexaginta	NUM	m-p---nn-	Case=Nom|Gender=Neut|Number=Plur	6	nummod	6:nummod	Gloss=sixty
+6	florenis	florenus	NOUN	n-s---mn-	Case=Nom|Function=Unit|Gender=Masc|Number=Sing	8	obj	8:obj	Gloss=florin
+7	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	8:aux	Gloss=to be
+8	obligatus	obligo	VERB	v-srppmn-	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	Gloss=Unknown
+9	per	per	ADP	r--------	AdpType=Prep	11	case	11:case	Gloss=through
+10	quandam	quidam	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	11	det	11:det	Gloss=a certain
+11	apodixam	apodixa	NOUN	n--------	_	8	obl	8:obl	Gloss=hand note|SpaceAfter=No
+12	.	.	PUNCT	u--------	_	8	punct	8:punct	Gloss=full_stop
+
+# sent_id = E8157339-DEC0-4E8D-A6F1-78E47CF6BE92
+# text = Item quendam bancum fusteum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	quendam	quidam	DET	p--------	_	3	det	3:det	Gloss=a certain
+3	bancum	bancus	NOUN	n--------	_	0	root	0:root	Gloss=bench
+4	fusteum	fusteus	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	nmod	3:nmod	Gloss=wooden|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = E9291264-89C5-432C-9E79-5CFE5AF7C8FD
+# text = Item unam panale.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	panale	panale	NOUN	n--------	Function=Unit	0	root	0:root	Gloss=grain measure|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = EA24A91E-238E-4826-85BD-9DE33630F8B0
+# text = Item unum clipeum.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	clipeum	clipeus	NOUN	n-s---nn-	Case=Acc|Gender=Neut|Number=Sing	0	root	0:root	Gloss=round shield|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = EBAF5610-1022-49B8-9CB8-B5548FAB630E
+# text = Item unam botam capacitatis vii metretarum vel circa que est in domo Andree cavallerii.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	botam	bota	NOUN	n--------	_	0	root	0:root	Gloss=cask
+4	capacitatis	capacitas	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	3	acl	3:acl	Gloss=with a capacity of
+5	vii	septem	NUM	m--------	NumForm=Digit	6	nummod	6:nummod	Gloss=seven
+6	metretarum	metreta	NOUN	n--------	Function=Unit	4	acl	4:acl	Gloss=liquid measura
+7	vel	vel	CCONJ	c--------	_	8	cc	8:cc	Gloss=or
+8	circa	circa	ADP	r--------	AdpType=Prep	5	conj	5:conj	Gloss=around
+9	que	qui	CCONJ	c--------	_	12	cc	12:cc	Gloss=which
+10	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	12:cop	Gloss=to be
+11	in	in	ADP	r--------	AdpType=Prep	12	case	12:case	Gloss=in
+12	domo	domus	NOUN	n-s---fb-	Case=Abl|Function=Location|Gender=Fem|Number=Sing	3	acl	3:acl	Gloss=house
+13	Andree	Ander	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	12	nmod	12:nmod	Gloss=Unknown
+14	cavallerii	cavallerii	PROPN	n-p---mn-	Case=Nom|Gender=Masc|Number=Sing	13	flat	13:flat	Gloss=Unknown|SpaceAfter=No
+15	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = ED10C466-D25C-4AD7-98D5-636FD832E6A5
+# text = Primo unum scrineum cum copertorio quod est in camera parva iuxta magnam.
+1	Primo	primo	ADV	d--------	_	3	advmod	3:advmod	Gloss=first
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	scrineum	scrineum	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	Gloss=receptacle
+4	cum	cum	SCONJ	c--------	_	5	mark	5:mark	Gloss=with
+5	copertorio	copertorium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	3	acl	3:acl	Gloss=coverlet
+6	quod	qui	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	9	nsubj	9:nsubj	Gloss=which
+7	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	9:cop	Gloss=to be
+8	in	in	ADP	r--------	AdpType=Prep	9	case	9:case	Gloss=in
+9	camera	camera	NOUN	n-s---fn-	Case=Nom|Function=Location|Gender=Fem|Number=Sing	3	acl	3:acl	Gloss=room
+10	parva	parvus	ADJ	a-p---nnp	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	9	amod	9:amod	Gloss=small
+11	iuxta	iuxta	ADP	r--------	_	12	case	12:case	Gloss=next to
+12	magnam	magnus	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	acl	9:acl	Gloss=large|SpaceAfter=No
+13	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = EE2A7C46-AE38-45FA-92D8-8694C731C870
+# text = Item iii pulvinaria illacerata.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	iii	tres	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	pulvinaria	pulvinar	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	0	root	0:root	Gloss=cushion
+4	illacerata	lacerare	ADJ	a--------	_	3	amod	3:amod	Gloss=lacerated|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = EF9C121A-98A9-4AD2-AE78-37FA6A61A59A
+# text = Item quatuor camizias hominis.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	quatuor	quattuor	NUM	m--------	NumType=Card	3	nummod	3:nummod	Gloss=four
+3	camizias	camisia	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	0	root	0:root	Gloss=shirt
+4	hominis	homo	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	3	nmod	3:nmod	Gloss=man|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = F28F953D-CD05-42B9-9380-F27B9D8AB679
+# text = Item i ganachiam tele.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	ganachiam	ganacha	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	0	root	0:root	Gloss=robe
+4	tele	tela	NOUN	n-s---mn-	Case=Nom|Number=Sing	3	nmod	3:nmod	Gloss=fabric|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = F4765438-CEF0-47F2-BEB8-59B924E7F5C0
+# text = Item i morterium fuste.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	morterium	morterium	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	Gloss=mortar
+4	fuste	fusta	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	nmod	3:nmod	Gloss=wood|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = F48C14DC-B1FF-4770-9772-3DB5342455A6
+# text = Item i gonella panni albi grossi.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	gonella	gonella	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Gloss=gown
+4	panni	pannus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	3	acl	3:acl	Gloss=cloth
+5	albi	albus	ADJ	a-p---mnp	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	4	amod	4:amod	Gloss=white
+6	grossi	grossus	ADJ	a--------	Function=Unit	3	amod	3:amod	Gloss=coarse|SpaceAfter=No
+7	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = F4F74870-CE1A-41E9-9E2D-8A91ACDA11F3
+# text = Item duo pulvinaria.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	duo	duo	NUM	m-p---nn-	Case=Nom|Gender=Neut|Number=Plur	3	nummod	3:nummod	Gloss=two
+3	pulvinaria	pulvinar	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	0	root	0:root	Gloss=cushion|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = F536D399-9A3C-4D25-B57A-4B241E3BE068
+# text = Item i tersor.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	tersor	tersor	NOUN	n-s---mn-	Case=Abl|Gender=Masc|Number=Sing	0	root	0:root	Gloss=napkin|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = F6CD264F-4574-4C8A-950B-5BF37F4A1CDF
+# text = Item i mapam parvam.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	i	a	NUM	m--------	NumForm=Digit	3	nummod	3:nummod	Gloss=Unknown
+3	mapam	mappa	NOUN	n--------	_	0	root	0:root	Gloss=tablecloth
+4	parvam	parvus	ADJ	a-s---fap	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	3:amod	Gloss=small|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = F94A7C74-E5B3-44EB-887F-2A4746007BDC
+# text = Item unam payroletam.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unam	unus	NUM	m-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	payroletam	payroleta	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	0	root	0:root	Gloss=little cauldron|SpaceAfter=No
+4	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = FD2A8762-4F31-4865-964B-59CCD0968381
+# text = Item unum cossetum rubeum de pessevermelho sive penna cum tunica dicti panni.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	unum	unus	NUM	m-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	cossetum	cossetum	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	0	root	0:root	Gloss=bodice
+4	rubeum	rubeus	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	3	amod	3:amod	Gloss=ruby red
+5	de	de	ADP	r--------	AdpType=Prep	6	case	6:case	Gloss=of
+6	pessevermelho	pessevermelho	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	3	acl	3:acl	Gloss=Unknown
+7	sive	sive	CCONJ	c--------	_	8	cc	8:cc	Gloss=or
+8	penna	penna	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	6	conj	6:conj	Gloss=skin
+9	cum	cum	SCONJ	c--------	_	10	mark	10:mark	Gloss=with
+10	tunica	tunica	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	acl	3:acl	Gloss=tunic
+11	dicti	dictus	ADJ	a--------	_	12	amod	12:amod	Gloss=the said
+12	panni	pannus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	10	acl	10:acl	Gloss=cloth|SpaceAfter=No
+13	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = FDB7780F-2A32-4E35-9B10-D1E621071961
+# text = Item una grazilha ferri.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	una	unus	NUM	m-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	nummod	3:nummod	Gloss=one
+3	grazilha	grasale	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Gloss=basin
+4	ferri	ferrum	NOUN	n--------	_	3	nmod	3:nmod	Gloss=iron|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
+# sent_id = FF70267C-7B49-40FF-A211-E8EDCA2CFCA4
+# text = Item quinque meysirabas fractas.
+1	Item	item	ADV	d--------	_	3	advmod	3:advmod	Gloss=next
+2	quinque	quinque	NUM	m--------	NumType=Card	3	nummod	3:nummod	Gloss=five
+3	meysirabas	misseraba	NOUN	n--------	_	0	root	0:root	Gloss=cruet
+4	fractas	fractus	ADJ	a--------	_	3	amod	3:amod	Gloss=Unknown|SpaceAfter=No
+5	.	.	PUNCT	u--------	_	3	punct	3:punct	Gloss=full_stop
+
