@@ -549,7 +549,7 @@ def cross_treebank_performance() -> str:
         body_rows=body,
         caption=(
             'The final reported model against every treebank baseline on the DALME-Marseille gold '
-            'standard, over the same metrics as Table~\\ref{tab:pre-trained-performance} '
+            'standard, over the same metrics as Table~\\ref{tab:pre-trained-performance}. '
             'Every column uses the plain models except \\emph{Ens.}, which uses the ensemble of the '
             'sequence-to-sequence lemmatiser with domain lexicon lookup for every row alike. '
             f'\\normalsize{label}\\scriptsize~is only ever run in that configuration, so it has no plain '
