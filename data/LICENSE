@@ -1,0 +1,115 @@
+LICENCE AND TERMS FOR data/
+===========================
+
+The MIT licence in the repository root only covers the SOFTWARE in this repository. It does NOT 
+cover the datasets in this directory. Each item in data/ retains the terms of its source and this 
+file is the authoritative statement. Section 1 lists every file and points at the section that 
+governs it.
+
+    1.  File Provenance
+    2.  DALME-Marseille corpus and annotations .... CC BY 4.0
+    3.  CLTK Latin lemmata ........................ MIT
+    4.  Lewis, An Elementary Latin Dictionary ..... CC BY-SA 3.0
+    5.  Dictionnaire de l'Occitan Médiéval ........ non-commercial
+    6.  Stanza benchmark table .................... ODC-By 1.0
+    
+--------------------------------------------------------------------------------------------
+1. File Provenance
+--------------------------------------------------------------------------------------------
+
+   PATH                                        WHAT IT IS                              SEE
+   -----------------------------------------------------------------------------------------
+   marseille_test_corpus.csv                   database export, 47,345 rows            (2)
+   corpora/la_marseille-ud-base.conllu         corpus converted to CoNLL-U             (2)
+   corpora/la_marseille-ud-base-fixed.conllu   after the three mechanical corrections  (2)
+   corpora/la_marseille-ud-full.conllu         the whole corpus parsed                 (2)
+   gold/                                       200-sentence gold standard, 2 stages    (2)
+   seeds/base/                                 sampled sentences, placeholder syntax   (2)
+   seeds/predictions/                          after pre-annotation by the prior model (2)
+   seeds/corrected/                            after hand correction, the training set (2)
+   marseille_lemmata.json                      domain lexicon, gold-free (5,254)       (2)
+   marseille_lemmata_with_gold.json            the same before 61 entries were removed (2)
+   lemmata/marseille_lemmata.txt               lemma inventory of the corpus           (2)
+   reference/inventory_metadata.csv            per-record date, place, document type   (2)
+   reference/brat_annotation_times.csv         minutes spent correcting each batch     (2)
+   reference/dalme_occitan_lemmata.txt         Occitan lemmata contributed by DALME    (2)
+   evaluation/                                 model predictions and scores            (2)
+   evaluation/results_with_gold_lexicon.json   scores under the uncorrected lexicon    (2)
+   baseline_results.json                       construction-specific baselines         (2)
+   lemmata/cltk_lemmata.txt                    CLTK lemma list, extracted              (3)
+   lemmata/lewis_lemmata.txt                   Lewis headwords, extracted              (4)
+   reference/dom_online_lemmata.txt            15,992 Occitan headwords, DOM           (5)
+   reference/stanza-ud-2.5-performance.csv     published Stanza benchmark scores       (6)
+
+--------------------------------------------------------------------------------------------
+2. DALME-Marseille corpus and annotations       Creative Commons Attribution 4.0 (CC BY 4.0)
+--------------------------------------------------------------------------------------------
+   The DALME-Marseille transcriptions, the document metadata, and the part-of-speech, lemma,
+   morphological, and dependency annotation layered over them are released together under the
+   Creative Commons Attribution 4.0 International licence.
+   https://creativecommons.org/licenses/by/4.0/
+
+   This governs every file marked (2) in section 1.
+
+   ATTRIBUTION, to accompany any copy or derivative:
+
+       DALME-Marseille corpus. Documentary Archaeology of Late Medieval Europe (DALME),
+       https://dalme.org. Licensed under CC BY 4.0. Morphological and syntactic annotation by
+       Gabriel H. Pizzorno.
+
+--------------------------------------------------------------------------------------------
+3. CLTK Latin lemmata                                                                    MIT
+--------------------------------------------------------------------------------------------
+   https://github.com/cltk/latin_pos_lemmata_cltk
+   Shipped as the extract lemmata/cltk_lemmata.txt. The raw source is not redistributed here.
+
+--------------------------------------------------------------------------------------------
+4. Lewis, An Elementary Latin Dictionary (1890)                                 CC BY-SA 3.0
+--------------------------------------------------------------------------------------------
+   Charlton T. Lewis, An Elementary Latin Dictionary. American Book Company, New York,
+   Cincinnati and Chicago, 1890. The text is public domain and the CLTK digitisation is 
+   released under Creative Commons ShareAlike 3.0.
+   https://github.com/cltk/cltk_lat_lewis_elementary_lexicon
+
+   Shipped as the extract lemmata/lewis_lemmata.txt. The raw source is not redistributed here.
+
+--------------------------------------------------------------------------------------------
+5. Dictionnaire de l'Occitan Médiéval            non-commercial | notice must travel with it
+--------------------------------------------------------------------------------------------
+   reference/dom_online_lemmata.txt is 15,992 headwords collected from the online Dictionnaire
+   de l'Occitan Médiéval (DOM), founded by Wolf-Dieter Stempel and published by the Bayerische
+   Akademie der Wissenschaften. Responsible for content: Prof. Dr. Maria Selig and
+   Dr. Monika Tausend.
+
+       Lemma list: https://dom-en-ligne.de/lemlist.php
+       Legal notice: https://dom.badw.de/fr/mentions-legales.html
+
+   DOM grants a bespoke permission, which the legal notice states as follows:
+
+       "Die Urheberrechte dieser Web-Site liegen vollständig bei der Bayerischen Akademie der
+        Wissenschaften."
+
+       "Diese Seiten und Dokumente dürfen nicht kommerziell verwertet werden."
+
+   Copying, printing, and distributing the pages and documents is permitted for informational
+   purposes, non-commercially, PROVIDED EVERY COPY CARRIES THE COPYRIGHT NOTICE:
+
+       © Bayerische Akademie der Wissenschaften — Dictionnaire de l'Occitan Médiéval (DOM),
+       https://dom.badw.de. Not for commercial use.
+
+--------------------------------------------------------------------------------------------
+6. Stanza benchmark table                           ODC-By 1.0, as far as Stanford states it
+--------------------------------------------------------------------------------------------
+   reference/stanza-ud-2.5-performance.csv holds the published test-set scores of the 100 
+   Stanza models released for Universal Dependencies 2.5, as distributed by the Stanza project. 
+   It is used only to place this corpus's scores in context, in one figure.
+
+   Stanza's performance page carries the only licence statement the project appears to make about
+   this material:
+
+       "To the extent that The Trustees of Leland Stanford Junior University have ownership and
+        rights over these language packs, all these Stanza language packs are made available
+        under the Open Data Commons Attribution License v1.0."
+       https://stanfordnlp.github.io/stanza/performance.html
+
+   Attribution: Stanza, Stanford NLP Group. https://stanfordnlp.github.io/stanza/
