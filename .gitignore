@@ -2,11 +2,18 @@
 .DS_Store
 .vscode/
 
-# regenerable artifacts
-# corpus_statistics.json is ~53 MB and derived; rebuild with:
+# regenerable artefacts
 data/reference/corpus_statistics.json
+
+# the comparison treebanks are fetched from UD
 data/corpora/*
 !data/corpora/la_marseille-*
+
+# the derived lemma lists
+data/lemmata/*
+!data/lemmata/marseille_lemmata.txt
+!data/lemmata/cltk_lemmata.txt
+!data/lemmata/lewis_lemmata.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
