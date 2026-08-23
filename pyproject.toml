@@ -1,0 +1,168 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "correction-as-annotation"
+version = "0.1.0"
+description = "Correction as Annotation: Bootstrapping a Dependency Parser for Documentary Medieval Latin"
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = [{ name = "Gabriel H. Pizzorno" }]
+requires-python = ">=3.11,<3.12"
+dependencies = [
+  "conllu",
+  # Pinned exactly: this is a first-party package, and a release that changed ConlluEvaluator's
+  # output would silently invalidate data/evaluation/results.json.
+  "conllu_tools==1.3.0",
+  "python-dotenv",
+  "regex",
+  "numpy",
+  "pandas",
+  "scipy",
+  "scikit-learn",
+  "statsmodels",
+  "matplotlib",
+  "seaborn",
+  "jenkspy",
+  "rapidfuzz",
+  "pyjarowinkler",
+  "tqdm",
+  "multiprocess",
+  "requests",
+  "beautifulsoup4",
+  "pyyaml",
+  "stanza==1.2.1",
+  "torch==2.5",
+]
+
+[project.optional-dependencies]
+notebooks = ["notebook", "ipython", "ipywidgets"]
+vectors = ["gensim"]
+dev = ["mypy", "ruff", "pytest", "types-requests"]
+
+[project.urls]
+Repository = "https://github.com/gpizzorno/correction-as-annotation"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+# https://github.com/charliermarsh/ruff#configuration
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+extend-include = ["*.ipynb"]
+
+[tool.ruff.lint]
+ignore = [
+  "D100",   # missing docstring in public module
+  "D104",   # missing docstring in public package
+  "FBT002", # boolean default in function definition
+  "RUF012", # mutable-class-default annotated with ClassVar
+  "T201", # print statements
+  "PTH123", # use Pathlib instead of built in open
+]
+select = [
+  "A",
+  "ARG",
+  "B",
+  "BLE",
+  "C4",
+  "C90",
+  "COM",
+  "D",
+  "DTZ",
+  "DJ",
+  "E",
+  "EM",
+  "F",
+  "FBT",
+  "FLY",
+  "G",
+  "I",
+  "ICN",
+  "INP",
+  "INT",
+  "ISC",
+  "N",
+  "PGH",
+  "PIE",
+  "PLC",
+  "PLE",
+  "PLR",
+  "PLW",
+  "PT",
+  "PTH",
+  "Q",
+  "RET",
+  "RUF",
+  "RSE",
+  "SLF",
+  "SIM",
+  "T",
+  "T10",
+  "T20",
+  "TID",
+  "TRY",
+  "UP",
+  "W",
+]
+
+[tool.ruff.lint.flake8-quotes]
+docstring-quotes = "double"
+inline-quotes = "single"
+
+[tool.ruff.format]
+quote-style = "single" # Prefer single quotes over double quotes
+  
+[tool.ruff.lint.isort]
+section-order = [
+  "future",
+  "standard-library",
+  "third-party",
+  "first-party",
+  "local-folder",
+]
+
+[tool.ruff.lint.per-file-ignores]
+"__init__.py" = ["E402"] # ignore import violations in init files
+"tests/*" = [
+  "D101",    # undocumented-public-class -- test classes are self-describing
+  "D102",    # undocumented-public-method -- ditto for test methods
+  "D103",    # undocumented-public-function
+  "B018",    # useless-expression
+  "B905",    # zip-without-explicit-strict
+  "INP001",  # implicit-namespace-package
+  "PLR0913", # too-many-arguments
+  "PLR2004", # magic-value-comparison -- expected values are the point of a test
+  "PLC0415", # import-outside-top-level -- the shim test imports on purpose
+  "S101",    # assert
+]
+"scripts/*" = [
+  "INP001",  # implicit-namespace-package -- these are entry points, not a package
+  "T201",    # print -- these are CLIs
+]
+
+[tool.ruff.lint.pycodestyle]
+max-line-length = 130 # to detect extra-long lines that the formatter can't automatically split
+
+[tool.mypy]
+disallow_any_generics = true
+disallow_incomplete_defs = true
+disallow_untyped_calls = true
+disallow_untyped_decorators = true
+disallow_untyped_defs = true
+enable_error_code = "ignore-without-code"
+exclude = [".venv/"]
+follow_imports = "normal"
+ignore_missing_imports = true
+no_implicit_optional = true
+no_implicit_reexport = true
+python_version = "3.11"
+show_error_codes = true
+show_error_context = true
+strict_equality = true
+strict_optional = true
+warn_redundant_casts = true
+warn_return_any = true
+warn_unused_ignores = true
