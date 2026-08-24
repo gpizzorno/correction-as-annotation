@@ -142,47 +142,47 @@ The repository follows a single organizing rule: the package operates on this re
 
 ### The Package
 
-▶ denotes a module with a command-line entry point, *i.e.*, it can be run as: `python -m bootstrapping.<name>`.
+Modules with a command-line entry point are denoted with ⚙︎ (they can be run as: `python -m bootstrapping.<name>`).
 
 **Foundations**
 
 | Module | Description |
 |---|---|
-| `config.py` | Every path used by the project, plus the registry of iterations reported in the paper. |
-| `io.py` | CoNLL-U, JSON, and plain-text readers, dispatched on file extension. |
-| `extractors.py` | Lemma cleaning, and extraction of unique-lemma and PoS counts from parsed text. |
-| `parsers.py` | Latin/Occitan classification via fuzzy lookup against references. These are loaded lazily so that dependent modules may operate before they are built. |
+| [`config.py`](/src/bootstrapping/config.py) | Every path used by the project, plus the registry of iterations reported in the paper. |
+| [`io.py`](/src/bootstrapping/io.py) | CoNLL-U, JSON, and plain-text readers, dispatched on file extension. |
+| [`extractors.py`](/src/bootstrapping/extractors.py) | Lemma cleaning, and extraction of unique-lemma and PoS counts from parsed text. |
+| [`parsers.py`](/src/bootstrapping/parsers.py) | Latin/Occitan classification via fuzzy lookup against references. These are loaded lazily so that dependent modules may operate before they are built. |
 
 **Building the Corpus and Other Resources**
 
 | Module | Description |
 |---|---|
-| `corpora.py` ▶ | Fetches the seven comparison treebanks from Universal Dependencies. |
-| `corpus/build.py` ▶ | Implements the three mechanical corrections of §5.2 (Roman numerals, the `NumForm` feature, and the `condam` lemma) |
-| `sampling.py` | Length-stratified batch selection (§5.3). |
-| `lexicon.py` ▶ | Constructs the domain lexicon and produces the gold-free master by subtraction (§4.4). |
-| `lemmata.py` ▶ | Builds lemma inventories per treebank and the two language references consumed by `parsers.py`. |
-| `statistics.py` ▶ | Compiles `corpus_statistics.json`, which underpins Tables 1, 4, and 8, as well as Figure 2. |
+| [`corpora.py`](/src/bootstrapping/corpora.py) ⚙︎ | Fetches the seven comparison treebanks from Universal Dependencies. |
+| [`corpus/build.py`](/src/bootstrapping/corpus/build.py) ⚙︎ | Implements the three mechanical corrections of §5.2 (Roman numerals, the `NumForm` feature, and the `condam` lemma) |
+| [`sampling.py`](/src/bootstrapping/sampling.py) | Length-stratified batch selection (§5.3). |
+| [`lexicon.py`](/src/bootstrapping/lexicon.py) ⚙︎ | Constructs the domain lexicon and produces the gold-free master by subtraction (§4.4). |
+| [`lemmata.py`](/src/bootstrapping/lemmata.py) ⚙︎ | Builds lemma inventories per treebank and the two language references consumed by `parsers.py`. |
+| [`statistics.py`](/src/bootstrapping/statistics.py) ⚙︎ | Compiles `corpus_statistics.json`, which underpins Tables 1, 4, and 8, as well as Figure 2. |
 
 **Training, Evaluation, and Analysis**
 
 | Module | Description |
 |---|---|
-| `training.py` | Training-set construction and the Stanza training procedure (§5.7). |
-| `evaluation.py` | Executes a model configuration over the gold standard and computes CoNLL 2018 metrics. |
-| `consistency.py` | Measures intra-annotator consistency over repeated constructions (Table 5, §5.6). |
-| `learning.py` | Shared loading and frame construction for the learning-dynamics analyses of §6.3. |
-| `analysis/comparison.py` | Prediction-against-gold alignment, bootstrap, and paired *t*-tests, as well as error tracking and construction classification. |
-| `sentence_metrics/` | Per-sentence measures used in §4.7: `token_count`, `tree_depth`, `distance` (mean dependency distance), `gbsc`. |
+| [`training.py`](/src/bootstrapping/training.py) | Training-set construction and the Stanza training procedure (§5.7). |
+| [`evaluation.py`](/src/bootstrapping/evaluation.py) | Executes a model configuration over the gold standard and computes CoNLL 2018 metrics. |
+| [`consistency.py`](/src/bootstrapping/consistency.py) | Measures intra-annotator consistency over repeated constructions (Table 5, §5.6). |
+| [`learning.py`](/src/bootstrapping/learning.py) | Shared loading and frame construction for the learning-dynamics analyses of §6.3. |
+| [`analysis/comparison.py`](/src/bootstrapping/analysis/comparison.py) | Prediction-against-gold alignment, bootstrap, and paired *t*-tests, as well as error tracking and construction classification. |
+| [`sentence_metrics/`](/src/bootstrapping/sentence_metrics/) | Per-sentence measures used in §4.7: [`token_count`](/src/bootstrapping/sentence_metrics/token_count.py), [`tree_depth`](/src/bootstrapping/sentence_metrics/tree_depth.py), [`distance`](/src/bootstrapping/sentence_metrics/distance.py) (mean dependency distance), [`gbsc`](/src/bootstrapping/sentence_metrics/gbsc.py). |
 
 **Reporting**
 
 | Module | Description |
 |---|---|
-| `report/tables.py` ▶ | Generates the paper's tables as LaTeX. |
-| `report/paper_figures.py` ▶ | Produces the paper's 6 figures. |
-| `report/figures.py` | Shared `matplotlib` styling. |
-| `report/display.py` | Renders a LaTeX table as HTML or aligned text (for display in `pipeline.ipynb`). |
+| [`report/tables.py`](/src/bootstrapping/report/tables.py) ⚙︎ | Generates the paper's tables as LaTeX. |
+| [`report/paper_figures.py`](/src/bootstrapping/report/paper_figures.py) ⚙︎ | Produces the paper's 6 figures. |
+| [`report/figures.py`](/src/bootstrapping/report/figures.py) | Shared `matplotlib` styling. |
+| [`report/display.py`](/src/bootstrapping/report/display.py) | Renders a LaTeX table as HTML or aligned text (for display in [`pipeline.ipynb`](/pipeline.ipynb)). |
 
 ### The Scripts
 
@@ -190,12 +190,12 @@ The external resources required by each script are summarized in the second colu
 
 | Script | Reaches for |
 |---|---|
-| `fetch_models.py` | Zenodo to download, verify, and install the models into `STANZA_RESOURCES_DIR`. |
-| `build_ensemble_models.py` | The model store, to patch the domain lexicon into each lemmatizer model. |
-| `evaluate_models.py` | The trained models to parse the gold standard with each configuration and write results to `data/evaluation/`. |
-| `train_iteration.py` | A GPU to construct a single iteration's UD treebank and print or execute the Stanza training commands.|
-| `convert_pretrain.py` | The word vectors to convert them into the format current Stanza can consume. |
-| `zero_shot_baseline.py` | A second virtual environment using current Stanza to run the §4.5 comparison reported in Table 3. |
+| [`fetch_models.py`](/scripts/fetch_models.py) | Zenodo to download, verify, and install the models into `STANZA_RESOURCES_DIR`. |
+| [`build_ensemble_models.py`](/scripts/build_ensemble_models.py) | The model store, to patch the domain lexicon into each lemmatizer model. |
+| [`evaluate_models.py`](/scripts/evaluate_models.py) | The trained models to parse the gold standard with each configuration and write results to `data/evaluation/`. |
+| [`train_iteration.py`](/scripts/train_iteration.py) | A GPU to construct a single iteration's UD treebank and print or execute the Stanza training commands.|
+| [`convert_pretrain.py`](/scripts/convert_pretrain.py) | The word vectors to convert them into the format current Stanza can consume. |
+| [`zero_shot_baseline.py`](/scripts/zero_shot_baseline.py) | A second virtual environment using current Stanza to run the §4.5 comparison reported in Table 3. |
 
 ## Licences
 
