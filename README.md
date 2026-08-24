@@ -132,10 +132,9 @@ The command `scripts/train_iteration.py 9` constructs iteration 9's UD treebank 
 
 ```
 src/bootstrapping/    the package: everything that reads this repository's own data
-scripts/              entry points that reach outside it, *e.g.* the model store, another venv, a GPU
-tests/                pins the lexicon derivation, the lemma lists, and the model fetcher
-data/                 corpus, gold standard, seed batches, evaluation output, lexicon
-pipeline.ipynb        the paper, section by section, regenerating as it goes
+scripts/              entry points that reach outside it
+data/                 corpus, gold standard, seeds, evaluation output, lexicon
+pipeline.ipynb        the paper, section by section, from the data
 ```
 
 The repository follows a single organizing rule: the package operates on this repository's data while the scripts access resources external to the repository (for example the model store, a separate virtual environment, or a GPU).
