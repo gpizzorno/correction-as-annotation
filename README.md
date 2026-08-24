@@ -203,7 +203,7 @@ The repository uses multiple licences.
 | Resource | Licence |
 |---|---|
 | Code (`src/`, `scripts/`) | MIT, see [`LICENSE`](LICENSE). |
-| Datasets (`data/`) | Documented file-by-file, with provenance and licensing information. See [`data/LICENSE`](data/LICENSE). |
+| Datasets (`data/`) | Documented file-by-file in [`data/LICENSE`](data/LICENSE). |
 | Trained models | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), as stated in the [Zenodo deposit](https://doi.org/10.5281/zenodo.22048602). |
 
 ## Citation
