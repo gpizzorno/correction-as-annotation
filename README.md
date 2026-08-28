@@ -75,7 +75,7 @@ python3.11 -m venv .venv
 .venv/bin/pip install -r requirements.txt
 ```
 
-`requirements.txt` pins the resolved dependency versions and installs this package itself in editable mode with the `notebooks` and `vectors` extras. The dependency specification proper lives in [`pyproject.toml`](pyproject.toml). Add the `dev` extra to obtain `ruff`, `mypy`, and `pytest`.
+`requirements.txt` pins the resolved dependency versions and installs this package itself in editable mode with the `notebooks` and `vectors` extras. The dependency specification proper lives in [`pyproject.toml`](pyproject.toml). Add the `dev` extra to obtain `ruff`, `ty`, and `pytest`.
 
 ### Quick start
 

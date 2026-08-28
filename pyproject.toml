@@ -39,7 +39,7 @@ dependencies = [
 [project.optional-dependencies]
 notebooks = ["notebook", "ipython", "ipywidgets"]
 vectors = ["gensim"]
-dev = ["mypy", "ruff", "pytest", "types-requests"]
+dev = ["ty", "ruff", "pytest", "types-requests"]
 
 [project.urls]
 Repository = "https://github.com/gpizzorno/correction-as-annotation"
@@ -146,23 +146,13 @@ section-order = [
 [tool.ruff.lint.pycodestyle]
 max-line-length = 130 # to detect extra-long lines that the formatter can't automatically split
 
-[tool.mypy]
-disallow_any_generics = true
-disallow_incomplete_defs = true
-disallow_untyped_calls = true
-disallow_untyped_decorators = true
-disallow_untyped_defs = true
-enable_error_code = "ignore-without-code"
-exclude = [".venv/"]
-follow_imports = "normal"
-ignore_missing_imports = true
-no_implicit_optional = true
-no_implicit_reexport = true
-python_version = "3.11"
-show_error_codes = true
-show_error_context = true
-strict_equality = true
-strict_optional = true
-warn_redundant_casts = true
-warn_return_any = true
-warn_unused_ignores = true
+[tool.ty.environment]
+python-version = "3.11"
+python-platform = "linux"
+extra-paths = ["stubs"]
+root = ["."]
+
+[tool.ty.src]
+exclude = [
+  ".venv/",
+]
