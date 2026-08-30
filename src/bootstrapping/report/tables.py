@@ -397,7 +397,7 @@ def consistency() -> str:
         ],
         body_rows=body,
         caption=(
-            'Intra-annotator consistency, as percentage agreement between analyses assigned to '
+            'Intra-annotator consistency, as percentage agreement between analyzes assigned to '
             'the same or nearly the same word sequence in different annotation rounds. The last '
             'row is a boundary check rather than a result since at 50\\% similarity the groups are no '
             'longer duplicates, and head agreement collapses accordingly.'
@@ -551,9 +551,9 @@ def cross_treebank_performance() -> str:
             'The final reported model against every treebank baseline on the DALME-Marseille gold '
             'standard, over the same metrics as Table~\\ref{tab:pre-trained-performance}. '
             'Every column uses the plain models except \\emph{Ens.}, which uses the ensemble of the '
-            'sequence-to-sequence lemmatiser with domain lexicon lookup for every row alike. '
+            'sequence-to-sequence lemmatizer with domain lexicon lookup for every row alike. '
             f'\\normalsize{label}\\scriptsize~is only ever run in that configuration, so it has no plain '
-            'lemmatisation figure to report. \\emph{Best of 5} is the highest of the five treebank '
+            'lemmatization figure to report. \\emph{Best of 5} is the highest of the five treebank '
             'models in each column, which is not the same model in every column, and $\\Delta$ is '
             f"the final model's margin over it. Training sentences and tokens for~\\normalsize{label}\\scriptsize~are "
             'the pooled corrected sentences, for the baselines, the size of the treebank the '
