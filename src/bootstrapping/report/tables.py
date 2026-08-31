@@ -170,7 +170,7 @@ def treebank_stats() -> str:
     names = [
         'Treebank',
         'Genre',
-        'Temporal Coverage',
+        'Temp. Coverage',
         'Sentences',
         'Tokens',
         'Words',
@@ -194,7 +194,7 @@ def treebank_stats() -> str:
         )
 
     return _latex_table(
-        spec='LLLRRRRR',
+        spec='Xllrrrrr',
         header_rows=[[_header(name) for name in names]],
         body_rows=rows,
         caption=(
@@ -205,6 +205,7 @@ def treebank_stats() -> str:
         ),
         label='tab:treebank-stats',
         wide=True,
+        target='tabularx',
     )
 
 
