@@ -149,7 +149,6 @@ max-line-length = 130 # to detect extra-long lines that the formatter can't auto
 [tool.ty.environment]
 python-version = "3.11"
 python-platform = "linux"
-extra-paths = ["stubs"]
 root = ["."]
 
 [tool.ty.src]
