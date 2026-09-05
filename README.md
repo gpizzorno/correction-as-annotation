@@ -83,7 +83,7 @@ To confirm the installation and see the final model parse a sentence:
 
 ```bash
 .venv/bin/python -c "import stanza; stanza.download('la')"   # once, to create Stanza's registry
-.venv/bin/python scripts/fetch_models.py s9                  # the final model, ~110 MB
+.venv/bin/python scripts/fetch_models.py s9                  # the final model, ~101 MB
 ```
 
 ```python
