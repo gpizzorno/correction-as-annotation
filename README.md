@@ -209,7 +209,7 @@ The repository uses multiple licences.
 ## Citation
 
 ```bibtex
-@unpublished{pizzorno_correction_as_annotation,
+@misc{pizzorno_correction_as_annotation,
   author = {Pizzorno, Gabriel H.},
   title  = {Correction as Annotation: Bootstrapping a Dependency Parser
             for Documentary Medieval Latin},
